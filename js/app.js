@@ -717,7 +717,12 @@ function renderPlayerPage(riotId) {
         <span style="display:inline-flex;align-items:center;gap:6px;" title="Discord">
           <img src="https://cdn.simpleicons.org/discord/ffffff" width="20" height="20" alt="Discord">
           <span class="discord-tag">${socials.discord}</span>
-          <button class="copy-discord" data-copy="${socials.discord}" style="background:none;border:none;color:var(--muted);cursor:pointer;font-size:0.85rem;" title="Copiar">📋</button>
+          <button class="copy-discord" data-copy="${socials.discord}" style="background:none;border:none;color:var(--muted);cursor:pointer;padding:2px;display:inline-flex;align-items:center;" title="Copiar">
+            <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+              <rect x="9" y="9" width="13" height="13" rx="2" ry="2"></rect>
+              <path d="M5 15H4a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2h9a2 2 0 0 1 2 2v1"></path>
+            </svg>
+          </button>
         </span>
       ` : ''}
     </div>
@@ -768,9 +773,8 @@ document.addEventListener('click', (e) => {
   if (!btn) return;
   const text = btn.dataset.copy;
   navigator.clipboard.writeText(text).then(() => {
-    const original = btn.textContent;
-    btn.textContent = '✓';
-    setTimeout(() => { btn.textContent = original; }, 1200);
+    btn.style.color = '#4ade80';
+    setTimeout(() => { btn.style.color = 'var(--muted)'; }, 1200);
   }).catch(() => {
     alert('Não foi possível copiar.');
   });
