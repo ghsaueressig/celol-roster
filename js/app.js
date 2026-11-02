@@ -714,15 +714,17 @@ function renderPlayerPage(riotId) {
       ${socials.x ? `<a href="${socials.x}" target="_blank" title="X"><img src="https://cdn.simpleicons.org/x/ffffff" width="20" height="20" alt="X"></a>` : ''}
       ${socials.instagram ? `<a href="${socials.instagram}" target="_blank" title="Instagram"><img src="https://cdn.simpleicons.org/instagram/ffffff" width="20" height="20" alt="Instagram"></a>` : ''}
       ${socials.discord ? `
-        <span style="display:inline-flex;align-items:center;gap:6px;" title="Discord">
-          <img src="https://cdn.simpleicons.org/discord/ffffff" width="20" height="20" alt="Discord">
-          <span class="discord-tag">${socials.discord}</span>
-          <button class="copy-discord" data-copy="${socials.discord}" style="background:none;border:none;color:var(--muted);cursor:pointer;padding:2px;display:inline-flex;align-items:center;" title="Copiar">
-            <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
-              <rect x="9" y="9" width="13" height="13" rx="2" ry="2"></rect>
-              <path d="M5 15H4a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2h9a2 2 0 0 1 2 2v1"></path>
-            </svg>
-          </button>
+        <span class="discord-wrap" style="position:relative;display:inline-flex;align-items:center;">
+          <img src="https://cdn.simpleicons.org/discord/ffffff" width="20" height="20" alt="Discord" style="cursor:pointer;">
+          <span class="discord-popup" style="display:none;position:absolute;left:28px;top:50%;transform:translateY(-50%);background:#1e293b;border:1px solid var(--border);border-radius:6px;padding:6px 10px;white-space:nowrap;z-index:10;align-items:center;gap:6px;">
+            <span>${socials.discord}</span>
+            <button class="copy-discord" data-copy="${socials.discord}" style="background:none;border:none;color:var(--muted);cursor:pointer;padding:2px;display:inline-flex;align-items:center;" title="Copiar">
+              <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                <rect x="9" y="9" width="13" height="13" rx="2" ry="2"></rect>
+                <path d="M5 15H4a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2h9a2 2 0 0 1 2 2v1"></path>
+              </svg>
+            </button>
+          </span>
         </span>
       ` : ''}
     </div>
@@ -767,8 +769,24 @@ renderTeams = function() {
   });
 };
 
-// Copy Discord tag
+// Discord popup (hover + click)
+document.addEventListener('mouseover', (e) => {
+  const wrap = e.target.closest('.discord-wrap');
+  if (wrap) wrap.querySelector('.discord-popup').style.display = 'inline-flex';
+});
+document.addEventListener('mouseout', (e) => {
+  const wrap = e.target.closest('.discord-wrap');
+  if (wrap && !wrap.contains(e.relatedTarget)) {
+    wrap.querySelector('.discord-popup').style.display = 'none';
+  }
+});
 document.addEventListener('click', (e) => {
+  const wrap = e.target.closest('.discord-wrap');
+  if (wrap && e.target.tagName === 'IMG') {
+    const popup = wrap.querySelector('.discord-popup');
+    popup.style.display = popup.style.display === 'none' ? 'inline-flex' : 'none';
+  }
+});
   const btn = e.target.closest('.copy-discord');
   if (!btn) return;
   const text = btn.dataset.copy;
