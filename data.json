@@ -1,0 +1,6099 @@
+{
+  "teams": [
+    {
+      "division": "CELOL A",
+      "team": "emBRAZA! Esports",
+      "tag": "BRA",
+      "titulares": [
+        {
+          "player": "Genos#BIG",
+          "role": "Jungle"
+        },
+        {
+          "player": "sant#0803",
+          "role": "Bot"
+        },
+        {
+          "player": "beta32#ISA",
+          "role": "Top"
+        },
+        {
+          "player": "Coxinha748#Hades",
+          "role": "Mid"
+        },
+        {
+          "player": "fer1#safi",
+          "role": "Support"
+        }
+      ],
+      "reservas": [
+        {
+          "player": "One Jump Cat#Djoko",
+          "role": "Coach",
+          "nick": "Djoko"
+        },
+        {
+          "player": "ebidi EMBRAZADO#nu ze",
+          "role": "Coach",
+          "nick": "ebidi"
+        },
+        {
+          "player": "Gnomo#rules",
+          "role": "Manager",
+          "nick": "Gnomo"
+        }
+      ]
+    },
+    {
+      "division": "CELOL A",
+      "team": "Invictus Team",
+      "tag": "IVT",
+      "titulares": [
+        {
+          "player": "i came back#22222",
+          "role": "Bot",
+          "nick": "Schastye"
+        },
+        {
+          "player": "Faizer#000",
+          "role": "Top"
+        },
+        {
+          "player": "Joy Boy#n n n",
+          "role": "Mid",
+          "nick": "Nukenin"
+        },
+        {
+          "player": "severo#sona",
+          "role": "Support"
+        },
+        {
+          "player": "kennedy#miyah",
+          "role": "Jungle"
+        }
+      ],
+      "reservas": [
+        {
+          "player": "Citronella#Limao",
+          "role": "Support",
+          "nick": "Limãozinho"
+        },
+        {
+          "player": "Mercenario#2049",
+          "role": "Bot"
+        },
+        {
+          "player": "game chand me#br1",
+          "role": "Jungle",
+          "nick": "eto"
+        },
+        {
+          "player": "tapom#br1",
+          "role": "Mid"
+        },
+        {
+          "player": "Nwrr Disciple#OwO",
+          "role": "Top",
+          "nick": "Disciple"
+        }
+      ]
+    },
+    {
+      "division": "CELOL A",
+      "team": "Juventus Gaming Red",
+      "tag": "JUV",
+      "titulares": [
+        {
+          "player": "Punch#abcde",
+          "role": "Jungle",
+          "nick": "Punch"
+        },
+        {
+          "player": "King#Bong",
+          "role": "Mid",
+          "nick": "King"
+        },
+        {
+          "player": "COACH Nändö#Maria",
+          "role": "Coach",
+          "nick": "Nando"
+        },
+        {
+          "player": "Watonto#waton",
+          "role": "Bot",
+          "nick": "Watonto"
+        },
+        {
+          "player": "GLZ Vvenomous#GLZ",
+          "role": "Support",
+          "nick": "Vvenomous"
+        }
+      ],
+      "reservas": [
+        {
+          "player": "C H A F U#JINX",
+          "role": "Bot",
+          "nick": "Chafu"
+        },
+        {
+          "player": "Zbroto#lenda",
+          "role": "Top",
+          "nick": "Zbroto"
+        }
+      ]
+    },
+    {
+      "division": "CELOL A",
+      "team": "LOS Academy",
+      "tag": "LOS",
+      "titulares": [
+        {
+          "player": "Velthan#sup",
+          "role": "Support",
+          "nick": "Velthan"
+        },
+        {
+          "player": "Humi#iwnl",
+          "role": "Bot",
+          "nick": "Humi"
+        },
+        {
+          "player": "Dark Harvest#win",
+          "role": "Mid",
+          "nick": "DarkHarvest"
+        },
+        {
+          "player": "Tiran#lol",
+          "role": "Top",
+          "nick": "Tiran"
+        },
+        {
+          "player": "Ophelia wilde#Saad",
+          "role": "Jungle",
+          "nick": "Saad"
+        }
+      ],
+      "reservas": [
+        {
+          "player": "Moita#Coach",
+          "role": "Coach",
+          "nick": "Moita"
+        },
+        {
+          "player": "Void#isagi",
+          "role": "Jungle",
+          "nick": "Void"
+        }
+      ]
+    },
+    {
+      "division": "CELOL A",
+      "team": "Marere E-Sports",
+      "tag": "MRE",
+      "titulares": [
+        {
+          "player": "Eradan2#Dan2",
+          "role": "Top",
+          "nick": "Eradan"
+        },
+        {
+          "player": "Barou Shoei#00001",
+          "role": "Mid",
+          "nick": "Andyse"
+        },
+        {
+          "player": "guga fighter#001",
+          "role": "Jungle",
+          "nick": "Guga"
+        },
+        {
+          "player": "kaiks#kaiks",
+          "role": "Support"
+        },
+        {
+          "player": "shimatori#kzn",
+          "role": "Bot",
+          "nick": "Shima"
+        }
+      ],
+      "reservas": [
+        {
+          "player": "rosayuzzy#pinky",
+          "role": "Bot",
+          "nick": "Rosa"
+        },
+        {
+          "player": "Aloprasprimemode#goat",
+          "role": "Top",
+          "nick": "Alopras"
+        },
+        {
+          "player": "delighted byron#peak",
+          "role": "Coach",
+          "nick": "byron"
+        },
+        {
+          "player": "ig meunorth#segue",
+          "role": "Coach",
+          "nick": "Bonas"
+        },
+        {
+          "player": "rSalesjr#1203",
+          "role": "Manager",
+          "nick": "Salesjr"
+        }
+      ]
+    },
+    {
+      "division": "CELOL A",
+      "team": "Neon eSports",
+      "tag": "NEON",
+      "titulares": [
+        {
+          "player": "Glanks#BR1",
+          "role": "Bot"
+        },
+        {
+          "player": "Jun1or#noob",
+          "role": "Top"
+        },
+        {
+          "player": "Linnas#br1",
+          "role": "Support"
+        },
+        {
+          "player": "lamani#blanc",
+          "role": "Mid"
+        },
+        {
+          "player": "Xogum#k111",
+          "role": "Jungle"
+        }
+      ],
+      "reservas": [
+        {
+          "player": "Chinek#lau",
+          "role": "Jungle"
+        },
+        {
+          "player": "Lusqueta#루스케타",
+          "role": "Mid"
+        },
+        {
+          "player": "kadú#MAX",
+          "role": "Support",
+          "nick": "kadú"
+        },
+        {
+          "player": "ItzMagras#mgr",
+          "role": "Mid",
+          "nick": "Magras"
+        }
+      ]
+    },
+    {
+      "division": "CELOL A",
+      "team": "NKZ VORAX",
+      "tag": "NKZ",
+      "titulares": [
+        {
+          "player": "Trader#1234",
+          "role": "Bot"
+        },
+        {
+          "player": "GEENA#66666",
+          "role": "Mid",
+          "nick": "Geena"
+        },
+        {
+          "player": "KRATOS#RAGNA",
+          "role": "Top"
+        },
+        {
+          "player": "No Have enemies#мир",
+          "role": "Jungle",
+          "nick": "Nightmare"
+        },
+        {
+          "player": "in the pool#oxla",
+          "role": "Support",
+          "nick": "Oxala"
+        }
+      ],
+      "reservas": [
+        {
+          "player": "NKZ Reach#SONA",
+          "role": "Support",
+          "nick": "Reach"
+        },
+        {
+          "player": "Alves#brubs",
+          "role": "Coach",
+          "nick": "Alves"
+        },
+        {
+          "player": "bad decisions#hack",
+          "role": "Jungle",
+          "nick": "Blackzera"
+        },
+        {
+          "player": "peaceful warrior#ntfk",
+          "role": "Jungle",
+          "nick": "Nero"
+        }
+      ]
+    },
+    {
+      "division": "CELOL A",
+      "team": "Shark Bite Furious Gaming Black",
+      "tag": "SBK",
+      "titulares": [
+        {
+          "player": "SBK Thunder#TOP",
+          "role": "Top"
+        },
+        {
+          "player": "SBK HadesX 冥#BIXO",
+          "role": "Jungle",
+          "nick": "HadesX"
+        },
+        {
+          "player": "SBK Legolas#SKTT1",
+          "role": "Bot"
+        },
+        {
+          "player": "SBK Guizin#17y",
+          "role": "Mid"
+        },
+        {
+          "player": "Sloth#Fool",
+          "role": "Jungle",
+          "nick": "Sloth"
+        }
+      ],
+      "reservas": [
+        {
+          "player": "havim#1014",
+          "role": "Support"
+        },
+        {
+          "player": "Raisy#Dex",
+          "role": "Coach",
+          "nick": "Bonekinha"
+        }
+      ]
+    },
+    {
+      "division": "CELOL A",
+      "team": "Shark Bite Furious Gaming White",
+      "tag": "SBW",
+      "titulares": [
+        {
+          "player": "SBW Azul#0106",
+          "role": "Support"
+        },
+        {
+          "player": "SBW Germanin#SAK1",
+          "role": "Top"
+        },
+        {
+          "player": "Xogum#k111",
+          "role": "Jungle"
+        },
+        {
+          "player": "SBW Itim#085",
+          "role": "Mid"
+        },
+        {
+          "player": "Matsasu#inat",
+          "role": "Bot"
+        }
+      ],
+      "reservas": [
+        {
+          "player": "Absolute#carry",
+          "role": "Bot"
+        },
+        {
+          "player": "Prinz#lvg",
+          "role": "Mid"
+        },
+        {
+          "player": "LUNAMI#PSIC",
+          "role": "Support"
+        }
+      ]
+    },
+    {
+      "division": "CELOL A",
+      "team": "Smoke Tram Ascension",
+      "tag": "STA",
+      "titulares": [
+        {
+          "player": "fietz#KR2",
+          "role": "Support"
+        },
+        {
+          "player": "ZEUSKHANSHYSIWOO#TOP",
+          "role": "Top",
+          "nick": "Tiscky"
+        },
+        {
+          "player": "Charmander#divas",
+          "role": "Mid"
+        },
+        {
+          "player": "NARO#AD333",
+          "role": "Bot",
+          "nick": "Naro"
+        },
+        {
+          "player": "Dhominik#GOAT",
+          "role": "Jungle"
+        }
+      ],
+      "reservas": [
+        {
+          "player": "Fasolo#br1",
+          "role": "Top"
+        }
+      ]
+    },
+    {
+      "division": "CELOL A",
+      "team": "Smoke Tram eSports",
+      "tag": "STE",
+      "titulares": [
+        {
+          "player": "ivaD#Avê",
+          "role": "Support"
+        },
+        {
+          "player": "hotpie#0802",
+          "role": "Bot",
+          "nick": "HotPie"
+        },
+        {
+          "player": "Nihil#Avê",
+          "role": "Top"
+        },
+        {
+          "player": "Dazai Ryuu#Klein",
+          "role": "Mid",
+          "nick": "Klein"
+        },
+        {
+          "player": "Dhominik#GOAT",
+          "role": "Jungle"
+        }
+      ],
+      "reservas": [
+        {
+          "player": "inori#lrsz",
+          "role": "Mid",
+          "nick": "Louris"
+        },
+        {
+          "player": "Knight#0363",
+          "role": "Bot",
+          "nick": "Hollow"
+        },
+        {
+          "player": "VOA RIP EDMAERIN#BR2",
+          "role": "Bot",
+          "nick": "Janavi"
+        },
+        {
+          "player": "detas#avê",
+          "role": "Jungle",
+          "nick": "detas"
+        }
+      ]
+    },
+    {
+      "division": "CELOL A",
+      "team": "Sphere",
+      "tag": "SPH",
+      "titulares": [],
+      "reservas": []
+    },
+    {
+      "division": "CELOL B",
+      "team": "Alvora Gaming",
+      "tag": "ALV",
+      "titulares": [
+        {
+          "player": "Lorelay#hunt",
+          "role": "Jungle"
+        },
+        {
+          "player": "ySkyTech#BR1",
+          "role": "Support"
+        },
+        {
+          "player": "Stay Gold#Xande",
+          "role": "Top"
+        },
+        {
+          "player": "FetKira#Barou",
+          "role": "Bot"
+        },
+        {
+          "player": "Hora Extra#Kento",
+          "role": "Mid"
+        }
+      ],
+      "reservas": [
+        {
+          "player": "frança#menok",
+          "role": "Support",
+          "nick": "frança"
+        },
+        {
+          "player": "zKyou#br1",
+          "role": "Mid"
+        },
+        {
+          "player": "sangyu14#kr2",
+          "role": "Mid"
+        },
+        {
+          "player": "(sem Riot ID, jogador #1507)",
+          "role": "Support"
+        }
+      ]
+    },
+    {
+      "division": "CELOL B",
+      "team": "BaronX",
+      "tag": "BRX",
+      "titulares": [
+        {
+          "player": "osaka san#osaka",
+          "role": "Top"
+        },
+        {
+          "player": "kaijiallwin#777",
+          "role": "Mid"
+        },
+        {
+          "player": "Zähir#THgod",
+          "role": "Support"
+        },
+        {
+          "player": "Gabu#mind",
+          "role": "Bot"
+        },
+        {
+          "player": "Gavinzera#br2",
+          "role": "Jungle"
+        }
+      ],
+      "reservas": [
+        {
+          "player": "L9 LITO SOUZA#MACHO",
+          "role": "Top",
+          "nick": "LITO"
+        },
+        {
+          "player": "IMGOINGBACKTO505#me3",
+          "role": "Bot",
+          "nick": "505"
+        },
+        {
+          "player": "qzwq#sleep",
+          "role": "Support"
+        },
+        {
+          "player": "jhntn#0000",
+          "role": "Support"
+        }
+      ]
+    },
+    {
+      "division": "CELOL B",
+      "team": "Botafogo e-Sports",
+      "tag": "BOT",
+      "titulares": [
+        {
+          "player": "PRx#mnls",
+          "role": "Jungle",
+          "nick": "PRX"
+        },
+        {
+          "player": "Maya#mym",
+          "role": "Manager",
+          "nick": "Maya"
+        },
+        {
+          "player": "Chifre#BR1",
+          "role": "Bot"
+        },
+        {
+          "player": "Yikz#BR2",
+          "role": "Top"
+        },
+        {
+          "player": "skyyy#grizo",
+          "role": "Mid",
+          "nick": "GuinzZ"
+        }
+      ],
+      "reservas": [
+        {
+          "player": "Ruler122#145",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "division": "CELOL B",
+      "team": "Docta Esport",
+      "tag": "DOC",
+      "titulares": [
+        {
+          "player": "Jim Hawkins#Kai",
+          "role": "Bot",
+          "nick": "Kaihua"
+        },
+        {
+          "player": "Sainz1#BR1",
+          "role": "Jungle",
+          "nick": "Sainz"
+        },
+        {
+          "player": "Lithium#仁仁仁",
+          "role": "Mid",
+          "nick": "Renn"
+        },
+        {
+          "player": "Cholardus#br1",
+          "role": "Support",
+          "nick": "Principe"
+        },
+        {
+          "player": "Remixer#MLK",
+          "role": "Top"
+        }
+      ],
+      "reservas": [
+        {
+          "player": "Headlock#999",
+          "role": "Jungle"
+        },
+        {
+          "player": "Laure#xdxd",
+          "role": "Support"
+        },
+        {
+          "player": "YaseK#Ego",
+          "role": "Mid"
+        },
+        {
+          "player": "Артём Чёрный#Br2",
+          "role": "Coach",
+          "nick": "Heartless"
+        }
+      ]
+    },
+    {
+      "division": "CELOL B",
+      "team": "Final Level",
+      "tag": "FLL",
+      "titulares": [
+        {
+          "player": "FL Hiro#415",
+          "role": "Top"
+        },
+        {
+          "player": "Deep Purked#DEEP",
+          "role": "Support"
+        },
+        {
+          "player": "I Renny I#r194",
+          "role": "Jungle",
+          "nick": "Renny"
+        },
+        {
+          "player": "FL Rett#BR10",
+          "role": "Mid"
+        },
+        {
+          "player": "Skyllen#2436",
+          "role": "Bot"
+        }
+      ],
+      "reservas": [
+        {
+          "player": "FL Lotus#12x",
+          "role": "Jungle"
+        },
+        {
+          "player": "dsadas#br1",
+          "role": "Bot"
+        },
+        {
+          "player": "MarcelinReformed#SoloQ",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "division": "CELOL B",
+      "team": "Final Level Academy",
+      "tag": "FLA",
+      "titulares": [
+        {
+          "player": "Aluucard#BR1",
+          "role": "Support"
+        },
+        {
+          "player": "FL Cristijunio#kiki",
+          "role": "Top"
+        },
+        {
+          "player": "Erling Haaland#RET",
+          "role": "Support"
+        },
+        {
+          "player": "FL BarbosaRX#1515",
+          "role": ""
+        },
+        {
+          "player": "FL ZisteR#ADC",
+          "role": "Bot"
+        }
+      ],
+      "reservas": [
+        {
+          "player": "FL Thaleco#USP",
+          "role": "Bot"
+        },
+        {
+          "player": "FL Fribasss#085",
+          "role": ""
+        },
+        {
+          "player": "Zeoq#ego",
+          "role": "Mid"
+        },
+        {
+          "player": "Morfpheu#br1",
+          "role": "Jungle"
+        },
+        {
+          "player": "자유르#LCK",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "division": "CELOL B",
+      "team": "Final Level Core",
+      "tag": "FLC",
+      "titulares": [
+        {
+          "player": "LittleTeclas#0402",
+          "role": "Jungle",
+          "nick": "Teclas"
+        },
+        {
+          "player": "Oxossi#SDK",
+          "role": ""
+        },
+        {
+          "player": "SSolo lol#SSolo",
+          "role": ""
+        },
+        {
+          "player": "Gishi#1984",
+          "role": "Mid",
+          "nick": "Gishi"
+        },
+        {
+          "player": "rukawa#333",
+          "role": ""
+        }
+      ],
+      "reservas": [
+        {
+          "player": "FL Kizemi  愛#kzmn",
+          "role": "",
+          "nick": "Kizemi"
+        }
+      ]
+    },
+    {
+      "division": "CELOL B",
+      "team": "INFINITY GAMING",
+      "tag": "IGG",
+      "titulares": [
+        {
+          "player": "XRS69#KOREA",
+          "role": "Bot"
+        },
+        {
+          "player": "Fitinha#BR1",
+          "role": "Mid"
+        },
+        {
+          "player": "IG Thranduil#LOTR",
+          "role": "Jungle"
+        },
+        {
+          "player": "Beiras#BR1",
+          "role": "Top"
+        },
+        {
+          "player": "Mihawkx#Br1",
+          "role": "Support"
+        }
+      ],
+      "reservas": [
+        {
+          "player": "lofí#Br1",
+          "role": "Bot"
+        },
+        {
+          "player": "Minazuki#BR3",
+          "role": "Top"
+        },
+        {
+          "player": "Joni Cabritinha#BR1",
+          "role": "Jungle"
+        },
+        {
+          "player": "Tarzan Sergipano#BR1",
+          "role": "Top"
+        }
+      ]
+    },
+    {
+      "division": "CELOL B",
+      "team": "Juventus Gaming White",
+      "tag": "JUV",
+      "titulares": [
+        {
+          "player": "Juv Confia#SCCP",
+          "role": "Top",
+          "nick": "Confia"
+        },
+        {
+          "player": "JUV Veidy#weidy",
+          "role": "Mid",
+          "nick": "Veidy"
+        },
+        {
+          "player": "juv dante#sup",
+          "role": "Support",
+          "nick": "dante"
+        },
+        {
+          "player": "JUV Small#IVK",
+          "role": "Jungle",
+          "nick": "Small"
+        },
+        {
+          "player": "JUV NiuKo#poy",
+          "role": "Bot",
+          "nick": "NiuKo"
+        }
+      ],
+      "reservas": [
+        {
+          "player": "Shaka#vcb",
+          "role": "Jungle"
+        }
+      ]
+    },
+    {
+      "division": "CELOL B",
+      "team": "M7 ORANGE",
+      "tag": "M7O",
+      "titulares": [],
+      "reservas": []
+    },
+    {
+      "division": "CELOL B",
+      "team": "Marere Academy",
+      "tag": "MRE",
+      "titulares": [
+        {
+          "player": "Colorado 10#SUL",
+          "role": "Bot",
+          "nick": "Colorado"
+        },
+        {
+          "player": "ayez#aikaz",
+          "role": "Jungle"
+        },
+        {
+          "player": "Dlodfank#Dlod",
+          "role": "Support",
+          "nick": "Dlodfank"
+        },
+        {
+          "player": "SPARTANPRIMEMODE#41229",
+          "role": "Mid",
+          "nick": "SPARTAN"
+        },
+        {
+          "player": "One and only#4444",
+          "role": "Top",
+          "nick": "Muy"
+        }
+      ],
+      "reservas": [
+        {
+          "player": "MRE Carelli#JNG",
+          "role": "Jungle",
+          "nick": "Carelli"
+        },
+        {
+          "player": "ExperctiBR#BR1",
+          "role": "Top",
+          "nick": "MauMau"
+        }
+      ]
+    },
+    {
+      "division": "CELOL B",
+      "team": "MAZE GG",
+      "tag": "MGG",
+      "titulares": [
+        {
+          "player": "MAZE Joice#123",
+          "role": "Mid",
+          "nick": "Joice"
+        },
+        {
+          "player": "MAZE Gemir#perob",
+          "role": "Bot",
+          "nick": "Gemir"
+        },
+        {
+          "player": "MAZE Nuo#nuo",
+          "role": "Top",
+          "nick": "Nuo"
+        },
+        {
+          "player": "MAZE Peroba#gemas",
+          "role": "Support",
+          "nick": "Peroba"
+        },
+        {
+          "player": "prero#0708",
+          "role": "Jungle",
+          "nick": "prero"
+        }
+      ],
+      "reservas": [
+        {
+          "player": "Guta the great#gutaa",
+          "role": "Jungle",
+          "nick": "Guta"
+        },
+        {
+          "player": "LuiD#9704",
+          "role": ""
+        },
+        {
+          "player": "Olocombia#GSL",
+          "role": ""
+        },
+        {
+          "player": "hecquiem#002",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "division": "CELOL B",
+      "team": "NKZ Reapers",
+      "tag": "NKZR",
+      "titulares": [
+        {
+          "player": "NKZ yudiko#ggez",
+          "role": "Top"
+        },
+        {
+          "player": "NKZ Aero#NKZ",
+          "role": "Mid"
+        },
+        {
+          "player": "Goosembumps#Real",
+          "role": "Jungle"
+        },
+        {
+          "player": "nami#blue",
+          "role": "Support"
+        },
+        {
+          "player": "NKZ Treve#aoee",
+          "role": "Bot",
+          "nick": "Treve"
+        }
+      ],
+      "reservas": [
+        {
+          "player": "NKZ Centenas#100",
+          "role": ""
+        },
+        {
+          "player": "NKZ Bleuris#br2",
+          "role": ""
+        },
+        {
+          "player": "NKZ Stiles#stlk",
+          "role": ""
+        },
+        {
+          "player": "NKZ Mrl8#001",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "division": "CELOL B",
+      "team": "NKZ REVENGERS",
+      "tag": "NKZ",
+      "titulares": [
+        {
+          "player": "NKZ Tijas#éele",
+          "role": "Top"
+        },
+        {
+          "player": "NKZ StarZ#Star",
+          "role": "Mid"
+        },
+        {
+          "player": "NKZ Franco#br2",
+          "role": "Support"
+        },
+        {
+          "player": "NKZ Bezão#bezas",
+          "role": "Bot"
+        },
+        {
+          "player": "Kasai#nagi",
+          "role": "Jungle"
+        }
+      ],
+      "reservas": [
+        {
+          "player": "NKZ Nocta#1105",
+          "role": "Mid"
+        },
+        {
+          "player": "NKZ Dibraldinho9#JGGAP",
+          "role": "Jungle",
+          "nick": "Dibraldinho"
+        },
+        {
+          "player": "B3ST ONE#001",
+          "role": "Jungle",
+          "nick": "B3ST"
+        }
+      ]
+    },
+    {
+      "division": "CELOL B",
+      "team": "Ownage Black",
+      "tag": "OWB",
+      "titulares": [
+        {
+          "player": "detas#avê",
+          "role": "Jungle",
+          "nick": "detas"
+        },
+        {
+          "player": "frango#atm",
+          "role": "Bot",
+          "nick": "frango"
+        },
+        {
+          "player": "lyu#lux",
+          "role": "Support",
+          "nick": "lyu"
+        },
+        {
+          "player": "own blade#18y",
+          "role": "Mid",
+          "nick": "blade"
+        },
+        {
+          "player": "OwN Tresh#Tresh",
+          "role": "Top",
+          "nick": "Tresh"
+        }
+      ],
+      "reservas": []
+    },
+    {
+      "division": "CELOL B",
+      "team": "Ownage Gaming",
+      "tag": "OWN",
+      "titulares": [
+        {
+          "player": "Booz#v12",
+          "role": ""
+        },
+        {
+          "player": "luisin#heca",
+          "role": ""
+        },
+        {
+          "player": "AsgoreLovesVoli#Farts",
+          "role": "Top",
+          "nick": "Asgore"
+        },
+        {
+          "player": "Niko#SUSHI",
+          "role": ""
+        },
+        {
+          "player": "SST Mutilo#br1",
+          "role": ""
+        }
+      ],
+      "reservas": []
+    },
+    {
+      "division": "CELOL B",
+      "team": "Ownage Gaming",
+      "tag": "OWN",
+      "titulares": [],
+      "reservas": []
+    },
+    {
+      "division": "CELOL B",
+      "team": "Phantom E-Sports",
+      "tag": "PHE",
+      "titulares": [
+        {
+          "player": "Khan#BRA",
+          "role": "Jungle"
+        },
+        {
+          "player": "Ats#6513",
+          "role": ""
+        },
+        {
+          "player": "Monoc#Rell",
+          "role": "Support"
+        }
+      ],
+      "reservas": []
+    },
+    {
+      "division": "CELOL B",
+      "team": "SCALE Esports",
+      "tag": "SCL",
+      "titulares": [
+        {
+          "player": "dudracena#br1",
+          "role": ""
+        },
+        {
+          "player": "DOOMGUY#ZZZZ",
+          "role": ""
+        },
+        {
+          "player": "Augran#coach",
+          "role": ""
+        },
+        {
+          "player": "Lextas#SOLXT",
+          "role": ""
+        },
+        {
+          "player": "LordTomik#BR1",
+          "role": ""
+        }
+      ],
+      "reservas": [
+        {
+          "player": "orkyã#BR1",
+          "role": ""
+        },
+        {
+          "player": "Sivir#BR123",
+          "role": ""
+        },
+        {
+          "player": "elental#br1",
+          "role": ""
+        },
+        {
+          "player": "É É É É#EAN",
+          "role": ""
+        },
+        {
+          "player": "nefron#hk1",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "division": "CELOL B",
+      "team": "Team Victory",
+      "tag": "VIX",
+      "titulares": [
+        {
+          "player": "고생 끝에 낙이 온다#yse",
+          "role": "Mid"
+        },
+        {
+          "player": "Takefe#1675",
+          "role": "Support"
+        },
+        {
+          "player": "Casagrande#VIX",
+          "role": "Top"
+        },
+        {
+          "player": "just räy#BR1",
+          "role": "Bot"
+        },
+        {
+          "player": "itsDaizSa#027",
+          "role": ""
+        }
+      ],
+      "reservas": []
+    },
+    {
+      "division": "CELOL B",
+      "team": "Torin",
+      "tag": "TOR",
+      "titulares": [
+        {
+          "player": "V1ni#verso",
+          "role": ""
+        },
+        {
+          "player": "seu siguireijo#BR1",
+          "role": ""
+        },
+        {
+          "player": "Luni#1509",
+          "role": ""
+        },
+        {
+          "player": "mogga betas#ego",
+          "role": ""
+        },
+        {
+          "player": "L7シ#renga",
+          "role": ""
+        }
+      ],
+      "reservas": [
+        {
+          "player": "Dedos Fogosos#PJM",
+          "role": ""
+        },
+        {
+          "player": "RatoV2#1v9",
+          "role": ""
+        },
+        {
+          "player": "lwuarr#br1",
+          "role": ""
+        },
+        {
+          "player": "dedef0daum#br1",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "division": "CELOL B",
+      "team": "Viktus",
+      "tag": "VKT",
+      "titulares": [
+        {
+          "player": "VKT Chibolo#JDPV",
+          "role": "Jungle"
+        },
+        {
+          "player": "my baddd#BR1",
+          "role": "Mid",
+          "nick": "Master Jos"
+        },
+        {
+          "player": "VKT Pansa#JCSA",
+          "role": "Support"
+        },
+        {
+          "player": "Astronyx#MID",
+          "role": "Bot"
+        },
+        {
+          "player": "miclobid#BR1",
+          "role": "Top",
+          "nick": "Ade"
+        }
+      ],
+      "reservas": [
+        {
+          "player": "50 SombrasDeGwen#GWEN",
+          "role": "Top",
+          "nick": "JDD"
+        },
+        {
+          "player": "ChanningaJc#br1",
+          "role": "",
+          "nick": "Channing"
+        },
+        {
+          "player": "Josedeoddie#br1",
+          "role": "Jungle",
+          "nick": "Griffith"
+        }
+      ]
+    }
+  ],
+  "movements": [
+    {
+      "date": "2026-08-21",
+      "division": "CELOL A",
+      "team": "Marere E-Sports",
+      "tag": "MRE",
+      "player": "Cold#emp",
+      "role": "",
+      "movement": "Saiu",
+      "detail": ""
+    },
+    {
+      "date": "2026-08-21",
+      "division": "CELOL B",
+      "team": "NKZ REVENGERS",
+      "tag": "NKZ",
+      "player": "Shaka#vcb",
+      "role": "",
+      "movement": "Saiu",
+      "detail": ""
+    },
+    {
+      "date": "2026-08-21",
+      "division": "CELOL B",
+      "team": "NKZ REVENGERS",
+      "tag": "NKZ",
+      "player": "NKZ Stiles#stlk",
+      "role": "Jungle",
+      "movement": "Entrou",
+      "detail": ""
+    },
+    {
+      "date": "2026-08-24",
+      "division": "CELOL A",
+      "team": "Smoke Tram eSports",
+      "tag": "STE",
+      "player": "Cerezzo#LGG",
+      "role": "",
+      "movement": "Saiu",
+      "detail": ""
+    },
+    {
+      "date": "2026-08-24",
+      "division": "CELOL B",
+      "team": "Final Level Academy",
+      "tag": "FLA",
+      "player": "FL Fribasss#085",
+      "role": "",
+      "movement": "Entrou",
+      "detail": "como reserva"
+    },
+    {
+      "date": "2026-08-24",
+      "division": "CELOL B",
+      "team": "Alvora Gaming",
+      "tag": "ALV",
+      "player": "Stay Gold#Xande",
+      "role": "Top",
+      "movement": "Saiu",
+      "detail": ""
+    },
+    {
+      "date": "2026-08-25",
+      "division": "CELOL B",
+      "team": "Alvora Gaming",
+      "tag": "ALV",
+      "player": "Stay Gold#Xande",
+      "role": "Top",
+      "movement": "Entrou",
+      "detail": ""
+    },
+    {
+      "date": "2026-08-25",
+      "division": "CELOL A",
+      "team": "Neon eSports",
+      "tag": "NEON",
+      "player": "Marmelo1 Is Back#Poh",
+      "role": "",
+      "movement": "Virou titular",
+      "detail": ""
+    },
+    {
+      "date": "2026-08-26",
+      "division": "CELOL B",
+      "team": "Final Level Academy",
+      "tag": "FLA",
+      "player": "Lamine Yamal19#tag1",
+      "role": "",
+      "movement": "Saiu",
+      "detail": ""
+    },
+    {
+      "date": "2026-08-31",
+      "division": "CELOL B",
+      "team": "Final Level Core",
+      "tag": "FLC",
+      "player": "Abraão Otoba#Roxo",
+      "role": "",
+      "movement": "Virou titular",
+      "detail": ""
+    },
+    {
+      "date": "2026-09-01",
+      "division": "CELOL A",
+      "team": "Neon eSports",
+      "tag": "NEON",
+      "player": "NEON Nishida#Paz",
+      "role": "",
+      "movement": "Entrou",
+      "detail": ""
+    },
+    {
+      "date": "2026-09-01",
+      "division": "CELOL B",
+      "team": "Docta Esport",
+      "tag": "DOC",
+      "player": "YaseK#Ego",
+      "role": "Mid",
+      "movement": "Entrou",
+      "detail": "como reserva"
+    },
+    {
+      "date": "2026-09-01",
+      "division": "CELOL B",
+      "team": "Docta Esport",
+      "tag": "DOC",
+      "player": "Maxterium#105",
+      "role": "",
+      "movement": "Saiu",
+      "detail": "foi para Botafogo e-Sports (CELOL B)"
+    },
+    {
+      "date": "2026-09-01",
+      "division": "CELOL A",
+      "team": "Neon eSports",
+      "tag": "NEON",
+      "player": "Jun1or#noob",
+      "role": "Top",
+      "movement": "Entrou",
+      "detail": ""
+    },
+    {
+      "date": "2026-09-01",
+      "division": "CELOL B",
+      "team": "SCALE Esports",
+      "tag": "SCL",
+      "player": "zeo#ceo",
+      "role": "",
+      "movement": "Saiu",
+      "detail": ""
+    },
+    {
+      "date": "2026-09-01",
+      "division": "CELOL B",
+      "team": "SCALE Esports",
+      "tag": "SCL",
+      "player": "Salada#BR1",
+      "role": "",
+      "movement": "Saiu",
+      "detail": ""
+    },
+    {
+      "date": "2026-09-01",
+      "division": "CELOL B",
+      "team": "SCALE Esports",
+      "tag": "SCL",
+      "player": "Zen#coach",
+      "role": "",
+      "movement": "Saiu",
+      "detail": ""
+    },
+    {
+      "date": "2026-09-02",
+      "division": "CELOL B",
+      "team": "Marere Academy",
+      "tag": "MRE",
+      "player": "corredato#nati",
+      "role": "",
+      "movement": "Entrou",
+      "detail": ""
+    },
+    {
+      "date": "2026-09-02",
+      "division": "CELOL A",
+      "team": "Marere E-Sports",
+      "tag": "MRE",
+      "player": "rosayuzzy#pinky",
+      "role": "Bot",
+      "movement": "Entrou",
+      "detail": ""
+    },
+    {
+      "date": "2026-09-02",
+      "division": "CELOL A",
+      "team": "Marere E-Sports",
+      "tag": "MRE",
+      "player": "Showvy Maker#NENEG",
+      "role": "",
+      "movement": "Saiu",
+      "detail": ""
+    },
+    {
+      "date": "2026-09-02",
+      "division": "CELOL A",
+      "team": "Marere E-Sports",
+      "tag": "MRE",
+      "player": "Eradan2#Dan2",
+      "role": "Top",
+      "movement": "Entrou",
+      "detail": ""
+    },
+    {
+      "date": "2026-09-02",
+      "division": "CELOL A",
+      "team": "Marere E-Sports",
+      "tag": "MRE",
+      "player": "Barou Shoei#00001",
+      "role": "Mid",
+      "movement": "Entrou",
+      "detail": ""
+    },
+    {
+      "date": "2026-09-02",
+      "division": "CELOL A",
+      "team": "Marere E-Sports",
+      "tag": "MRE",
+      "player": "Aloprasprimemode#goat",
+      "role": "Top",
+      "movement": "Entrou",
+      "detail": "como reserva"
+    },
+    {
+      "date": "2026-09-02",
+      "division": "CELOL A",
+      "team": "Marere E-Sports",
+      "tag": "MRE",
+      "player": "Augustin#CRVG",
+      "role": "",
+      "movement": "Entrou",
+      "detail": ""
+    },
+    {
+      "date": "2026-09-02",
+      "division": "CELOL A",
+      "team": "Marere E-Sports",
+      "tag": "MRE",
+      "player": "delighted byron#peak",
+      "role": "",
+      "movement": "Entrou",
+      "detail": "como reserva"
+    },
+    {
+      "date": "2026-09-02",
+      "division": "CELOL A",
+      "team": "Marere E-Sports",
+      "tag": "MRE",
+      "player": "Oreki#PKB",
+      "role": "",
+      "movement": "Entrou",
+      "detail": ""
+    },
+    {
+      "date": "2026-09-02",
+      "division": "CELOL B",
+      "team": "BaronX",
+      "tag": "BRX",
+      "player": "BRX Keven#001",
+      "role": "",
+      "movement": "Saiu",
+      "detail": ""
+    },
+    {
+      "date": "2026-09-02",
+      "division": "CELOL B",
+      "team": "BaronX",
+      "tag": "BRX",
+      "player": "Utx#br1",
+      "role": "",
+      "movement": "Entrou",
+      "detail": ""
+    },
+    {
+      "date": "2026-09-03",
+      "division": "CELOL A",
+      "team": "Sphere",
+      "tag": "SPH",
+      "player": "Monoc#Rell",
+      "role": "",
+      "movement": "Saiu",
+      "detail": "foi para Neon eSports (CELOL A)"
+    },
+    {
+      "date": "2026-09-03",
+      "division": "CELOL A",
+      "team": "Neon eSports",
+      "tag": "NEON",
+      "player": "Monoc#Rell",
+      "role": "",
+      "movement": "Entrou",
+      "detail": "veio de Sphere (CELOL A)"
+    },
+    {
+      "date": "2026-09-03",
+      "division": "CELOL B",
+      "team": "BaronX",
+      "tag": "BRX",
+      "player": "Guibis#SCCP",
+      "role": "",
+      "movement": "Entrou",
+      "detail": ""
+    },
+    {
+      "date": "2026-09-03",
+      "division": "CELOL A",
+      "team": "Marere E-Sports",
+      "tag": "MRE",
+      "player": "rSalesjr#1203",
+      "role": "",
+      "movement": "Saiu",
+      "detail": ""
+    },
+    {
+      "date": "2026-09-03",
+      "division": "CELOL A",
+      "team": "Marere E-Sports",
+      "tag": "MRE",
+      "player": "Augustin#CRVG",
+      "role": "",
+      "movement": "Saiu",
+      "detail": ""
+    },
+    {
+      "date": "2026-09-03",
+      "division": "CELOL A",
+      "team": "Marere E-Sports",
+      "tag": "MRE",
+      "player": "Oreki#PKB",
+      "role": "",
+      "movement": "Saiu",
+      "detail": ""
+    },
+    {
+      "date": "2026-09-03",
+      "division": "CELOL A",
+      "team": "Marere E-Sports",
+      "tag": "MRE",
+      "player": "guga fighter#001",
+      "role": "Jungle",
+      "movement": "Entrou",
+      "detail": ""
+    },
+    {
+      "date": "2026-09-07",
+      "division": "CELOL A",
+      "team": "Shark Bite Furious Gaming Black",
+      "tag": "SBK",
+      "player": "Mayura#lbwq",
+      "role": "",
+      "movement": "Saiu",
+      "detail": "foi para Invictus Team (CELOL A)"
+    },
+    {
+      "date": "2026-09-07",
+      "division": "CELOL A",
+      "team": "Shark Bite Furious Gaming Black",
+      "tag": "SBK",
+      "player": "SBK Guizin#17y",
+      "role": "Mid",
+      "movement": "Entrou",
+      "detail": ""
+    },
+    {
+      "date": "2026-09-07",
+      "division": "CELOL A",
+      "team": "Shark Bite Furious Gaming Black",
+      "tag": "SBK",
+      "player": "Sloth#Fool",
+      "role": "Support",
+      "movement": "Entrou",
+      "detail": ""
+    },
+    {
+      "date": "2026-09-07",
+      "division": "CELOL A",
+      "team": "Shark Bite Furious Gaming Black",
+      "tag": "SBK",
+      "player": "SBK Ferrari#SUP",
+      "role": "",
+      "movement": "Virou titular",
+      "detail": ""
+    },
+    {
+      "date": "2026-09-07",
+      "division": "CELOL A",
+      "team": "Shark Bite Furious Gaming White",
+      "tag": "SBW",
+      "player": "Special week#1998",
+      "role": "",
+      "movement": "Saiu",
+      "detail": ""
+    },
+    {
+      "date": "2026-09-07",
+      "division": "CELOL A",
+      "team": "Shark Bite Furious Gaming White",
+      "tag": "SBW",
+      "player": "SBW Mitski#SBF",
+      "role": "",
+      "movement": "Saiu",
+      "detail": ""
+    },
+    {
+      "date": "2026-09-07",
+      "division": "CELOL A",
+      "team": "Shark Bite Furious Gaming White",
+      "tag": "SBW",
+      "player": "Xogum#k111",
+      "role": "Jungle",
+      "movement": "Entrou",
+      "detail": ""
+    },
+    {
+      "date": "2026-09-07",
+      "division": "CELOL A",
+      "team": "Shark Bite Furious Gaming White",
+      "tag": "SBW",
+      "player": "Charmander#divas",
+      "role": "",
+      "movement": "Entrou",
+      "detail": ""
+    },
+    {
+      "date": "2026-09-07",
+      "division": "CELOL A",
+      "team": "Shark Bite Furious Gaming White",
+      "tag": "SBW",
+      "player": "SBW SoLoYF#br2",
+      "role": "Bot",
+      "movement": "Entrou",
+      "detail": ""
+    },
+    {
+      "date": "2026-09-07",
+      "division": "CELOL B",
+      "team": "Final Level Academy",
+      "tag": "FLA",
+      "player": "Erling Haaland#RET",
+      "role": "Support",
+      "movement": "Entrou",
+      "detail": ""
+    },
+    {
+      "date": "2026-09-07",
+      "division": "CELOL B",
+      "team": "NKZ REVENGERS",
+      "tag": "NKZ",
+      "player": "NKZ StarZ#Star",
+      "role": "Mid",
+      "movement": "Saiu",
+      "detail": "foi para NKZ Reapers (CELOL B)"
+    },
+    {
+      "date": "2026-09-07",
+      "division": "CELOL B",
+      "team": "NKZ Reapers",
+      "tag": "NKZR",
+      "player": "NKZ Aero#NKZ",
+      "role": "Mid",
+      "movement": "Saiu",
+      "detail": "foi para NKZ REVENGERS (CELOL B)"
+    },
+    {
+      "date": "2026-09-07",
+      "division": "CELOL B",
+      "team": "NKZ Reapers",
+      "tag": "NKZR",
+      "player": "NKZ StarZ#Star",
+      "role": "Mid",
+      "movement": "Entrou",
+      "detail": "veio de NKZ REVENGERS (CELOL B)"
+    },
+    {
+      "date": "2026-09-07",
+      "division": "CELOL B",
+      "team": "NKZ REVENGERS",
+      "tag": "NKZ",
+      "player": "NKZ yudiko#ggez",
+      "role": "",
+      "movement": "Entrou",
+      "detail": ""
+    },
+    {
+      "date": "2026-09-07",
+      "division": "CELOL B",
+      "team": "NKZ REVENGERS",
+      "tag": "NKZ",
+      "player": "NKZ eupholie#zowie",
+      "role": "",
+      "movement": "Saiu",
+      "detail": ""
+    },
+    {
+      "date": "2026-09-07",
+      "division": "CELOL B",
+      "team": "NKZ REVENGERS",
+      "tag": "NKZ",
+      "player": "NKZ Mrl8#001",
+      "role": "Bot",
+      "movement": "Virou titular",
+      "detail": ""
+    },
+    {
+      "date": "2026-09-07",
+      "division": "CELOL B",
+      "team": "NKZ REVENGERS",
+      "tag": "NKZ",
+      "player": "NKZ Little 愛#LPL",
+      "role": "Bot",
+      "movement": "Entrou",
+      "detail": ""
+    },
+    {
+      "date": "2026-09-07",
+      "division": "CELOL B",
+      "team": "NKZ REVENGERS",
+      "tag": "NKZ",
+      "player": "mink#055",
+      "role": "",
+      "movement": "Entrou",
+      "detail": ""
+    },
+    {
+      "date": "2026-09-07",
+      "division": "CELOL B",
+      "team": "NKZ REVENGERS",
+      "tag": "NKZ",
+      "player": "NKZ Ganderzin#157",
+      "role": "",
+      "movement": "Entrou",
+      "detail": ""
+    },
+    {
+      "date": "2026-09-07",
+      "division": "CELOL B",
+      "team": "NKZ REVENGERS",
+      "tag": "NKZ",
+      "player": "NKZ Bielzudo#GOAT",
+      "role": "",
+      "movement": "Entrou",
+      "detail": ""
+    },
+    {
+      "date": "2026-09-07",
+      "division": "CELOL B",
+      "team": "NKZ Reapers",
+      "tag": "NKZR",
+      "player": "LIVE THEPUTZMAN#KIRON",
+      "role": "",
+      "movement": "Entrou",
+      "detail": ""
+    },
+    {
+      "date": "2026-09-08",
+      "division": "CELOL B",
+      "team": "Juventus Gaming White",
+      "tag": "JUV",
+      "player": "APG NiuKo#apg",
+      "role": "",
+      "movement": "Entrou",
+      "detail": ""
+    },
+    {
+      "date": "2026-09-08",
+      "division": "CELOL B",
+      "team": "Final Level Core",
+      "tag": "FLC",
+      "player": "HedGhoul#br1",
+      "role": "",
+      "movement": "Saiu",
+      "detail": ""
+    },
+    {
+      "date": "2026-09-08",
+      "division": "CELOL B",
+      "team": "Final Level Core",
+      "tag": "FLC",
+      "player": "Morfpheu#br1",
+      "role": "",
+      "movement": "Entrou",
+      "detail": ""
+    },
+    {
+      "date": "2026-09-08",
+      "division": "CELOL B",
+      "team": "Final Level Core",
+      "tag": "FLC",
+      "player": "costt#br1",
+      "role": "",
+      "movement": "Entrou",
+      "detail": ""
+    },
+    {
+      "date": "2026-09-09",
+      "division": "CELOL B",
+      "team": "Phantom E-Sports",
+      "tag": "PHE",
+      "player": "Baianozada#br1",
+      "role": "",
+      "movement": "Saiu",
+      "detail": ""
+    },
+    {
+      "date": "2026-09-09",
+      "division": "CELOL A",
+      "team": "NKZ VORAX",
+      "tag": "NKZ",
+      "player": "Itoshi LANEKING#sae",
+      "role": "Support",
+      "movement": "Entrou",
+      "detail": ""
+    },
+    {
+      "date": "2026-09-09",
+      "division": "CELOL A",
+      "team": "NKZ VORAX",
+      "tag": "NKZ",
+      "player": "Hoben#lulu",
+      "role": "",
+      "movement": "Saiu",
+      "detail": ""
+    },
+    {
+      "date": "2026-09-09",
+      "division": "CELOL B",
+      "team": "SCALE Esports",
+      "tag": "SCL",
+      "player": "Lazuli#1234",
+      "role": "",
+      "movement": "Entrou",
+      "detail": ""
+    },
+    {
+      "date": "2026-09-09",
+      "division": "CELOL A",
+      "team": "Neon eSports",
+      "tag": "NEON",
+      "player": "Linnas#br1",
+      "role": "Support",
+      "movement": "Entrou",
+      "detail": ""
+    },
+    {
+      "date": "2026-09-09",
+      "division": "CELOL B",
+      "team": "SCALE Esports",
+      "tag": "SCL",
+      "player": "orkyã#BR1",
+      "role": "",
+      "movement": "Entrou",
+      "detail": ""
+    },
+    {
+      "date": "2026-09-09",
+      "division": "CELOL B",
+      "team": "SCALE Esports",
+      "tag": "SCL",
+      "player": "DOOMGUY#ZZZZ",
+      "role": "",
+      "movement": "Entrou",
+      "detail": ""
+    },
+    {
+      "date": "2026-09-09",
+      "division": "CELOL B",
+      "team": "SCALE Esports",
+      "tag": "SCL",
+      "player": "PRAÇA AK TROVÃO#PR7",
+      "role": "",
+      "movement": "Entrou",
+      "detail": ""
+    },
+    {
+      "date": "2026-09-09",
+      "division": "CELOL B",
+      "team": "SCALE Esports",
+      "tag": "SCL",
+      "player": "Sivir#BR123",
+      "role": "",
+      "movement": "Entrou",
+      "detail": ""
+    },
+    {
+      "date": "2026-09-09",
+      "division": "CELOL B",
+      "team": "SCALE Esports",
+      "tag": "SCL",
+      "player": "Augran#coach",
+      "role": "",
+      "movement": "Saiu",
+      "detail": ""
+    },
+    {
+      "date": "2026-09-09",
+      "division": "CELOL B",
+      "team": "SCALE Esports",
+      "tag": "SCL",
+      "player": "Lazuli#1234",
+      "role": "",
+      "movement": "Saiu",
+      "detail": ""
+    },
+    {
+      "date": "2026-09-09",
+      "division": "CELOL B",
+      "team": "SCALE Esports",
+      "tag": "SCL",
+      "player": "elental#br1",
+      "role": "",
+      "movement": "Entrou",
+      "detail": "como reserva"
+    },
+    {
+      "date": "2026-09-09",
+      "division": "CELOL B",
+      "team": "SCALE Esports",
+      "tag": "SCL",
+      "player": "jojo#zayh",
+      "role": "",
+      "movement": "Entrou",
+      "detail": ""
+    },
+    {
+      "date": "2026-09-09",
+      "division": "CELOL B",
+      "team": "Torin",
+      "tag": "TOR",
+      "player": "anthonyyyyyy1#NEET",
+      "role": "",
+      "movement": "Saiu",
+      "detail": ""
+    },
+    {
+      "date": "2026-09-09",
+      "division": "CELOL B",
+      "team": "Torin",
+      "tag": "TOR",
+      "player": "raven#br2",
+      "role": "",
+      "movement": "Entrou",
+      "detail": ""
+    },
+    {
+      "date": "2026-09-09",
+      "division": "CELOL A",
+      "team": "Shark Bite Furious Gaming White",
+      "tag": "SBW",
+      "player": "Charmander#divas",
+      "role": "",
+      "movement": "Saiu",
+      "detail": "foi para Smoke Tram Ascension (CELOL A)"
+    },
+    {
+      "date": "2026-09-09",
+      "division": "CELOL A",
+      "team": "Invictus Team",
+      "tag": "IVT",
+      "player": "caraphernelia#mari",
+      "role": "",
+      "movement": "Saiu",
+      "detail": ""
+    },
+    {
+      "date": "2026-09-09",
+      "division": "CELOL A",
+      "team": "Invictus Team",
+      "tag": "IVT",
+      "player": "Yanotu#52087",
+      "role": "",
+      "movement": "Saiu",
+      "detail": ""
+    },
+    {
+      "date": "2026-09-09",
+      "division": "CELOL A",
+      "team": "Invictus Team",
+      "tag": "IVT",
+      "player": "Caveira#XQDLS",
+      "role": "",
+      "movement": "Saiu",
+      "detail": ""
+    },
+    {
+      "date": "2026-09-09",
+      "division": "CELOL A",
+      "team": "Invictus Team",
+      "tag": "IVT",
+      "player": "Mayura#lbwq",
+      "role": "Mid",
+      "movement": "Entrou",
+      "detail": "veio de Shark Bite Furious Gaming Black (CELOL A)"
+    },
+    {
+      "date": "2026-09-09",
+      "division": "CELOL A",
+      "team": "Invictus Team",
+      "tag": "IVT",
+      "player": "Citronella#Limao",
+      "role": "Support",
+      "movement": "Entrou",
+      "detail": ""
+    },
+    {
+      "date": "2026-09-09",
+      "division": "CELOL A",
+      "team": "Invictus Team",
+      "tag": "IVT",
+      "player": "Mercenario#2049",
+      "role": "Bot",
+      "movement": "Entrou",
+      "detail": ""
+    },
+    {
+      "date": "2026-09-09",
+      "division": "CELOL A",
+      "team": "Invictus Team",
+      "tag": "IVT",
+      "player": "neve sangue#snow",
+      "role": "",
+      "movement": "Saiu",
+      "detail": ""
+    },
+    {
+      "date": "2026-09-09",
+      "division": "CELOL A",
+      "team": "Invictus Team",
+      "tag": "IVT",
+      "player": "Dande#极 致",
+      "role": "Top",
+      "movement": "Entrou",
+      "detail": ""
+    },
+    {
+      "date": "2026-09-09",
+      "division": "CELOL A",
+      "team": "Invictus Team",
+      "tag": "IVT",
+      "player": "game chand me#br1",
+      "role": "Jungle",
+      "movement": "Entrou",
+      "detail": "como reserva"
+    },
+    {
+      "date": "2026-09-09",
+      "division": "CELOL A",
+      "team": "Invictus Team",
+      "tag": "IVT",
+      "player": "tapom#br1",
+      "role": "Mid",
+      "movement": "Entrou",
+      "detail": "como reserva"
+    },
+    {
+      "date": "2026-09-09",
+      "division": "CELOL A",
+      "team": "Invictus Team",
+      "tag": "IVT",
+      "player": "i came back#22222",
+      "role": "Bot",
+      "movement": "Entrou",
+      "detail": "como reserva"
+    },
+    {
+      "date": "2026-09-10",
+      "division": "CELOL A",
+      "team": "Smoke Tram eSports",
+      "tag": "STE",
+      "player": "matheuzin#18y",
+      "role": "Top",
+      "movement": "Saiu",
+      "detail": ""
+    },
+    {
+      "date": "2026-09-10",
+      "division": "CELOL A",
+      "team": "Smoke Tram eSports",
+      "tag": "STE",
+      "player": "Tsukiko#maho",
+      "role": "",
+      "movement": "Saiu",
+      "detail": ""
+    },
+    {
+      "date": "2026-09-10",
+      "division": "CELOL A",
+      "team": "Sphere",
+      "tag": "SPH",
+      "player": "Shikamaru#vidal",
+      "role": "",
+      "movement": "Saiu",
+      "detail": ""
+    },
+    {
+      "date": "2026-09-10",
+      "division": "CELOL A",
+      "team": "Sphere",
+      "tag": "SPH",
+      "player": "inori#lrsz",
+      "role": "",
+      "movement": "Saiu",
+      "detail": "foi para Smoke Tram eSports (CELOL A)"
+    },
+    {
+      "date": "2026-09-10",
+      "division": "CELOL A",
+      "team": "Sphere",
+      "tag": "SPH",
+      "player": "jeikar#XII",
+      "role": "",
+      "movement": "Saiu",
+      "detail": ""
+    },
+    {
+      "date": "2026-09-10",
+      "division": "CELOL A",
+      "team": "Sphere",
+      "tag": "SPH",
+      "player": "SPH Luvvee#LTAS",
+      "role": "",
+      "movement": "Saiu",
+      "detail": "foi para Juventus Gaming White (CELOL B)"
+    },
+    {
+      "date": "2026-09-10",
+      "division": "CELOL A",
+      "team": "Sphere",
+      "tag": "SPH",
+      "player": "zKyou#br1",
+      "role": "",
+      "movement": "Saiu",
+      "detail": "foi para Alvora Gaming (CELOL B)"
+    },
+    {
+      "date": "2026-09-10",
+      "division": "CELOL A",
+      "team": "Sphere",
+      "tag": "SPH",
+      "player": "SPH Indra#LTAS",
+      "role": "",
+      "movement": "Saiu",
+      "detail": ""
+    },
+    {
+      "date": "2026-09-10",
+      "division": "CELOL A",
+      "team": "Sphere",
+      "tag": "SPH",
+      "player": "Leba#nvm",
+      "role": "",
+      "movement": "Saiu",
+      "detail": ""
+    },
+    {
+      "date": "2026-09-10",
+      "division": "CELOL A",
+      "team": "Smoke Tram eSports",
+      "tag": "STE",
+      "player": "inori#lrsz",
+      "role": "Mid",
+      "movement": "Entrou",
+      "detail": "veio de Sphere (CELOL A)"
+    },
+    {
+      "date": "2026-09-10",
+      "division": "CELOL A",
+      "team": "Smoke Tram Ascension",
+      "tag": "STA",
+      "player": "Maviel#mid",
+      "role": "",
+      "movement": "Saiu",
+      "detail": ""
+    },
+    {
+      "date": "2026-09-10",
+      "division": "CELOL A",
+      "team": "Smoke Tram Ascension",
+      "tag": "STA",
+      "player": "DNY Pandinha#007",
+      "role": "",
+      "movement": "Saiu",
+      "detail": ""
+    },
+    {
+      "date": "2026-09-10",
+      "division": "CELOL A",
+      "team": "Smoke Tram Ascension",
+      "tag": "STA",
+      "player": "NKZ Bezão#bezas",
+      "role": "",
+      "movement": "Entrou",
+      "detail": ""
+    },
+    {
+      "date": "2026-09-10",
+      "division": "CELOL B",
+      "team": "Botafogo e-Sports",
+      "tag": "BOT",
+      "player": "ivaD#Avê",
+      "role": "",
+      "movement": "Saiu",
+      "detail": "foi para Smoke Tram eSports (CELOL A)"
+    },
+    {
+      "date": "2026-09-10",
+      "division": "CELOL A",
+      "team": "Smoke Tram eSports",
+      "tag": "STE",
+      "player": "ivaD#Avê",
+      "role": "Support",
+      "movement": "Entrou",
+      "detail": "veio de Botafogo e-Sports (CELOL B)"
+    },
+    {
+      "date": "2026-09-10",
+      "division": "CELOL A",
+      "team": "Smoke Tram eSports",
+      "tag": "STE",
+      "player": "VOA RIP EDMAERIN#BR2",
+      "role": "Bot",
+      "movement": "Entrou",
+      "detail": "como reserva"
+    },
+    {
+      "date": "2026-09-10",
+      "division": "CELOL A",
+      "team": "Smoke Tram Ascension",
+      "tag": "STA",
+      "player": "Fasolo#br1",
+      "role": "Top",
+      "movement": "Entrou",
+      "detail": "como reserva"
+    },
+    {
+      "date": "2026-09-10",
+      "division": "CELOL A",
+      "team": "Smoke Tram eSports",
+      "tag": "STE",
+      "player": "Canário#Avê",
+      "role": "",
+      "movement": "Saiu",
+      "detail": "foi para Ownage Gaming (CELOL B)"
+    },
+    {
+      "date": "2026-09-10",
+      "division": "CELOL A",
+      "team": "Smoke Tram eSports",
+      "tag": "STE",
+      "player": "Revolker#STE",
+      "role": "",
+      "movement": "Saiu",
+      "detail": ""
+    },
+    {
+      "date": "2026-09-10",
+      "division": "CELOL A",
+      "team": "Neon eSports",
+      "tag": "NEON",
+      "player": "Monoc#Rell",
+      "role": "",
+      "movement": "Saiu",
+      "detail": "foi para Phantom E-Sports (CELOL B)"
+    },
+    {
+      "date": "2026-09-10",
+      "division": "CELOL A",
+      "team": "Smoke Tram Ascension",
+      "tag": "STA",
+      "player": "Sn4pe#VOD",
+      "role": "",
+      "movement": "Saiu",
+      "detail": ""
+    },
+    {
+      "date": "2026-09-10",
+      "division": "CELOL B",
+      "team": "Botafogo e-Sports",
+      "tag": "BOT",
+      "player": "Maxterium#105",
+      "role": "",
+      "movement": "Entrou",
+      "detail": "veio de Docta Esport (CELOL B)"
+    },
+    {
+      "date": "2026-09-10",
+      "division": "CELOL B",
+      "team": "Ownage Black",
+      "tag": "OWB",
+      "player": "hotpie#0802",
+      "role": "",
+      "movement": "Saiu",
+      "detail": "foi para Smoke Tram eSports (CELOL A)"
+    },
+    {
+      "date": "2026-09-10",
+      "division": "CELOL B",
+      "team": "BaronX",
+      "tag": "BRX",
+      "player": "simply lovely#033",
+      "role": "",
+      "movement": "Saiu",
+      "detail": ""
+    },
+    {
+      "date": "2026-09-10",
+      "division": "CELOL B",
+      "team": "BaronX",
+      "tag": "BRX",
+      "player": "BRX Lukrell#BRX",
+      "role": "",
+      "movement": "Saiu",
+      "detail": ""
+    },
+    {
+      "date": "2026-09-10",
+      "division": "CELOL B",
+      "team": "BaronX",
+      "tag": "BRX",
+      "player": "BRX Zeus#007",
+      "role": "",
+      "movement": "Saiu",
+      "detail": ""
+    },
+    {
+      "date": "2026-09-10",
+      "division": "CELOL B",
+      "team": "BaronX",
+      "tag": "BRX",
+      "player": "Guibis#SCCP",
+      "role": "",
+      "movement": "Saiu",
+      "detail": ""
+    },
+    {
+      "date": "2026-09-10",
+      "division": "CELOL A",
+      "team": "Smoke Tram eSports",
+      "tag": "STE",
+      "player": "hotpie#0802",
+      "role": "Bot",
+      "movement": "Entrou",
+      "detail": "veio de Ownage Black (CELOL B)"
+    },
+    {
+      "date": "2026-09-10",
+      "division": "CELOL A",
+      "team": "Neon eSports",
+      "tag": "NEON",
+      "player": "kadú#MAX",
+      "role": "",
+      "movement": "Entrou",
+      "detail": "como reserva"
+    },
+    {
+      "date": "2026-09-10",
+      "division": "CELOL B",
+      "team": "Ownage Black",
+      "tag": "OWB",
+      "player": "Nihil#Avê",
+      "role": "",
+      "movement": "Saiu",
+      "detail": "foi para Smoke Tram eSports (CELOL A)"
+    },
+    {
+      "date": "2026-09-10",
+      "division": "CELOL A",
+      "team": "Shark Bite Furious Gaming White",
+      "tag": "SBW",
+      "player": "Absolute#carry",
+      "role": "Bot",
+      "movement": "Entrou",
+      "detail": "como reserva"
+    },
+    {
+      "date": "2026-09-10",
+      "division": "CELOL A",
+      "team": "Shark Bite Furious Gaming White",
+      "tag": "SBW",
+      "player": "SBW J F#king",
+      "role": "",
+      "movement": "Virou titular",
+      "detail": ""
+    },
+    {
+      "date": "2026-09-10",
+      "division": "CELOL A",
+      "team": "Shark Bite Furious Gaming White",
+      "tag": "SBW",
+      "player": "Prinz#lvg",
+      "role": "Mid",
+      "movement": "Entrou",
+      "detail": "como reserva"
+    },
+    {
+      "date": "2026-09-10",
+      "division": "CELOL B",
+      "team": "Final Level Core",
+      "tag": "FLC",
+      "player": "HedGhoul#br1",
+      "role": "",
+      "movement": "Entrou",
+      "detail": ""
+    },
+    {
+      "date": "2026-09-10",
+      "division": "CELOL B",
+      "team": "Final Level Core",
+      "tag": "FLC",
+      "player": "Cego de verdade#br1",
+      "role": "",
+      "movement": "Entrou",
+      "detail": ""
+    },
+    {
+      "date": "2026-09-10",
+      "division": "CELOL B",
+      "team": "Ownage Gaming",
+      "tag": "OWN",
+      "player": "OwN Tresh#Tresh",
+      "role": "",
+      "movement": "Saiu",
+      "detail": "foi para Ownage Black (CELOL B)"
+    },
+    {
+      "date": "2026-09-10",
+      "division": "CELOL B",
+      "team": "Ownage Gaming",
+      "tag": "OWN",
+      "player": "luisin#heca",
+      "role": "",
+      "movement": "Entrou",
+      "detail": ""
+    },
+    {
+      "date": "2026-09-10",
+      "division": "CELOL A",
+      "team": "Smoke Tram eSports",
+      "tag": "STE",
+      "player": "Nihil#Avê",
+      "role": "Top",
+      "movement": "Entrou",
+      "detail": "veio de Ownage Black (CELOL B)"
+    },
+    {
+      "date": "2026-09-10",
+      "division": "CELOL A",
+      "team": "Smoke Tram Ascension",
+      "tag": "STA",
+      "player": "ZEUSKHANSHYSIWOO#TOP",
+      "role": "Top",
+      "movement": "Entrou",
+      "detail": ""
+    },
+    {
+      "date": "2026-09-10",
+      "division": "CELOL A",
+      "team": "Smoke Tram Ascension",
+      "tag": "STA",
+      "player": "Charmander#divas",
+      "role": "Mid",
+      "movement": "Entrou",
+      "detail": "veio de Shark Bite Furious Gaming White (CELOL A)"
+    },
+    {
+      "date": "2026-09-10",
+      "division": "CELOL B",
+      "team": "BaronX",
+      "tag": "BRX",
+      "player": "Utx#br1",
+      "role": "",
+      "movement": "Saiu",
+      "detail": ""
+    },
+    {
+      "date": "2026-09-10",
+      "division": "CELOL B",
+      "team": "Torin",
+      "tag": "TOR",
+      "player": "TOR Diêdê#PEG",
+      "role": "",
+      "movement": "Entrou",
+      "detail": ""
+    },
+    {
+      "date": "2026-09-10",
+      "division": "CELOL B",
+      "team": "Marere Academy",
+      "tag": "MRE",
+      "player": "ExperctiBR#BR1",
+      "role": "Top",
+      "movement": "Entrou",
+      "detail": ""
+    },
+    {
+      "date": "2026-09-10",
+      "division": "CELOL B",
+      "team": "Alvora Gaming",
+      "tag": "ALV",
+      "player": "frança#menok",
+      "role": "",
+      "movement": "Entrou",
+      "detail": "como reserva"
+    },
+    {
+      "date": "2026-09-10",
+      "division": "CELOL A",
+      "team": "Juventus Gaming Red",
+      "tag": "JUV",
+      "player": "LDG yssen#LOAD",
+      "role": "",
+      "movement": "Saiu",
+      "detail": ""
+    },
+    {
+      "date": "2026-09-10",
+      "division": "CELOL A",
+      "team": "Juventus Gaming Red",
+      "tag": "JUV",
+      "player": "Farluxx#br1",
+      "role": "",
+      "movement": "Saiu",
+      "detail": ""
+    },
+    {
+      "date": "2026-09-10",
+      "division": "CELOL A",
+      "team": "Juventus Gaming Red",
+      "tag": "JUV",
+      "player": "MentalEskilado#zen",
+      "role": "",
+      "movement": "Saiu",
+      "detail": ""
+    },
+    {
+      "date": "2026-09-10",
+      "division": "CELOL A",
+      "team": "Juventus Gaming Red",
+      "tag": "JUV",
+      "player": "Zenite#ZENIT",
+      "role": "",
+      "movement": "Entrou",
+      "detail": ""
+    },
+    {
+      "date": "2026-09-10",
+      "division": "CELOL A",
+      "team": "Smoke Tram eSports",
+      "tag": "STE",
+      "player": "VOA RIP EDMAERIN#BR2",
+      "role": "Bot",
+      "movement": "Saiu",
+      "detail": "foi para Smoke Tram Ascension (CELOL A)"
+    },
+    {
+      "date": "2026-09-10",
+      "division": "CELOL A",
+      "team": "Juventus Gaming Red",
+      "tag": "JUV",
+      "player": "Tragen#leer",
+      "role": "",
+      "movement": "Entrou",
+      "detail": ""
+    },
+    {
+      "date": "2026-09-10",
+      "division": "CELOL A",
+      "team": "Smoke Tram Ascension",
+      "tag": "STA",
+      "player": "VOA RIP EDMAERIN#BR2",
+      "role": "",
+      "movement": "Entrou",
+      "detail": "veio de Smoke Tram eSports (CELOL A)"
+    },
+    {
+      "date": "2026-09-10",
+      "division": "CELOL A",
+      "team": "Juventus Gaming Red",
+      "tag": "JUV",
+      "player": "Azeez1#juya",
+      "role": "",
+      "movement": "Entrou",
+      "detail": ""
+    },
+    {
+      "date": "2026-09-10",
+      "division": "CELOL B",
+      "team": "BaronX",
+      "tag": "BRX",
+      "player": "Gal Farion#br2",
+      "role": "",
+      "movement": "Entrou",
+      "detail": ""
+    },
+    {
+      "date": "2026-09-10",
+      "division": "CELOL B",
+      "team": "BaronX",
+      "tag": "BRX",
+      "player": "osaka san#osaka",
+      "role": "Top",
+      "movement": "Entrou",
+      "detail": ""
+    },
+    {
+      "date": "2026-09-10",
+      "division": "CELOL B",
+      "team": "BaronX",
+      "tag": "BRX",
+      "player": "kaijiallwin#777",
+      "role": "Mid",
+      "movement": "Entrou",
+      "detail": ""
+    },
+    {
+      "date": "2026-09-10",
+      "division": "CELOL A",
+      "team": "Juventus Gaming Red",
+      "tag": "JUV",
+      "player": "weiss#miya",
+      "role": "",
+      "movement": "Entrou",
+      "detail": ""
+    },
+    {
+      "date": "2026-09-10",
+      "division": "CELOL B",
+      "team": "BaronX",
+      "tag": "BRX",
+      "player": "Zähir#THgod",
+      "role": "Support",
+      "movement": "Entrou",
+      "detail": ""
+    },
+    {
+      "date": "2026-09-10",
+      "division": "CELOL A",
+      "team": "Juventus Gaming Red",
+      "tag": "JUV",
+      "player": "Punch#abcde",
+      "role": "",
+      "movement": "Entrou",
+      "detail": "como reserva"
+    },
+    {
+      "date": "2026-09-10",
+      "division": "CELOL A",
+      "team": "Juventus Gaming Red",
+      "tag": "JUV",
+      "player": "King#Bong",
+      "role": "",
+      "movement": "Entrou",
+      "detail": "como reserva"
+    },
+    {
+      "date": "2026-09-10",
+      "division": "CELOL A",
+      "team": "Juventus Gaming Red",
+      "tag": "JUV",
+      "player": "SBW Itim#085",
+      "role": "",
+      "movement": "Entrou",
+      "detail": ""
+    },
+    {
+      "date": "2026-09-10",
+      "division": "CELOL A",
+      "team": "Juventus Gaming Red",
+      "tag": "JUV",
+      "player": "COACH Nändö#Maria",
+      "role": "",
+      "movement": "Entrou",
+      "detail": "como reserva"
+    },
+    {
+      "date": "2026-09-11",
+      "division": "CELOL B",
+      "team": "BaronX",
+      "tag": "BRX",
+      "player": "Gabu#mind",
+      "role": "Bot",
+      "movement": "Entrou",
+      "detail": ""
+    },
+    {
+      "date": "2026-09-11",
+      "division": "CELOL B",
+      "team": "INFINITY GAMING",
+      "tag": "IGG",
+      "player": "lofí#Br1",
+      "role": "Bot",
+      "movement": "Entrou",
+      "detail": "como reserva"
+    },
+    {
+      "date": "2026-09-11",
+      "division": "CELOL B",
+      "team": "INFINITY GAMING",
+      "tag": "IGG",
+      "player": "Minazuki#BR3",
+      "role": "Top",
+      "movement": "Entrou",
+      "detail": "como reserva"
+    },
+    {
+      "date": "2026-09-11",
+      "division": "CELOL B",
+      "team": "Ownage Black",
+      "tag": "OWB",
+      "player": "OwN Tresh#Tresh",
+      "role": "",
+      "movement": "Entrou",
+      "detail": "veio de Ownage Gaming (CELOL B)"
+    },
+    {
+      "date": "2026-09-11",
+      "division": "CELOL B",
+      "team": "Ownage Gaming",
+      "tag": "OWN",
+      "player": "OwN Alea#BR2",
+      "role": "",
+      "movement": "Saiu",
+      "detail": ""
+    },
+    {
+      "date": "2026-09-11",
+      "division": "CELOL B",
+      "team": "Ownage Gaming",
+      "tag": "OWN",
+      "player": "AsgoreLovesVoli#Farts",
+      "role": "",
+      "movement": "Entrou",
+      "detail": ""
+    },
+    {
+      "date": "2026-09-11",
+      "division": "CELOL B",
+      "team": "Ownage Gaming",
+      "tag": "OWN",
+      "player": "Canário#Avê",
+      "role": "",
+      "movement": "Entrou",
+      "detail": "veio de Smoke Tram eSports (CELOL A)"
+    },
+    {
+      "date": "2026-09-11",
+      "division": "CELOL B",
+      "team": "Ownage Gaming",
+      "tag": "OWN",
+      "player": "Khan#BRA",
+      "role": "",
+      "movement": "Entrou",
+      "detail": ""
+    },
+    {
+      "date": "2026-09-11",
+      "division": "CELOL B",
+      "team": "NKZ Reapers",
+      "tag": "NKZR",
+      "player": "NKZ Centenas#100",
+      "role": "",
+      "movement": "Entrou",
+      "detail": "como reserva"
+    },
+    {
+      "date": "2026-09-11",
+      "division": "CELOL A",
+      "team": "Smoke Tram Ascension",
+      "tag": "STA",
+      "player": "makeuhappy#0000",
+      "role": "",
+      "movement": "Entrou",
+      "detail": ""
+    },
+    {
+      "date": "2026-09-11",
+      "division": "CELOL B",
+      "team": "INFINITY GAMING",
+      "tag": "IGG",
+      "player": "Joni Cabritinha#BR1",
+      "role": "Jungle",
+      "movement": "Entrou",
+      "detail": "como reserva"
+    },
+    {
+      "date": "2026-09-11",
+      "division": "CELOL B",
+      "team": "Docta Esport",
+      "tag": "DOC",
+      "player": "Cholardus#br1",
+      "role": "Support",
+      "movement": "Entrou",
+      "detail": "como reserva"
+    },
+    {
+      "date": "2026-09-11",
+      "division": "CELOL A",
+      "team": "Smoke Tram eSports",
+      "tag": "STE",
+      "player": "Knight#0363",
+      "role": "Bot",
+      "movement": "Entrou",
+      "detail": "como reserva"
+    },
+    {
+      "date": "2026-09-14",
+      "division": "CELOL B",
+      "team": "Marere Academy",
+      "tag": "MRE",
+      "player": "Dazai Ryuu#Klein",
+      "role": "Mid",
+      "movement": "Entrou",
+      "detail": ""
+    },
+    {
+      "date": "2026-09-14",
+      "division": "CELOL B",
+      "team": "Marere Academy",
+      "tag": "MRE",
+      "player": "MACHINE GIRL#自我宽恕1",
+      "role": "Top",
+      "movement": "Entrou",
+      "detail": "como reserva"
+    },
+    {
+      "date": "2026-09-14",
+      "division": "CELOL B",
+      "team": "BaronX",
+      "tag": "BRX",
+      "player": "Gal Farion#br2",
+      "role": "",
+      "movement": "Saiu",
+      "detail": ""
+    },
+    {
+      "date": "2026-09-14",
+      "division": "CELOL B",
+      "team": "BaronX",
+      "tag": "BRX",
+      "player": "Gavinzera#br2",
+      "role": "Jungle",
+      "movement": "Entrou",
+      "detail": ""
+    },
+    {
+      "date": "2026-09-14",
+      "division": "CELOL A",
+      "team": "Invictus Team",
+      "tag": "IVT",
+      "player": "bafufuba#HAHA",
+      "role": "",
+      "movement": "Saiu",
+      "detail": ""
+    },
+    {
+      "date": "2026-09-14",
+      "division": "CELOL B",
+      "team": "Docta Esport",
+      "tag": "DOC",
+      "player": "VHMRT#BR2",
+      "role": "",
+      "movement": "Saiu",
+      "detail": ""
+    },
+    {
+      "date": "2026-09-14",
+      "division": "CELOL B",
+      "team": "Final Level Core",
+      "tag": "FLC",
+      "player": "Cego de verdade#br1",
+      "role": "",
+      "movement": "Saiu",
+      "detail": ""
+    },
+    {
+      "date": "2026-09-14",
+      "division": "CELOL B",
+      "team": "Final Level Core",
+      "tag": "FLC",
+      "player": "costt#br1",
+      "role": "",
+      "movement": "Saiu",
+      "detail": ""
+    },
+    {
+      "date": "2026-09-14",
+      "division": "CELOL B",
+      "team": "Final Level Core",
+      "tag": "FLC",
+      "player": "HedGhoul#br1",
+      "role": "",
+      "movement": "Saiu",
+      "detail": ""
+    },
+    {
+      "date": "2026-09-14",
+      "division": "CELOL B",
+      "team": "Final Level Core",
+      "tag": "FLC",
+      "player": "Jão pé de feijão#mid",
+      "role": "",
+      "movement": "Saiu",
+      "detail": ""
+    },
+    {
+      "date": "2026-09-14",
+      "division": "CELOL B",
+      "team": "Final Level Core",
+      "tag": "FLC",
+      "player": "Abraão Otoba#Roxo",
+      "role": "",
+      "movement": "Saiu",
+      "detail": ""
+    },
+    {
+      "date": "2026-09-14",
+      "division": "CELOL B",
+      "team": "Final Level Core",
+      "tag": "FLC",
+      "player": "Zeoq#ego",
+      "role": "",
+      "movement": "Saiu",
+      "detail": "foi para Final Level Academy (CELOL B)"
+    },
+    {
+      "date": "2026-09-14",
+      "division": "CELOL B",
+      "team": "BaronX",
+      "tag": "BRX",
+      "player": "L9 LITO SOUZA#MACHO",
+      "role": "Top",
+      "movement": "Entrou",
+      "detail": "como reserva"
+    },
+    {
+      "date": "2026-09-14",
+      "division": "CELOL A",
+      "team": "Juventus Gaming Red",
+      "tag": "JUV",
+      "player": "SBW Itim#085",
+      "role": "",
+      "movement": "Saiu",
+      "detail": "foi para Shark Bite Furious Gaming White (CELOL A)"
+    },
+    {
+      "date": "2026-09-14",
+      "division": "CELOL B",
+      "team": "BaronX",
+      "tag": "BRX",
+      "player": "IMGOINGBACKTO505#me3",
+      "role": "Bot",
+      "movement": "Entrou",
+      "detail": "como reserva"
+    },
+    {
+      "date": "2026-09-15",
+      "division": "CELOL B",
+      "team": "Phantom E-Sports",
+      "tag": "PHE",
+      "player": "Britta Kit Bota#22B",
+      "role": "",
+      "movement": "Saiu",
+      "detail": ""
+    },
+    {
+      "date": "2026-09-15",
+      "division": "CELOL B",
+      "team": "Phantom E-Sports",
+      "tag": "PHE",
+      "player": "samsung#3sh",
+      "role": "",
+      "movement": "Entrou",
+      "detail": ""
+    },
+    {
+      "date": "2026-09-15",
+      "division": "CELOL B",
+      "team": "Phantom E-Sports",
+      "tag": "PHE",
+      "player": "lamani#blanc",
+      "role": "Mid",
+      "movement": "Entrou",
+      "detail": ""
+    },
+    {
+      "date": "2026-09-15",
+      "division": "CELOL B",
+      "team": "Final Level Academy",
+      "tag": "FLA",
+      "player": "Vorke#vorke",
+      "role": "",
+      "movement": "Saiu",
+      "detail": "foi para NKZ REVENGERS (CELOL B)"
+    },
+    {
+      "date": "2026-09-15",
+      "division": "CELOL B",
+      "team": "Final Level Academy",
+      "tag": "FLA",
+      "player": "FL BarbosaRX#1515",
+      "role": "",
+      "movement": "Entrou",
+      "detail": ""
+    },
+    {
+      "date": "2026-09-15",
+      "division": "CELOL B",
+      "team": "Phantom E-Sports",
+      "tag": "PHE",
+      "player": "Ats#6513",
+      "role": "",
+      "movement": "Saiu",
+      "detail": ""
+    },
+    {
+      "date": "2026-09-15",
+      "division": "CELOL A",
+      "team": "Shark Bite Furious Gaming White",
+      "tag": "SBW",
+      "player": "SBW Itim#085",
+      "role": "Mid",
+      "movement": "Entrou",
+      "detail": "veio de Juventus Gaming Red (CELOL A)"
+    },
+    {
+      "date": "2026-09-15",
+      "division": "CELOL A",
+      "team": "Shark Bite Furious Gaming White",
+      "tag": "SBW",
+      "player": "SBW J F#king",
+      "role": "",
+      "movement": "Saiu",
+      "detail": ""
+    },
+    {
+      "date": "2026-09-15",
+      "division": "CELOL B",
+      "team": "Ownage Gaming",
+      "tag": "OWN",
+      "player": "Khan#BRA",
+      "role": "",
+      "movement": "Saiu",
+      "detail": "foi para Phantom E-Sports (CELOL B)"
+    },
+    {
+      "date": "2026-09-15",
+      "division": "CELOL B",
+      "team": "Ownage Gaming",
+      "tag": "OWN",
+      "player": "Niko#SUSHI",
+      "role": "",
+      "movement": "Entrou",
+      "detail": ""
+    },
+    {
+      "date": "2026-09-15",
+      "division": "CELOL A",
+      "team": "LOS Academy",
+      "tag": "LOS",
+      "player": "Moita#Coach",
+      "role": "",
+      "movement": "Entrou",
+      "detail": "como reserva"
+    },
+    {
+      "date": "2026-09-15",
+      "division": "CELOL B",
+      "team": "Phantom E-Sports",
+      "tag": "PHE",
+      "player": "Soul#KRADC",
+      "role": "",
+      "movement": "Virou titular",
+      "detail": ""
+    },
+    {
+      "date": "2026-09-15",
+      "division": "CELOL B",
+      "team": "Phantom E-Sports",
+      "tag": "PHE",
+      "player": "Khan#BRA",
+      "role": "Jungle",
+      "movement": "Entrou",
+      "detail": "veio de Ownage Gaming (CELOL B)"
+    },
+    {
+      "date": "2026-09-15",
+      "division": "CELOL B",
+      "team": "Juventus Gaming White",
+      "tag": "JUV",
+      "player": "APG NiuKo#apg",
+      "role": "",
+      "movement": "Saiu",
+      "detail": ""
+    },
+    {
+      "date": "2026-09-15",
+      "division": "CELOL B",
+      "team": "Juventus Gaming White",
+      "tag": "JUV",
+      "player": "SPH Luvvee#LTAS",
+      "role": "",
+      "movement": "Entrou",
+      "detail": "veio de Sphere (CELOL A)"
+    },
+    {
+      "date": "2026-09-15",
+      "division": "CELOL B",
+      "team": "Juventus Gaming White",
+      "tag": "JUV",
+      "player": "JUV NiuKo#poy",
+      "role": "",
+      "movement": "Entrou",
+      "detail": "como reserva"
+    },
+    {
+      "date": "2026-09-16",
+      "division": "CELOL B",
+      "team": "SCALE Esports",
+      "tag": "SCL",
+      "player": "PRAÇA AK TROVÃO#PR7",
+      "role": "",
+      "movement": "Saiu",
+      "detail": ""
+    },
+    {
+      "date": "2026-09-16",
+      "division": "CELOL B",
+      "team": "SCALE Esports",
+      "tag": "SCL",
+      "player": "Augran#coach",
+      "role": "",
+      "movement": "Entrou",
+      "detail": ""
+    },
+    {
+      "date": "2026-09-16",
+      "division": "CELOL A",
+      "team": "Shark Bite Furious Gaming Black",
+      "tag": "SBK",
+      "player": "SBK Ferrari#SUP",
+      "role": "",
+      "movement": "Saiu",
+      "detail": ""
+    },
+    {
+      "date": "2026-09-16",
+      "division": "CELOL A",
+      "team": "Smoke Tram Ascension",
+      "tag": "STA",
+      "player": "VOA RIP EDMAERIN#BR2",
+      "role": "",
+      "movement": "Saiu",
+      "detail": "foi para Smoke Tram eSports (CELOL A)"
+    },
+    {
+      "date": "2026-09-16",
+      "division": "CELOL A",
+      "team": "Smoke Tram Ascension",
+      "tag": "STA",
+      "player": "makeuhappy#0000",
+      "role": "",
+      "movement": "Saiu",
+      "detail": "foi para Smoke Tram eSports (CELOL A)"
+    },
+    {
+      "date": "2026-09-16",
+      "division": "CELOL A",
+      "team": "Smoke Tram eSports",
+      "tag": "STE",
+      "player": "VOA RIP EDMAERIN#BR2",
+      "role": "Bot",
+      "movement": "Entrou",
+      "detail": "como reserva; veio de Smoke Tram Ascension (CELOL A)"
+    },
+    {
+      "date": "2026-09-16",
+      "division": "CELOL A",
+      "team": "Smoke Tram eSports",
+      "tag": "STE",
+      "player": "makeuhappy#0000",
+      "role": "Mid",
+      "movement": "Entrou",
+      "detail": "veio de Smoke Tram Ascension (CELOL A)"
+    },
+    {
+      "date": "2026-09-16",
+      "division": "CELOL B",
+      "team": "NKZ REVENGERS",
+      "tag": "NKZ",
+      "player": "NKZ Bleuris#br2",
+      "role": "Top",
+      "movement": "Virou titular",
+      "detail": ""
+    },
+    {
+      "date": "2026-09-16",
+      "division": "CELOL A",
+      "team": "Marere E-Sports",
+      "tag": "MRE",
+      "player": "ig meunorth#segue",
+      "role": "Support",
+      "movement": "Entrou",
+      "detail": ""
+    },
+    {
+      "date": "2026-09-16",
+      "division": "CELOL A",
+      "team": "NKZ VORAX",
+      "tag": "NKZ",
+      "player": "KRATOS#RAGNA",
+      "role": "Top",
+      "movement": "Entrou",
+      "detail": ""
+    },
+    {
+      "date": "2026-09-16",
+      "division": "CELOL A",
+      "team": "NKZ VORAX",
+      "tag": "NKZ",
+      "player": "NKZ Tijas#éele",
+      "role": "",
+      "movement": "Saiu",
+      "detail": "foi para NKZ REVENGERS (CELOL B)"
+    },
+    {
+      "date": "2026-09-16",
+      "division": "CELOL B",
+      "team": "NKZ REVENGERS",
+      "tag": "NKZ",
+      "player": "NKZ Bielzudo#GOAT",
+      "role": "",
+      "movement": "Saiu",
+      "detail": ""
+    },
+    {
+      "date": "2026-09-16",
+      "division": "CELOL B",
+      "team": "NKZ REVENGERS",
+      "tag": "NKZ",
+      "player": "NKZ yudiko#ggez",
+      "role": "",
+      "movement": "Saiu",
+      "detail": "foi para NKZ Reapers (CELOL B)"
+    },
+    {
+      "date": "2026-09-16",
+      "division": "CELOL B",
+      "team": "NKZ REVENGERS",
+      "tag": "NKZ",
+      "player": "NKZ Tijas#éele",
+      "role": "Top",
+      "movement": "Entrou",
+      "detail": "veio de NKZ VORAX (CELOL A)"
+    },
+    {
+      "date": "2026-09-16",
+      "division": "CELOL A",
+      "team": "LOS Academy",
+      "tag": "LOS",
+      "player": "severo#sona",
+      "role": "",
+      "movement": "Entrou",
+      "detail": ""
+    },
+    {
+      "date": "2026-09-16",
+      "division": "CELOL B",
+      "team": "BaronX",
+      "tag": "BRX",
+      "player": "qzwq#sleep",
+      "role": "Support",
+      "movement": "Entrou",
+      "detail": "como reserva"
+    },
+    {
+      "date": "2026-09-16",
+      "division": "CELOL B",
+      "team": "NKZ Reapers",
+      "tag": "NKZR",
+      "player": "NKZ yudiko#ggez",
+      "role": "Top",
+      "movement": "Entrou",
+      "detail": "como reserva; veio de NKZ REVENGERS (CELOL B)"
+    },
+    {
+      "date": "2026-09-16",
+      "division": "CELOL B",
+      "team": "NKZ REVENGERS",
+      "tag": "NKZ",
+      "player": "NKZ Ganderzin#157",
+      "role": "",
+      "movement": "Saiu",
+      "detail": ""
+    },
+    {
+      "date": "2026-09-16",
+      "division": "CELOL B",
+      "team": "NKZ REVENGERS",
+      "tag": "NKZ",
+      "player": "mink#055",
+      "role": "",
+      "movement": "Saiu",
+      "detail": ""
+    },
+    {
+      "date": "2026-09-16",
+      "division": "CELOL B",
+      "team": "NKZ REVENGERS",
+      "tag": "NKZ",
+      "player": "NKZ Aero#NKZ",
+      "role": "Mid",
+      "movement": "Entrou",
+      "detail": "veio de NKZ Reapers (CELOL B)"
+    },
+    {
+      "date": "2026-09-16",
+      "division": "CELOL B",
+      "team": "NKZ REVENGERS",
+      "tag": "NKZ",
+      "player": "Vorke#vorke",
+      "role": "Mid",
+      "movement": "Entrou",
+      "detail": "veio de Final Level Academy (CELOL B)"
+    },
+    {
+      "date": "2026-09-16",
+      "division": "CELOL B",
+      "team": "MAZE GG",
+      "tag": "MGG",
+      "player": "LuiD#9704",
+      "role": "",
+      "movement": "Entrou",
+      "detail": "como reserva"
+    },
+    {
+      "date": "2026-09-16",
+      "division": "CELOL B",
+      "team": "Final Level",
+      "tag": "FLL",
+      "player": "dsadas#br1",
+      "role": "Bot",
+      "movement": "Entrou",
+      "detail": "como reserva"
+    },
+    {
+      "date": "2026-09-16",
+      "division": "CELOL B",
+      "team": "MAZE GG",
+      "tag": "MGG",
+      "player": "Olocombia#GSL",
+      "role": "",
+      "movement": "Entrou",
+      "detail": "como reserva"
+    },
+    {
+      "date": "2026-09-17",
+      "division": "CELOL B",
+      "team": "Final Level Academy",
+      "tag": "FLA",
+      "player": "Kai Havertz#adgap",
+      "role": "",
+      "movement": "Saiu",
+      "detail": ""
+    },
+    {
+      "date": "2026-09-17",
+      "division": "CELOL B",
+      "team": "Alvora Gaming",
+      "tag": "ALV",
+      "player": "FetKira#Barou",
+      "role": "Bot",
+      "movement": "Entrou",
+      "detail": ""
+    },
+    {
+      "date": "2026-09-17",
+      "division": "CELOL B",
+      "team": "Alvora Gaming",
+      "tag": "ALV",
+      "player": "zKyou#br1",
+      "role": "Mid",
+      "movement": "Entrou",
+      "detail": "veio de Sphere (CELOL A)"
+    },
+    {
+      "date": "2026-09-17",
+      "division": "CELOL B",
+      "team": "MAZE GG",
+      "tag": "MGG",
+      "player": "hecquiem#002",
+      "role": "",
+      "movement": "Entrou",
+      "detail": "como reserva"
+    },
+    {
+      "date": "2026-09-17",
+      "division": "CELOL B",
+      "team": "Final Level Academy",
+      "tag": "FLA",
+      "player": "FL ZisteR#ADC",
+      "role": "Bot",
+      "movement": "Entrou",
+      "detail": ""
+    },
+    {
+      "date": "2026-09-17",
+      "division": "CELOL B",
+      "team": "Alvora Gaming",
+      "tag": "ALV",
+      "player": "Hora Extra#Kento",
+      "role": "Mid",
+      "movement": "Entrou",
+      "detail": "como reserva"
+    },
+    {
+      "date": "2026-09-17",
+      "division": "CELOL B",
+      "team": "Alvora Gaming",
+      "tag": "ALV",
+      "player": "Skyllen#2436",
+      "role": "",
+      "movement": "Entrou",
+      "detail": ""
+    },
+    {
+      "date": "2026-09-17",
+      "division": "CELOL A",
+      "team": "Neon eSports",
+      "tag": "NEON",
+      "player": "Marmelo1 Is Back#Poh",
+      "role": "",
+      "movement": "Saiu",
+      "detail": ""
+    },
+    {
+      "date": "2026-09-17",
+      "division": "CELOL B",
+      "team": "Ownage Gaming",
+      "tag": "OWN",
+      "player": "Canário#Avê",
+      "role": "",
+      "movement": "Saiu",
+      "detail": ""
+    },
+    {
+      "date": "2026-09-17",
+      "division": "CELOL B",
+      "team": "Ownage Gaming",
+      "tag": "OWN",
+      "player": "SST Mutilo#br1",
+      "role": "",
+      "movement": "Entrou",
+      "detail": ""
+    },
+    {
+      "date": "2026-09-17",
+      "division": "CELOL A",
+      "team": "Juventus Gaming Red",
+      "tag": "JUV",
+      "player": "Watonto#waton",
+      "role": "",
+      "movement": "Entrou",
+      "detail": ""
+    },
+    {
+      "date": "2026-09-17",
+      "division": "CELOL B",
+      "team": "Final Level Core",
+      "tag": "FLC",
+      "player": "MarcelinReformed#SoloQ",
+      "role": "",
+      "movement": "Saiu",
+      "detail": "foi para Final Level (CELOL B)"
+    },
+    {
+      "date": "2026-09-17",
+      "division": "CELOL A",
+      "team": "Shark Bite Furious Gaming Black",
+      "tag": "SBK",
+      "player": "havim#1014",
+      "role": "Support",
+      "movement": "Entrou",
+      "detail": ""
+    },
+    {
+      "date": "2026-09-17",
+      "division": "CELOL A",
+      "team": "Juventus Gaming Red",
+      "tag": "JUV",
+      "player": "Timbó#157",
+      "role": "",
+      "movement": "Entrou",
+      "detail": ""
+    },
+    {
+      "date": "2026-09-17",
+      "division": "CELOL B",
+      "team": "Phantom E-Sports",
+      "tag": "PHE",
+      "player": "Ats#6513",
+      "role": "",
+      "movement": "Entrou",
+      "detail": ""
+    },
+    {
+      "date": "2026-09-17",
+      "division": "CELOL B",
+      "team": "Final Level Academy",
+      "tag": "FLA",
+      "player": "Zeoq#ego",
+      "role": "Mid",
+      "movement": "Entrou",
+      "detail": "como reserva; veio de Final Level Core (CELOL B)"
+    },
+    {
+      "date": "2026-09-17",
+      "division": "CELOL B",
+      "team": "SCALE Esports",
+      "tag": "SCL",
+      "player": "Depressão#Fear",
+      "role": "",
+      "movement": "Entrou",
+      "detail": ""
+    },
+    {
+      "date": "2026-09-17",
+      "division": "CELOL B",
+      "team": "Final Level Core",
+      "tag": "FLC",
+      "player": "Morfpheu#br1",
+      "role": "",
+      "movement": "Saiu",
+      "detail": "foi para Final Level Academy (CELOL B)"
+    },
+    {
+      "date": "2026-09-17",
+      "division": "CELOL B",
+      "team": "Final Level Core",
+      "tag": "FLC",
+      "player": "Anauski#lol",
+      "role": "Top",
+      "movement": "Entrou",
+      "detail": ""
+    },
+    {
+      "date": "2026-09-17",
+      "division": "CELOL B",
+      "team": "Final Level Core",
+      "tag": "FLC",
+      "player": "LittleTeclas#0402",
+      "role": "",
+      "movement": "Entrou",
+      "detail": ""
+    },
+    {
+      "date": "2026-09-17",
+      "division": "CELOL B",
+      "team": "Final Level Core",
+      "tag": "FLC",
+      "player": "Oxossi#SDK",
+      "role": "",
+      "movement": "Entrou",
+      "detail": "como reserva"
+    },
+    {
+      "date": "2026-09-17",
+      "division": "CELOL B",
+      "team": "Final Level Academy",
+      "tag": "FLA",
+      "player": "Morfpheu#br1",
+      "role": "Jungle",
+      "movement": "Entrou",
+      "detail": "como reserva; veio de Final Level Core (CELOL B)"
+    },
+    {
+      "date": "2026-09-17",
+      "division": "CELOL B",
+      "team": "Final Level Core",
+      "tag": "FLC",
+      "player": "menyazovutcolan#nchat",
+      "role": "Bot",
+      "movement": "Entrou",
+      "detail": ""
+    },
+    {
+      "date": "2026-09-17",
+      "division": "CELOL B",
+      "team": "Final Level",
+      "tag": "FLL",
+      "player": "FL Kizemi  愛#kzmn",
+      "role": "",
+      "movement": "Saiu",
+      "detail": "foi para Final Level Core (CELOL B)"
+    },
+    {
+      "date": "2026-09-17",
+      "division": "CELOL B",
+      "team": "Final Level Core",
+      "tag": "FLC",
+      "player": "FL Kizemi  愛#kzmn",
+      "role": "",
+      "movement": "Entrou",
+      "detail": "veio de Final Level (CELOL B)"
+    },
+    {
+      "date": "2026-09-17",
+      "division": "CELOL A",
+      "team": "Smoke Tram Ascension",
+      "tag": "STA",
+      "player": "NKZ Bezão#bezas",
+      "role": "",
+      "movement": "Saiu",
+      "detail": "foi para NKZ Reapers (CELOL B)"
+    },
+    {
+      "date": "2026-09-18",
+      "division": "CELOL B",
+      "team": "Final Level Core",
+      "tag": "FLC",
+      "player": "koalazinbolado#flam",
+      "role": "Mid",
+      "movement": "Entrou",
+      "detail": ""
+    },
+    {
+      "date": "2026-09-18",
+      "division": "CELOL B",
+      "team": "Torin",
+      "tag": "TOR",
+      "player": "TOR Diêdê#PEG",
+      "role": "",
+      "movement": "Saiu",
+      "detail": ""
+    },
+    {
+      "date": "2026-09-18",
+      "division": "CELOL B",
+      "team": "Torin",
+      "tag": "TOR",
+      "player": "mogga betas#ego",
+      "role": "",
+      "movement": "Entrou",
+      "detail": ""
+    },
+    {
+      "date": "2026-09-18",
+      "division": "CELOL B",
+      "team": "Torin",
+      "tag": "TOR",
+      "player": "raven#br2",
+      "role": "",
+      "movement": "Saiu",
+      "detail": ""
+    },
+    {
+      "date": "2026-09-18",
+      "division": "CELOL B",
+      "team": "Torin",
+      "tag": "TOR",
+      "player": "L7シ#renga",
+      "role": "",
+      "movement": "Entrou",
+      "detail": ""
+    },
+    {
+      "date": "2026-09-18",
+      "division": "CELOL A",
+      "team": "Smoke Tram Ascension",
+      "tag": "STA",
+      "player": "NARO#AD333",
+      "role": "Bot",
+      "movement": "Entrou",
+      "detail": ""
+    },
+    {
+      "date": "2026-09-18",
+      "division": "CELOL B",
+      "team": "Final Level Core",
+      "tag": "FLC",
+      "player": "WingRiddenAngel#dd1",
+      "role": "",
+      "movement": "Entrou",
+      "detail": ""
+    },
+    {
+      "date": "2026-09-21",
+      "division": "CELOL B",
+      "team": "Botafogo e-Sports",
+      "tag": "BOT",
+      "player": "Maxterium#105",
+      "role": "",
+      "movement": "Saiu",
+      "detail": ""
+    },
+    {
+      "date": "2026-09-21",
+      "division": "CELOL B",
+      "team": "Botafogo e-Sports",
+      "tag": "BOT",
+      "player": "Silence#CN1",
+      "role": "",
+      "movement": "Entrou",
+      "detail": ""
+    },
+    {
+      "date": "2026-09-21",
+      "division": "CELOL B",
+      "team": "Alvora Gaming",
+      "tag": "ALV",
+      "player": "roguee#cn1",
+      "role": "",
+      "movement": "Saiu",
+      "detail": ""
+    },
+    {
+      "date": "2026-09-21",
+      "division": "CELOL B",
+      "team": "Alvora Gaming",
+      "tag": "ALV",
+      "player": "sangyu14#kr2",
+      "role": "Mid",
+      "movement": "Saiu",
+      "detail": ""
+    },
+    {
+      "date": "2026-09-21",
+      "division": "CELOL B",
+      "team": "Alvora Gaming",
+      "tag": "ALV",
+      "player": "Skyllen#2436",
+      "role": "",
+      "movement": "Saiu",
+      "detail": "foi para Final Level (CELOL B)"
+    },
+    {
+      "date": "2026-09-21",
+      "division": "CELOL B",
+      "team": "NKZ Reapers",
+      "tag": "NKZR",
+      "player": "LIVE THEPUTZMAN#KIRON",
+      "role": "",
+      "movement": "Saiu",
+      "detail": ""
+    },
+    {
+      "date": "2026-09-21",
+      "division": "CELOL B",
+      "team": "NKZ Reapers",
+      "tag": "NKZR",
+      "player": "NKZ Bezão#bezas",
+      "role": "Bot",
+      "movement": "Entrou",
+      "detail": "veio de Smoke Tram Ascension (CELOL A)"
+    },
+    {
+      "date": "2026-09-21",
+      "division": "CELOL B",
+      "team": "NKZ Reapers",
+      "tag": "NKZR",
+      "player": "NKZ JunΔy#333",
+      "role": "",
+      "movement": "Saiu",
+      "detail": ""
+    },
+    {
+      "date": "2026-09-22",
+      "division": "CELOL B",
+      "team": "NKZ Reapers",
+      "tag": "NKZR",
+      "player": "itsDaizSa#027",
+      "role": "",
+      "movement": "Saiu",
+      "detail": "foi para Team Victory (CELOL B)"
+    },
+    {
+      "date": "2026-09-22",
+      "division": "CELOL B",
+      "team": "NKZ REVENGERS",
+      "tag": "NKZ",
+      "player": "NKZ Bleuris#br2",
+      "role": "Top",
+      "movement": "Saiu",
+      "detail": "foi para NKZ Reapers (CELOL B)"
+    },
+    {
+      "date": "2026-09-23",
+      "division": "CELOL A",
+      "team": "Marere E-Sports",
+      "tag": "MRE",
+      "player": "kaiks#kaiks",
+      "role": "Support",
+      "movement": "Entrou",
+      "detail": "como reserva"
+    },
+    {
+      "date": "2026-09-23",
+      "division": "CELOL A",
+      "team": "Marere E-Sports",
+      "tag": "MRE",
+      "player": "rSalesjr#1203",
+      "role": "",
+      "movement": "Entrou",
+      "detail": "como reserva"
+    },
+    {
+      "date": "2026-09-23",
+      "division": "CELOL B",
+      "team": "SCALE Esports",
+      "tag": "SCL",
+      "player": "Lextas#SOLXT",
+      "role": "",
+      "movement": "Entrou",
+      "detail": "como reserva"
+    },
+    {
+      "date": "2026-09-23",
+      "division": "CELOL B",
+      "team": "SCALE Esports",
+      "tag": "SCL",
+      "player": "LordTomik#BR1",
+      "role": "",
+      "movement": "Entrou",
+      "detail": "como reserva"
+    },
+    {
+      "date": "2026-09-24",
+      "division": "CELOL A",
+      "team": "Smoke Tram Ascension",
+      "tag": "STA",
+      "player": "maronato#rat",
+      "role": "",
+      "movement": "Entrou",
+      "detail": ""
+    },
+    {
+      "date": "2026-09-24",
+      "division": "CELOL B",
+      "team": "Final Level",
+      "tag": "FLL",
+      "player": "MarcelinReformed#SoloQ",
+      "role": "",
+      "movement": "Entrou",
+      "detail": "como reserva; veio de Final Level Core (CELOL B)"
+    },
+    {
+      "date": "2026-09-24",
+      "division": "CELOL B",
+      "team": "Final Level",
+      "tag": "FLL",
+      "player": "Skyllen#2436",
+      "role": "Bot",
+      "movement": "Entrou",
+      "detail": "veio de Alvora Gaming (CELOL B)"
+    },
+    {
+      "date": "2026-09-24",
+      "division": "CELOL B",
+      "team": "NKZ Reapers",
+      "tag": "NKZR",
+      "player": "NKZ Bleuris#br2",
+      "role": "",
+      "movement": "Entrou",
+      "detail": "como reserva; veio de NKZ REVENGERS (CELOL B)"
+    },
+    {
+      "date": "2026-09-24",
+      "division": "CELOL A",
+      "team": "Smoke Tram Ascension",
+      "tag": "STA",
+      "player": "maronato#rat",
+      "role": "",
+      "movement": "Saiu",
+      "detail": ""
+    },
+    {
+      "date": "2026-09-24",
+      "division": "CELOL A",
+      "team": "Smoke Tram Ascension",
+      "tag": "STA",
+      "player": "B3ST ONE#001",
+      "role": "Jungle",
+      "movement": "Virou titular",
+      "detail": ""
+    },
+    {
+      "date": "2026-09-24",
+      "division": "CELOL B",
+      "team": "Marere Academy",
+      "tag": "MRE",
+      "player": "corredato#nati",
+      "role": "",
+      "movement": "Saiu",
+      "detail": ""
+    },
+    {
+      "date": "2026-09-24",
+      "division": "CELOL B",
+      "team": "Marere Academy",
+      "tag": "MRE",
+      "player": "Yamorim#ym7",
+      "role": "Mid",
+      "movement": "Entrou",
+      "detail": ""
+    },
+    {
+      "date": "2026-09-24",
+      "division": "CELOL B",
+      "team": "Marere Academy",
+      "tag": "MRE",
+      "player": "ayez#aikaz",
+      "role": "Jungle",
+      "movement": "Entrou",
+      "detail": "como reserva"
+    },
+    {
+      "date": "2026-09-24",
+      "division": "CELOL A",
+      "team": "Invictus Team",
+      "tag": "IVT",
+      "player": "Mayura#lbwq",
+      "role": "Mid",
+      "movement": "Saiu",
+      "detail": "foi para Alvora Gaming (CELOL B)"
+    },
+    {
+      "date": "2026-09-24",
+      "division": "CELOL B",
+      "team": "Alvora Gaming",
+      "tag": "ALV",
+      "player": "Mayura#lbwq",
+      "role": "Mid",
+      "movement": "Entrou",
+      "detail": "veio de Invictus Team (CELOL A)"
+    },
+    {
+      "date": "2026-09-24",
+      "division": "CELOL A",
+      "team": "Smoke Tram Ascension",
+      "tag": "STA",
+      "player": "Dhominik#GOAT",
+      "role": "Jungle",
+      "movement": "Entrou",
+      "detail": ""
+    },
+    {
+      "date": "2026-09-24",
+      "division": "CELOL B",
+      "team": "Docta Esport",
+      "tag": "DOC",
+      "player": "Артём Чёрный#Br2",
+      "role": "Jungle",
+      "movement": "Entrou",
+      "detail": "como reserva"
+    },
+    {
+      "date": "2026-09-25",
+      "division": "CELOL B",
+      "team": "Final Level Core",
+      "tag": "FLC",
+      "player": "Anauski#lol",
+      "role": "Top",
+      "movement": "Saiu",
+      "detail": ""
+    },
+    {
+      "date": "2026-09-25",
+      "division": "CELOL B",
+      "team": "Final Level Core",
+      "tag": "FLC",
+      "player": "SSolo lol#SSolo",
+      "role": "",
+      "movement": "Entrou",
+      "detail": ""
+    },
+    {
+      "date": "2026-09-25",
+      "division": "CELOL B",
+      "team": "Final Level Core",
+      "tag": "FLC",
+      "player": "WingRiddenAngel#dd1",
+      "role": "",
+      "movement": "Saiu",
+      "detail": ""
+    },
+    {
+      "date": "2026-09-25",
+      "division": "CELOL B",
+      "team": "Final Level Core",
+      "tag": "FLC",
+      "player": "menyazovutcolan#nchat",
+      "role": "Bot",
+      "movement": "Saiu",
+      "detail": ""
+    },
+    {
+      "date": "2026-09-25",
+      "division": "CELOL B",
+      "team": "Botafogo e-Sports",
+      "tag": "BOT",
+      "player": "Silence#CN1",
+      "role": "",
+      "movement": "Saiu",
+      "detail": ""
+    },
+    {
+      "date": "2026-09-25",
+      "division": "CELOL B",
+      "team": "Phantom E-Sports",
+      "tag": "PHE",
+      "player": "samsung#3sh",
+      "role": "",
+      "movement": "Saiu",
+      "detail": ""
+    },
+    {
+      "date": "2026-09-25",
+      "division": "CELOL B",
+      "team": "Phantom E-Sports",
+      "tag": "PHE",
+      "player": "Monoc#Rell",
+      "role": "Support",
+      "movement": "Entrou",
+      "detail": "veio de Neon eSports (CELOL A)"
+    },
+    {
+      "date": "2026-09-25",
+      "division": "CELOL B",
+      "team": "Final Level Core",
+      "tag": "FLC",
+      "player": "epilul#ROX",
+      "role": "Bot",
+      "movement": "Entrou",
+      "detail": ""
+    },
+    {
+      "date": "2026-09-25",
+      "division": "CELOL A",
+      "team": "Smoke Tram eSports",
+      "tag": "STE",
+      "player": "matheuzin#18y",
+      "role": "Top",
+      "movement": "Entrou",
+      "detail": ""
+    },
+    {
+      "date": "2026-09-25",
+      "division": "CELOL B",
+      "team": "Final Level Core",
+      "tag": "FLC",
+      "player": "Gishi#1984",
+      "role": "",
+      "movement": "Entrou",
+      "detail": "como reserva"
+    },
+    {
+      "date": "2026-09-28",
+      "division": "CELOL B",
+      "team": "Docta Esport",
+      "tag": "DOC",
+      "player": "TURBO SACADO#MXTR",
+      "role": "Support",
+      "movement": "Saiu",
+      "detail": ""
+    },
+    {
+      "date": "2026-09-28",
+      "division": "CELOL A",
+      "team": "Shark Bite Furious Gaming White",
+      "tag": "SBW",
+      "player": "SBW SoLoYF#br2",
+      "role": "Bot",
+      "movement": "Saiu",
+      "detail": ""
+    },
+    {
+      "date": "2026-09-28",
+      "division": "CELOL A",
+      "team": "Shark Bite Furious Gaming White",
+      "tag": "SBW",
+      "player": "Matsasu#inat",
+      "role": "Bot",
+      "movement": "Entrou",
+      "detail": ""
+    },
+    {
+      "date": "2026-09-28",
+      "division": "CELOL B",
+      "team": "Docta Esport",
+      "tag": "DOC",
+      "player": "Cholardus#br1",
+      "role": "Support",
+      "movement": "Virou titular",
+      "detail": ""
+    },
+    {
+      "date": "2026-09-28",
+      "division": "CELOL A",
+      "team": "Shark Bite Furious Gaming Black",
+      "tag": "SBK",
+      "player": "SBK Thunder#TOP",
+      "role": "Top",
+      "movement": "Virou reserva",
+      "detail": ""
+    },
+    {
+      "date": "2026-09-28",
+      "division": "CELOL A",
+      "team": "Shark Bite Furious Gaming Black",
+      "tag": "SBK",
+      "player": "SBK HadesX 冥#BIXO",
+      "role": "Jungle",
+      "movement": "Virou titular",
+      "detail": ""
+    },
+    {
+      "date": "2026-09-29",
+      "division": "CELOL B",
+      "team": "Phantom E-Sports",
+      "tag": "PHE",
+      "player": "Pantalone#DEBT",
+      "role": "",
+      "movement": "Saiu",
+      "detail": ""
+    },
+    {
+      "date": "2026-09-29",
+      "division": "CELOL B",
+      "team": "Phantom E-Sports",
+      "tag": "PHE",
+      "player": "samsung#3sh",
+      "role": "",
+      "movement": "Entrou",
+      "detail": ""
+    },
+    {
+      "date": "2026-09-29",
+      "division": "CELOL B",
+      "team": "Marere Academy",
+      "tag": "MRE",
+      "player": "MACHINE GIRL#自我宽恕1",
+      "role": "Top",
+      "movement": "Virou titular",
+      "detail": ""
+    },
+    {
+      "date": "2026-09-29",
+      "division": "CELOL B",
+      "team": "Marere Academy",
+      "tag": "MRE",
+      "player": "10 07 14#love",
+      "role": "",
+      "movement": "Saiu",
+      "detail": ""
+    },
+    {
+      "date": "2026-09-29",
+      "division": "CELOL B",
+      "team": "Marere Academy",
+      "tag": "MRE",
+      "player": "ayez#aikaz",
+      "role": "Jungle",
+      "movement": "Virou titular",
+      "detail": ""
+    },
+    {
+      "date": "2026-09-29",
+      "division": "CELOL B",
+      "team": "Marere Academy",
+      "tag": "MRE",
+      "player": "MRE Carelli#JNG",
+      "role": "",
+      "movement": "Virou reserva",
+      "detail": ""
+    },
+    {
+      "date": "2026-09-29",
+      "division": "CELOL B",
+      "team": "Marere Academy",
+      "tag": "MRE",
+      "player": "Yamorim#ym7",
+      "role": "Mid",
+      "movement": "Saiu",
+      "detail": ""
+    },
+    {
+      "date": "2026-09-29",
+      "division": "CELOL B",
+      "team": "Marere Academy",
+      "tag": "MRE",
+      "player": "ExperctiBR#BR1",
+      "role": "Top",
+      "movement": "Virou reserva",
+      "detail": ""
+    },
+    {
+      "date": "2026-09-29",
+      "division": "CELOL B",
+      "team": "Juventus Gaming White",
+      "tag": "JUV",
+      "player": "SPH Luvvee#LTAS",
+      "role": "",
+      "movement": "Saiu",
+      "detail": ""
+    },
+    {
+      "date": "2026-09-29",
+      "division": "CELOL B",
+      "team": "Juventus Gaming White",
+      "tag": "JUV",
+      "player": "JUV NiuKo#poy",
+      "role": "",
+      "movement": "Virou titular",
+      "detail": ""
+    },
+    {
+      "date": "2026-09-29",
+      "division": "CELOL B",
+      "team": "Marere Academy",
+      "tag": "MRE",
+      "player": "Dlodfank#Dlod",
+      "role": "Support",
+      "movement": "Entrou",
+      "detail": ""
+    },
+    {
+      "date": "2026-09-29",
+      "division": "CELOL B",
+      "team": "BaronX",
+      "tag": "BRX",
+      "player": "jhntn#0000",
+      "role": "Support",
+      "movement": "Entrou",
+      "detail": "como reserva"
+    },
+    {
+      "date": "2026-09-29",
+      "division": "CELOL B",
+      "team": "Botafogo e-Sports",
+      "tag": "BOT",
+      "player": "skyyy#grizo",
+      "role": "Mid",
+      "movement": "Saiu",
+      "detail": ""
+    },
+    {
+      "date": "2026-09-29",
+      "division": "CELOL B",
+      "team": "Phantom E-Sports",
+      "tag": "PHE",
+      "player": "lamani#blanc",
+      "role": "Mid",
+      "movement": "Saiu",
+      "detail": ""
+    },
+    {
+      "date": "2026-09-29",
+      "division": "CELOL B",
+      "team": "Phantom E-Sports",
+      "tag": "PHE",
+      "player": "samsung#3sh",
+      "role": "",
+      "movement": "Saiu",
+      "detail": ""
+    },
+    {
+      "date": "2026-09-29",
+      "division": "CELOL B",
+      "team": "Phantom E-Sports",
+      "tag": "PHE",
+      "player": "Soul#KRADC",
+      "role": "",
+      "movement": "Saiu",
+      "detail": ""
+    },
+    {
+      "date": "2026-09-30",
+      "division": "CELOL B",
+      "team": "SCALE Esports",
+      "tag": "SCL",
+      "player": "Depressão#Fear",
+      "role": "",
+      "movement": "Saiu",
+      "detail": ""
+    },
+    {
+      "date": "2026-09-30",
+      "division": "CELOL B",
+      "team": "SCALE Esports",
+      "tag": "SCL",
+      "player": "Lextas#SOLXT",
+      "role": "",
+      "movement": "Virou titular",
+      "detail": ""
+    },
+    {
+      "date": "2026-09-30",
+      "division": "CELOL B",
+      "team": "SCALE Esports",
+      "tag": "SCL",
+      "player": "orkyã#BR1",
+      "role": "",
+      "movement": "Virou reserva",
+      "detail": ""
+    },
+    {
+      "date": "2026-09-30",
+      "division": "CELOL B",
+      "team": "SCALE Esports",
+      "tag": "SCL",
+      "player": "É É É É#EAN",
+      "role": "",
+      "movement": "Entrou",
+      "detail": "como reserva"
+    },
+    {
+      "date": "2026-09-30",
+      "division": "CELOL B",
+      "team": "SCALE Esports",
+      "tag": "SCL",
+      "player": "Sivir#BR123",
+      "role": "",
+      "movement": "Virou reserva",
+      "detail": ""
+    },
+    {
+      "date": "2026-09-30",
+      "division": "CELOL B",
+      "team": "SCALE Esports",
+      "tag": "SCL",
+      "player": "LordTomik#BR1",
+      "role": "",
+      "movement": "Virou titular",
+      "detail": ""
+    },
+    {
+      "date": "2026-09-30",
+      "division": "CELOL B",
+      "team": "Team Victory",
+      "tag": "VIX",
+      "player": "itsDaizSa#027",
+      "role": "",
+      "movement": "Entrou",
+      "detail": "veio de NKZ Reapers (CELOL B)"
+    },
+    {
+      "date": "2026-09-30",
+      "division": "CELOL B",
+      "team": "Team Victory",
+      "tag": "VIX",
+      "player": "VIX FerN#sup1",
+      "role": "",
+      "movement": "Saiu",
+      "detail": ""
+    },
+    {
+      "date": "2026-09-30",
+      "division": "CELOL B",
+      "team": "Team Victory",
+      "tag": "VIX",
+      "player": "VIX Mattos#027",
+      "role": "",
+      "movement": "Saiu",
+      "detail": ""
+    },
+    {
+      "date": "2026-09-30",
+      "division": "CELOL B",
+      "team": "Team Victory",
+      "tag": "VIX",
+      "player": "Takefe#1675",
+      "role": "Support",
+      "movement": "Virou titular",
+      "detail": ""
+    },
+    {
+      "date": "2026-09-30",
+      "division": "CELOL B",
+      "team": "Final Level Core",
+      "tag": "FLC",
+      "player": "koalazinbolado#flam",
+      "role": "Mid",
+      "movement": "Saiu",
+      "detail": ""
+    },
+    {
+      "date": "2026-09-30",
+      "division": "CELOL B",
+      "team": "Final Level Core",
+      "tag": "FLC",
+      "player": "epilul#ROX",
+      "role": "Bot",
+      "movement": "Saiu",
+      "detail": ""
+    },
+    {
+      "date": "2026-09-30",
+      "division": "CELOL B",
+      "team": "Final Level Core",
+      "tag": "FLC",
+      "player": "Oxossi#SDK",
+      "role": "",
+      "movement": "Virou titular",
+      "detail": ""
+    },
+    {
+      "date": "2026-09-30",
+      "division": "CELOL B",
+      "team": "Final Level Core",
+      "tag": "FLC",
+      "player": "FL Kizemi  愛#kzmn",
+      "role": "",
+      "movement": "Virou reserva",
+      "detail": ""
+    },
+    {
+      "date": "2026-09-30",
+      "division": "CELOL B",
+      "team": "Final Level Core",
+      "tag": "FLC",
+      "player": "Gishi#1984",
+      "role": "",
+      "movement": "Virou titular",
+      "detail": ""
+    },
+    {
+      "date": "2026-09-30",
+      "division": "CELOL B",
+      "team": "Final Level Core",
+      "tag": "FLC",
+      "player": "rukawa#333",
+      "role": "",
+      "movement": "Entrou",
+      "detail": "como reserva"
+    },
+    {
+      "date": "2026-09-30",
+      "division": "CELOL A",
+      "team": "Juventus Gaming Red",
+      "tag": "JUV",
+      "player": "Tragen#leer",
+      "role": "",
+      "movement": "Saiu",
+      "detail": ""
+    },
+    {
+      "date": "2026-09-30",
+      "division": "CELOL A",
+      "team": "Juventus Gaming Red",
+      "tag": "JUV",
+      "player": "Zenite#ZENIT",
+      "role": "",
+      "movement": "Saiu",
+      "detail": ""
+    },
+    {
+      "date": "2026-09-30",
+      "division": "CELOL A",
+      "team": "Juventus Gaming Red",
+      "tag": "JUV",
+      "player": "Azeez1#juya",
+      "role": "",
+      "movement": "Saiu",
+      "detail": ""
+    },
+    {
+      "date": "2026-09-30",
+      "division": "CELOL A",
+      "team": "Juventus Gaming Red",
+      "tag": "JUV",
+      "player": "Punch#abcde",
+      "role": "",
+      "movement": "Virou titular",
+      "detail": ""
+    },
+    {
+      "date": "2026-09-30",
+      "division": "CELOL A",
+      "team": "Juventus Gaming Red",
+      "tag": "JUV",
+      "player": "Timbó#157",
+      "role": "",
+      "movement": "Saiu",
+      "detail": ""
+    },
+    {
+      "date": "2026-09-30",
+      "division": "CELOL A",
+      "team": "Juventus Gaming Red",
+      "tag": "JUV",
+      "player": "King#Bong",
+      "role": "",
+      "movement": "Virou titular",
+      "detail": ""
+    },
+    {
+      "date": "2026-09-30",
+      "division": "CELOL A",
+      "team": "Juventus Gaming Red",
+      "tag": "JUV",
+      "player": "COACH Nändö#Maria",
+      "role": "",
+      "movement": "Virou titular",
+      "detail": ""
+    },
+    {
+      "date": "2026-09-30",
+      "division": "CELOL B",
+      "team": "INFINITY GAMING",
+      "tag": "IGG",
+      "player": "Tarzan Sergipano#BR1",
+      "role": "Top",
+      "movement": "Entrou",
+      "detail": "como reserva"
+    },
+    {
+      "date": "2026-10-01",
+      "division": "CELOL B",
+      "team": "Botafogo e-Sports",
+      "tag": "BOT",
+      "player": "DKL#topFA",
+      "role": "",
+      "movement": "Saiu",
+      "detail": ""
+    },
+    {
+      "date": "2026-10-01",
+      "division": "CELOL B",
+      "team": "Botafogo e-Sports",
+      "tag": "BOT",
+      "player": "Oldust#BR07",
+      "role": "",
+      "movement": "Saiu",
+      "detail": ""
+    },
+    {
+      "date": "2026-10-01",
+      "division": "CELOL B",
+      "team": "Final Level Core",
+      "tag": "FLC",
+      "player": "rukawa#333",
+      "role": "",
+      "movement": "Virou titular",
+      "detail": ""
+    },
+    {
+      "date": "2026-10-01",
+      "division": "CELOL A",
+      "team": "Neon eSports",
+      "tag": "NEON",
+      "player": "robloxgirlfriend#lmnsm",
+      "role": "",
+      "movement": "Entrou",
+      "detail": ""
+    },
+    {
+      "date": "2026-10-01",
+      "division": "CELOL A",
+      "team": "Juventus Gaming Red",
+      "tag": "JUV",
+      "player": "weiss#miya",
+      "role": "",
+      "movement": "Saiu",
+      "detail": ""
+    },
+    {
+      "date": "2026-10-01",
+      "division": "CELOL A",
+      "team": "Smoke Tram eSports",
+      "tag": "STE",
+      "player": "matheuzin#18y",
+      "role": "Top",
+      "movement": "Saiu",
+      "detail": ""
+    },
+    {
+      "date": "2026-10-01",
+      "division": "CELOL A",
+      "team": "Smoke Tram eSports",
+      "tag": "STE",
+      "player": "makeuhappy#0000",
+      "role": "Mid",
+      "movement": "Saiu",
+      "detail": ""
+    },
+    {
+      "date": "2026-10-01",
+      "division": "CELOL A",
+      "team": "Smoke Tram eSports",
+      "tag": "STE",
+      "player": "inori#lrsz",
+      "role": "Mid",
+      "movement": "Virou reserva",
+      "detail": ""
+    },
+    {
+      "date": "2026-10-01",
+      "division": "CELOL A",
+      "team": "Invictus Team",
+      "tag": "IVT",
+      "player": "Dande#极 致",
+      "role": "Top",
+      "movement": "Saiu",
+      "detail": ""
+    },
+    {
+      "date": "2026-10-01",
+      "division": "CELOL B",
+      "team": "Marere Academy",
+      "tag": "MRE",
+      "player": "Dazai Ryuu#Klein",
+      "role": "Mid",
+      "movement": "Saiu",
+      "detail": "foi para Smoke Tram eSports (CELOL A)"
+    },
+    {
+      "date": "2026-10-01",
+      "division": "CELOL B",
+      "team": "Marere Academy",
+      "tag": "MRE",
+      "player": "SPARTANPRIMEMODE#41229",
+      "role": "Mid",
+      "movement": "Entrou",
+      "detail": "como reserva"
+    },
+    {
+      "date": "2026-10-01",
+      "division": "CELOL A",
+      "team": "Invictus Team",
+      "tag": "IVT",
+      "player": "Mercenario#2049",
+      "role": "Bot",
+      "movement": "Virou reserva",
+      "detail": ""
+    },
+    {
+      "date": "2026-10-01",
+      "division": "CELOL A",
+      "team": "Invictus Team",
+      "tag": "IVT",
+      "player": "i came back#22222",
+      "role": "Bot",
+      "movement": "Virou titular",
+      "detail": ""
+    },
+    {
+      "date": "2026-10-01",
+      "division": "CELOL A",
+      "team": "Invictus Team",
+      "tag": "IVT",
+      "player": "game chand me#br1",
+      "role": "Jungle",
+      "movement": "Virou titular",
+      "detail": ""
+    },
+    {
+      "date": "2026-10-01",
+      "division": "CELOL A",
+      "team": "Invictus Team",
+      "tag": "IVT",
+      "player": "tapom#br1",
+      "role": "Mid",
+      "movement": "Virou titular",
+      "detail": ""
+    },
+    {
+      "date": "2026-10-01",
+      "division": "CELOL B",
+      "team": "NKZ Reapers",
+      "tag": "NKZR",
+      "player": "NKZ StarZ#Star",
+      "role": "Mid",
+      "movement": "Saiu",
+      "detail": "foi para NKZ REVENGERS (CELOL B)"
+    },
+    {
+      "date": "2026-10-01",
+      "division": "CELOL B",
+      "team": "NKZ REVENGERS",
+      "tag": "NKZ",
+      "player": "NKZ Stiles#stlk",
+      "role": "Jungle",
+      "movement": "Saiu",
+      "detail": "foi para NKZ Reapers (CELOL B)"
+    },
+    {
+      "date": "2026-10-01",
+      "division": "CELOL B",
+      "team": "NKZ REVENGERS",
+      "tag": "NKZ",
+      "player": "NKZ Aero#NKZ",
+      "role": "Mid",
+      "movement": "Saiu",
+      "detail": "foi para NKZ Reapers (CELOL B)"
+    },
+    {
+      "date": "2026-10-01",
+      "division": "CELOL B",
+      "team": "NKZ REVENGERS",
+      "tag": "NKZ",
+      "player": "NKZ Mrl8#001",
+      "role": "Bot",
+      "movement": "Saiu",
+      "detail": "foi para NKZ Reapers (CELOL B)"
+    },
+    {
+      "date": "2026-10-01",
+      "division": "CELOL B",
+      "team": "NKZ REVENGERS",
+      "tag": "NKZ",
+      "player": "NKZ StarZ#Star",
+      "role": "Mid",
+      "movement": "Entrou",
+      "detail": "veio de NKZ Reapers (CELOL B)"
+    },
+    {
+      "date": "2026-10-01",
+      "division": "CELOL B",
+      "team": "NKZ REVENGERS",
+      "tag": "NKZ",
+      "player": "NKZ Piza#CBLOL",
+      "role": "Support",
+      "movement": "Virou reserva",
+      "detail": ""
+    },
+    {
+      "date": "2026-10-01",
+      "division": "CELOL B",
+      "team": "NKZ Reapers",
+      "tag": "NKZR",
+      "player": "NKZ Dibraldinho9#JGGAP",
+      "role": "Jungle",
+      "movement": "Saiu",
+      "detail": "foi para NKZ REVENGERS (CELOL B)"
+    },
+    {
+      "date": "2026-10-01",
+      "division": "CELOL B",
+      "team": "NKZ Reapers",
+      "tag": "NKZR",
+      "player": "NKZ Franco#br2",
+      "role": "Support",
+      "movement": "Saiu",
+      "detail": "foi para NKZ REVENGERS (CELOL B)"
+    },
+    {
+      "date": "2026-10-01",
+      "division": "CELOL B",
+      "team": "NKZ REVENGERS",
+      "tag": "NKZ",
+      "player": "NKZ Franco#br2",
+      "role": "Support",
+      "movement": "Entrou",
+      "detail": "veio de NKZ Reapers (CELOL B)"
+    },
+    {
+      "date": "2026-10-01",
+      "division": "CELOL B",
+      "team": "NKZ Reapers",
+      "tag": "NKZR",
+      "player": "NKZ Bezão#bezas",
+      "role": "Bot",
+      "movement": "Saiu",
+      "detail": "foi para NKZ REVENGERS (CELOL B)"
+    },
+    {
+      "date": "2026-10-01",
+      "division": "CELOL B",
+      "team": "NKZ REVENGERS",
+      "tag": "NKZ",
+      "player": "NKZ Bezão#bezas",
+      "role": "Bot",
+      "movement": "Entrou",
+      "detail": "veio de NKZ Reapers (CELOL B)"
+    },
+    {
+      "date": "2026-10-01",
+      "division": "CELOL B",
+      "team": "NKZ REVENGERS",
+      "tag": "NKZ",
+      "player": "NKZ Dibraldinho9#JGGAP",
+      "role": "Jungle",
+      "movement": "Entrou",
+      "detail": "veio de NKZ Reapers (CELOL B)"
+    },
+    {
+      "date": "2026-10-01",
+      "division": "CELOL B",
+      "team": "NKZ Reapers",
+      "tag": "NKZR",
+      "player": "NKZ yudiko#ggez",
+      "role": "Top",
+      "movement": "Virou titular",
+      "detail": ""
+    },
+    {
+      "date": "2026-10-01",
+      "division": "CELOL B",
+      "team": "NKZ Reapers",
+      "tag": "NKZR",
+      "player": "NKZ Stiles#stlk",
+      "role": "",
+      "movement": "Entrou",
+      "detail": "veio de NKZ REVENGERS (CELOL B)"
+    },
+    {
+      "date": "2026-10-01",
+      "division": "CELOL B",
+      "team": "NKZ Reapers",
+      "tag": "NKZR",
+      "player": "NKZ Aero#NKZ",
+      "role": "Mid",
+      "movement": "Entrou",
+      "detail": "veio de NKZ REVENGERS (CELOL B)"
+    },
+    {
+      "date": "2026-10-01",
+      "division": "CELOL B",
+      "team": "NKZ Reapers",
+      "tag": "NKZR",
+      "player": "NKZ Mrl8#001",
+      "role": "",
+      "movement": "Entrou",
+      "detail": "veio de NKZ REVENGERS (CELOL B)"
+    },
+    {
+      "date": "2026-10-01",
+      "division": "CELOL B",
+      "team": "NKZ REVENGERS",
+      "tag": "NKZ",
+      "player": "NKZ Little 愛#LPL",
+      "role": "Bot",
+      "movement": "Saiu",
+      "detail": ""
+    },
+    {
+      "date": "2026-10-02",
+      "division": "CELOL B",
+      "team": "Botafogo e-Sports",
+      "tag": "BOT",
+      "player": "Maya#mym",
+      "role": "Support",
+      "movement": "Entrou",
+      "detail": ""
+    },
+    {
+      "date": "2026-10-02",
+      "division": "CELOL B",
+      "team": "Botafogo e-Sports",
+      "tag": "BOT",
+      "player": "LilGiela33#wisa",
+      "role": "",
+      "movement": "Saiu",
+      "detail": ""
+    },
+    {
+      "date": "2026-10-02",
+      "division": "CELOL A",
+      "team": "Invictus Team",
+      "tag": "IVT",
+      "player": "Kasai#nagi",
+      "role": "Jungle",
+      "movement": "Entrou",
+      "detail": ""
+    },
+    {
+      "date": "2026-10-02",
+      "division": "CELOL A",
+      "team": "Invictus Team",
+      "tag": "IVT",
+      "player": "game chand me#br1",
+      "role": "Jungle",
+      "movement": "Virou reserva",
+      "detail": ""
+    },
+    {
+      "date": "2026-10-02",
+      "division": "CELOL A",
+      "team": "Invictus Team",
+      "tag": "IVT",
+      "player": "tapom#br1",
+      "role": "Mid",
+      "movement": "Virou reserva",
+      "detail": ""
+    },
+    {
+      "date": "2026-10-02",
+      "division": "CELOL A",
+      "team": "Invictus Team",
+      "tag": "IVT",
+      "player": "Faizer#000",
+      "role": "Top",
+      "movement": "Entrou",
+      "detail": ""
+    },
+    {
+      "date": "2026-10-02",
+      "division": "CELOL A",
+      "team": "Invictus Team",
+      "tag": "IVT",
+      "player": "Joy Boy#n n n",
+      "role": "Mid",
+      "movement": "Entrou",
+      "detail": ""
+    },
+    {
+      "date": "2026-10-02",
+      "division": "CELOL A",
+      "team": "LOS Academy",
+      "tag": "LOS",
+      "player": "severo#sona",
+      "role": "",
+      "movement": "Saiu",
+      "detail": "foi para Invictus Team (CELOL A)"
+    },
+    {
+      "date": "2026-10-02",
+      "division": "CELOL A",
+      "team": "Invictus Team",
+      "tag": "IVT",
+      "player": "severo#sona",
+      "role": "Support",
+      "movement": "Entrou",
+      "detail": "veio de LOS Academy (CELOL A)"
+    },
+    {
+      "date": "2026-10-02",
+      "division": "CELOL A",
+      "team": "Invictus Team",
+      "tag": "IVT",
+      "player": "Citronella#Limao",
+      "role": "Support",
+      "movement": "Virou reserva",
+      "detail": ""
+    },
+    {
+      "date": "2026-10-02",
+      "division": "CELOL A",
+      "team": "Smoke Tram eSports",
+      "tag": "STE",
+      "player": "Dazai Ryuu#Klein",
+      "role": "Mid",
+      "movement": "Entrou",
+      "detail": "veio de Marere Academy (CELOL B)"
+    },
+    {
+      "date": "2026-10-02",
+      "division": "CELOL B",
+      "team": "Botafogo e-Sports",
+      "tag": "BOT",
+      "player": "suco#rodo",
+      "role": "Support",
+      "movement": "Saiu",
+      "detail": ""
+    },
+    {
+      "date": "2026-10-03",
+      "division": "CELOL B",
+      "team": "Botafogo e-Sports",
+      "tag": "BOT",
+      "player": "Chifre#BR1",
+      "role": "Bot",
+      "movement": "Entrou",
+      "detail": ""
+    },
+    {
+      "date": "2026-10-03",
+      "division": "CELOL B",
+      "team": "Botafogo e-Sports",
+      "tag": "BOT",
+      "player": "Yikz#BR2",
+      "role": "Top",
+      "movement": "Entrou",
+      "detail": ""
+    },
+    {
+      "date": "2026-10-03",
+      "division": "CELOL B",
+      "team": "Botafogo e-Sports",
+      "tag": "BOT",
+      "player": "skyyy#grizo",
+      "role": "Mid",
+      "movement": "Entrou",
+      "detail": ""
+    },
+    {
+      "date": "2026-10-05",
+      "division": "CELOL B",
+      "team": "NKZ REVENGERS",
+      "tag": "NKZ",
+      "player": "NKZ Piza#CBLOL",
+      "role": "Support",
+      "movement": "Saiu",
+      "detail": ""
+    },
+    {
+      "date": "2026-10-05",
+      "division": "CELOL B",
+      "team": "Marere Academy",
+      "tag": "MRE",
+      "player": "MACHINE GIRL#自我宽恕1",
+      "role": "Top",
+      "movement": "Saiu",
+      "detail": ""
+    },
+    {
+      "date": "2026-10-05",
+      "division": "CELOL B",
+      "team": "Marere Academy",
+      "tag": "MRE",
+      "player": "ExperctiBR#BR1",
+      "role": "Top",
+      "movement": "Virou titular",
+      "detail": ""
+    },
+    {
+      "date": "2026-10-06",
+      "division": "CELOL B",
+      "team": "Final Level Academy",
+      "tag": "FLA",
+      "player": "자유르#LCK",
+      "role": "",
+      "movement": "Entrou",
+      "detail": "como reserva"
+    },
+    {
+      "date": "2026-10-06",
+      "division": "CELOL B",
+      "team": "Alvora Gaming",
+      "tag": "ALV",
+      "player": "Mayura#lbwq",
+      "role": "Mid",
+      "movement": "Saiu",
+      "detail": ""
+    },
+    {
+      "date": "2026-10-06",
+      "division": "CELOL B",
+      "team": "Alvora Gaming",
+      "tag": "ALV",
+      "player": "zKyou#br1",
+      "role": "Mid",
+      "movement": "Virou reserva",
+      "detail": ""
+    },
+    {
+      "date": "2026-10-06",
+      "division": "CELOL B",
+      "team": "Alvora Gaming",
+      "tag": "ALV",
+      "player": "Hora Extra#Kento",
+      "role": "Mid",
+      "movement": "Virou titular",
+      "detail": ""
+    },
+    {
+      "date": "2026-10-06",
+      "division": "CELOL B",
+      "team": "Alvora Gaming",
+      "tag": "ALV",
+      "player": "sangyu14#kr2",
+      "role": "Mid",
+      "movement": "Entrou",
+      "detail": "como reserva"
+    },
+    {
+      "date": "2026-10-06",
+      "division": "CELOL B",
+      "team": "Alvora Gaming",
+      "tag": "ALV",
+      "player": "(sem Riot ID, jogador #1507)",
+      "role": "Support",
+      "movement": "Entrou",
+      "detail": "como reserva"
+    },
+    {
+      "date": "2026-10-06",
+      "division": "CELOL A",
+      "team": "Juventus Gaming Red",
+      "tag": "JUV",
+      "player": "GLZ Vvenomous#GLZ",
+      "role": "",
+      "movement": "Entrou",
+      "detail": "como reserva"
+    },
+    {
+      "date": "2026-10-07",
+      "division": "CELOL B",
+      "team": "Marere Academy",
+      "tag": "MRE",
+      "player": "One and only#4444",
+      "role": "Top",
+      "movement": "Entrou",
+      "detail": "como reserva"
+    },
+    {
+      "date": "2026-10-08",
+      "division": "CELOL A",
+      "team": "Invictus Team",
+      "tag": "IVT",
+      "player": "Kasai#nagi",
+      "role": "Jungle",
+      "movement": "Saiu",
+      "detail": "foi para NKZ REVENGERS (CELOL B)"
+    },
+    {
+      "date": "2026-10-08",
+      "division": "CELOL B",
+      "team": "NKZ REVENGERS",
+      "tag": "NKZ",
+      "player": "NKZ Dibraldinho9#JGGAP",
+      "role": "Jungle",
+      "movement": "Virou reserva",
+      "detail": ""
+    },
+    {
+      "date": "2026-10-08",
+      "division": "CELOL B",
+      "team": "NKZ REVENGERS",
+      "tag": "NKZ",
+      "player": "Kasai#nagi",
+      "role": "Jungle",
+      "movement": "Entrou",
+      "detail": "veio de Invictus Team (CELOL A)"
+    },
+    {
+      "date": "2026-10-08",
+      "division": "CELOL A",
+      "team": "NKZ VORAX",
+      "tag": "NKZ",
+      "player": "BetterJunglerWin#W33",
+      "role": "Jungle",
+      "movement": "Entrou",
+      "detail": ""
+    },
+    {
+      "date": "2026-10-08",
+      "division": "CELOL A",
+      "team": "NKZ VORAX",
+      "tag": "NKZ",
+      "player": "Vinite#myth",
+      "role": "",
+      "movement": "Saiu",
+      "detail": ""
+    },
+    {
+      "date": "2026-10-08",
+      "division": "CELOL B",
+      "team": "Marere Academy",
+      "tag": "MRE",
+      "player": "Black#BR35",
+      "role": "Mid",
+      "movement": "Saiu",
+      "detail": ""
+    },
+    {
+      "date": "2026-10-08",
+      "division": "CELOL B",
+      "team": "Marere Academy",
+      "tag": "MRE",
+      "player": "SPARTANPRIMEMODE#41229",
+      "role": "Mid",
+      "movement": "Virou titular",
+      "detail": ""
+    },
+    {
+      "date": "2026-10-08",
+      "division": "CELOL B",
+      "team": "SCALE Esports",
+      "tag": "SCL",
+      "player": "jojo#zayh",
+      "role": "",
+      "movement": "Saiu",
+      "detail": ""
+    },
+    {
+      "date": "2026-10-08",
+      "division": "CELOL B",
+      "team": "Marere Academy",
+      "tag": "MRE",
+      "player": "nyxen#sasa",
+      "role": "Support",
+      "movement": "Entrou",
+      "detail": ""
+    },
+    {
+      "date": "2026-10-08",
+      "division": "CELOL A",
+      "team": "Juventus Gaming Red",
+      "tag": "JUV",
+      "player": "GLZ Vvenomous#GLZ",
+      "role": "",
+      "movement": "Virou titular",
+      "detail": ""
+    },
+    {
+      "date": "2026-10-08",
+      "division": "CELOL A",
+      "team": "LOS Academy",
+      "tag": "LOS",
+      "player": "Ophelia wilde#Saad",
+      "role": "",
+      "movement": "Entrou",
+      "detail": "como reserva"
+    },
+    {
+      "date": "2026-10-08",
+      "division": "CELOL A",
+      "team": "Juventus Gaming Red",
+      "tag": "JUV",
+      "player": "Zbroto#lenda",
+      "role": "",
+      "movement": "Entrou",
+      "detail": "como reserva"
+    },
+    {
+      "date": "2026-10-08",
+      "division": "CELOL B",
+      "team": "SCALE Esports",
+      "tag": "SCL",
+      "player": "nefron#hk1",
+      "role": "",
+      "movement": "Entrou",
+      "detail": "como reserva"
+    },
+    {
+      "date": "2026-10-09",
+      "division": "CELOL A",
+      "team": "Shark Bite Furious Gaming Black",
+      "tag": "SBK",
+      "player": "Raisy#Dex",
+      "role": "Support",
+      "movement": "Entrou",
+      "detail": ""
+    },
+    {
+      "date": "2026-10-09",
+      "division": "CELOL A",
+      "team": "Shark Bite Furious Gaming Black",
+      "tag": "SBK",
+      "player": "havim#1014",
+      "role": "Support",
+      "movement": "Virou reserva",
+      "detail": ""
+    },
+    {
+      "date": "2026-10-09",
+      "division": "CELOL A",
+      "team": "Invictus Team",
+      "tag": "IVT",
+      "player": "Nwrr Disciple#OwO",
+      "role": "Top",
+      "movement": "Entrou",
+      "detail": ""
+    },
+    {
+      "date": "2026-10-09",
+      "division": "CELOL A",
+      "team": "Invictus Team",
+      "tag": "IVT",
+      "player": "Mercenario#2049",
+      "role": "Bot",
+      "movement": "Virou titular",
+      "detail": ""
+    },
+    {
+      "date": "2026-10-09",
+      "division": "CELOL A",
+      "team": "Invictus Team",
+      "tag": "IVT",
+      "player": "Joy Boy#n n n",
+      "role": "Mid",
+      "movement": "Virou reserva",
+      "detail": ""
+    },
+    {
+      "date": "2026-10-09",
+      "division": "CELOL A",
+      "team": "Invictus Team",
+      "tag": "IVT",
+      "player": "tapom#br1",
+      "role": "Mid",
+      "movement": "Virou titular",
+      "detail": ""
+    },
+    {
+      "date": "2026-10-09",
+      "division": "CELOL A",
+      "team": "Invictus Team",
+      "tag": "IVT",
+      "player": "Faizer#000",
+      "role": "Top",
+      "movement": "Virou reserva",
+      "detail": ""
+    },
+    {
+      "date": "2026-10-09",
+      "division": "CELOL A",
+      "team": "Invictus Team",
+      "tag": "IVT",
+      "player": "game chand me#br1",
+      "role": "Jungle",
+      "movement": "Virou titular",
+      "detail": ""
+    },
+    {
+      "date": "2026-10-09",
+      "division": "CELOL A",
+      "team": "Invictus Team",
+      "tag": "IVT",
+      "player": "i came back#22222",
+      "role": "Bot",
+      "movement": "Virou reserva",
+      "detail": ""
+    },
+    {
+      "date": "2026-10-09",
+      "division": "CELOL B",
+      "team": "NKZ REVENGERS",
+      "tag": "NKZ",
+      "player": "NKZ Piza#CBLOL",
+      "role": "Support",
+      "movement": "Entrou",
+      "detail": ""
+    },
+    {
+      "date": "2026-10-09",
+      "division": "CELOL B",
+      "team": "NKZ Reapers",
+      "tag": "NKZR",
+      "player": "NKZ Stiles#stlk",
+      "role": "",
+      "movement": "Virou reserva",
+      "detail": ""
+    },
+    {
+      "date": "2026-10-09",
+      "division": "CELOL B",
+      "team": "NKZ Reapers",
+      "tag": "NKZR",
+      "player": "NKZ Mrl8#001",
+      "role": "",
+      "movement": "Virou reserva",
+      "detail": ""
+    },
+    {
+      "date": "2026-10-09",
+      "division": "CELOL B",
+      "team": "NKZ Reapers",
+      "tag": "NKZR",
+      "player": "Goosembumps#Real",
+      "role": "Jungle",
+      "movement": "Entrou",
+      "detail": ""
+    },
+    {
+      "date": "2026-10-09",
+      "division": "CELOL B",
+      "team": "NKZ Reapers",
+      "tag": "NKZR",
+      "player": "nami#blue",
+      "role": "Support",
+      "movement": "Entrou",
+      "detail": ""
+    },
+    {
+      "date": "2026-10-09",
+      "division": "CELOL B",
+      "team": "NKZ Reapers",
+      "tag": "NKZR",
+      "player": "NKZ Treve#aoee",
+      "role": "",
+      "movement": "Entrou",
+      "detail": ""
+    },
+    {
+      "date": "2026-10-09",
+      "division": "CELOL A",
+      "team": "LOS Academy",
+      "tag": "LOS",
+      "player": "kennedy#miyah",
+      "role": "",
+      "movement": "Virou reserva",
+      "detail": ""
+    },
+    {
+      "date": "2026-10-09",
+      "division": "CELOL A",
+      "team": "LOS Academy",
+      "tag": "LOS",
+      "player": "Ophelia wilde#Saad",
+      "role": "",
+      "movement": "Virou titular",
+      "detail": ""
+    },
+    {
+      "date": "2026-10-09",
+      "division": "CELOL A",
+      "team": "Shark Bite Furious Gaming Black",
+      "tag": "SBK",
+      "player": "Sloth#Fool",
+      "role": "Support",
+      "movement": "Virou reserva",
+      "detail": ""
+    },
+    {
+      "date": "2026-10-09",
+      "division": "CELOL A",
+      "team": "Shark Bite Furious Gaming Black",
+      "tag": "SBK",
+      "player": "SBK Thunder#TOP",
+      "role": "Top",
+      "movement": "Virou titular",
+      "detail": ""
+    },
+    {
+      "date": "2026-10-09",
+      "division": "CELOL B",
+      "team": "Botafogo e-Sports",
+      "tag": "BOT",
+      "player": "Ruler122#145",
+      "role": "",
+      "movement": "Entrou",
+      "detail": "como reserva"
+    },
+    {
+      "date": "2026-10-12",
+      "division": "CELOL B",
+      "team": "Docta Esport",
+      "tag": "DOC",
+      "player": "Punpun Onodera#BR2",
+      "role": "",
+      "movement": "Virou reserva",
+      "detail": ""
+    },
+    {
+      "date": "2026-10-12",
+      "division": "CELOL B",
+      "team": "Docta Esport",
+      "tag": "DOC",
+      "player": "Remixer#MLK",
+      "role": "Top",
+      "movement": "Entrou",
+      "detail": ""
+    },
+    {
+      "date": "2026-10-13",
+      "division": "CELOL A",
+      "team": "NKZ VORAX",
+      "tag": "NKZ",
+      "player": "No Have enemies#мир",
+      "role": "Jungle",
+      "movement": "Entrou",
+      "detail": ""
+    },
+    {
+      "date": "2026-10-13",
+      "division": "CELOL A",
+      "team": "NKZ VORAX",
+      "tag": "NKZ",
+      "player": "BetterJunglerWin#W33",
+      "role": "Jungle",
+      "movement": "Virou reserva",
+      "detail": ""
+    },
+    {
+      "date": "2026-10-13",
+      "division": "CELOL A",
+      "team": "NKZ VORAX",
+      "tag": "NKZ",
+      "player": "bad decisions#hack",
+      "role": "",
+      "movement": "Entrou",
+      "detail": "como reserva"
+    },
+    {
+      "date": "2026-10-13",
+      "division": "CELOL A",
+      "team": "Shark Bite Furious Gaming Black",
+      "tag": "SBK",
+      "player": "Raisy#Dex",
+      "role": "Support",
+      "movement": "Virou reserva",
+      "detail": ""
+    },
+    {
+      "date": "2026-10-13",
+      "division": "CELOL A",
+      "team": "Shark Bite Furious Gaming Black",
+      "tag": "SBK",
+      "player": "Sloth#Fool",
+      "role": "Support",
+      "movement": "Virou titular",
+      "detail": ""
+    },
+    {
+      "date": "2026-10-15",
+      "division": "CELOL A",
+      "team": "Neon eSports",
+      "tag": "NEON",
+      "player": "Lusqueta#루스케타",
+      "role": "Mid",
+      "movement": "Virou reserva",
+      "detail": ""
+    },
+    {
+      "date": "2026-10-15",
+      "division": "CELOL A",
+      "team": "Neon eSports",
+      "tag": "NEON",
+      "player": "Chinek#lau",
+      "role": "Jungle",
+      "movement": "Virou reserva",
+      "detail": ""
+    },
+    {
+      "date": "2026-10-15",
+      "division": "CELOL A",
+      "team": "Neon eSports",
+      "tag": "NEON",
+      "player": "SON DAVAS#LESIN",
+      "role": "Jungle",
+      "movement": "Entrou",
+      "detail": ""
+    },
+    {
+      "date": "2026-10-15",
+      "division": "CELOL A",
+      "team": "Smoke Tram Ascension",
+      "tag": "STA",
+      "player": "B3ST ONE#001",
+      "role": "Jungle",
+      "movement": "Saiu",
+      "detail": "foi para NKZ REVENGERS (CELOL B)"
+    },
+    {
+      "date": "2026-10-15",
+      "division": "CELOL A",
+      "team": "Neon eSports",
+      "tag": "NEON",
+      "player": "robloxgirlfriend#lmnsm",
+      "role": "",
+      "movement": "Saiu",
+      "detail": ""
+    },
+    {
+      "date": "2026-10-15",
+      "division": "CELOL A",
+      "team": "Invictus Team",
+      "tag": "IVT",
+      "player": "Mercenario#2049",
+      "role": "Bot",
+      "movement": "Virou reserva",
+      "detail": ""
+    },
+    {
+      "date": "2026-10-15",
+      "division": "CELOL A",
+      "team": "Invictus Team",
+      "tag": "IVT",
+      "player": "Faizer#000",
+      "role": "Top",
+      "movement": "Virou titular",
+      "detail": ""
+    },
+    {
+      "date": "2026-10-15",
+      "division": "CELOL A",
+      "team": "Invictus Team",
+      "tag": "IVT",
+      "player": "Joy Boy#n n n",
+      "role": "Mid",
+      "movement": "Virou titular",
+      "detail": ""
+    },
+    {
+      "date": "2026-10-15",
+      "division": "CELOL A",
+      "team": "Invictus Team",
+      "tag": "IVT",
+      "player": "tapom#br1",
+      "role": "Mid",
+      "movement": "Virou reserva",
+      "detail": ""
+    },
+    {
+      "date": "2026-10-15",
+      "division": "CELOL A",
+      "team": "Invictus Team",
+      "tag": "IVT",
+      "player": "Nwrr Disciple#OwO",
+      "role": "Top",
+      "movement": "Virou reserva",
+      "detail": ""
+    },
+    {
+      "date": "2026-10-15",
+      "division": "CELOL A",
+      "team": "Invictus Team",
+      "tag": "IVT",
+      "player": "i came back#22222",
+      "role": "Bot",
+      "movement": "Virou titular",
+      "detail": ""
+    },
+    {
+      "date": "2026-10-15",
+      "division": "CELOL A",
+      "team": "Neon eSports",
+      "tag": "NEON",
+      "player": "ItzMagras#mgr",
+      "role": "Mid",
+      "movement": "Entrou",
+      "detail": "como reserva"
+    },
+    {
+      "date": "2026-10-16",
+      "division": "CELOL A",
+      "team": "LOS Academy",
+      "tag": "LOS",
+      "player": "kennedy#miyah",
+      "role": "",
+      "movement": "Saiu",
+      "detail": "foi para Invictus Team (CELOL A)"
+    },
+    {
+      "date": "2026-10-16",
+      "division": "CELOL A",
+      "team": "Smoke Tram eSports",
+      "tag": "STE",
+      "player": "Void#isagi",
+      "role": "Jungle",
+      "movement": "Saiu",
+      "detail": "foi para LOS Academy (CELOL A)"
+    },
+    {
+      "date": "2026-10-16",
+      "division": "CELOL A",
+      "team": "Smoke Tram eSports",
+      "tag": "STE",
+      "player": "Shikamaru#vidal",
+      "role": "Jungle",
+      "movement": "Entrou",
+      "detail": ""
+    },
+    {
+      "date": "2026-10-16",
+      "division": "CELOL A",
+      "team": "Shark Bite Furious Gaming White",
+      "tag": "SBW",
+      "player": "LUNAMI#PSIC",
+      "role": "Support",
+      "movement": "Entrou",
+      "detail": "como reserva"
+    },
+    {
+      "date": "2026-10-16",
+      "division": "CELOL A",
+      "team": "LOS Academy",
+      "tag": "LOS",
+      "player": "Void#isagi",
+      "role": "",
+      "movement": "Entrou",
+      "detail": "como reserva; veio de Smoke Tram eSports (CELOL A)"
+    },
+    {
+      "date": "2026-10-16",
+      "division": "CELOL A",
+      "team": "Invictus Team",
+      "tag": "IVT",
+      "player": "kennedy#miyah",
+      "role": "Jungle",
+      "movement": "Entrou",
+      "detail": "veio de LOS Academy (CELOL A)"
+    },
+    {
+      "date": "2026-10-16",
+      "division": "CELOL A",
+      "team": "Invictus Team",
+      "tag": "IVT",
+      "player": "game chand me#br1",
+      "role": "Jungle",
+      "movement": "Virou reserva",
+      "detail": ""
+    },
+    {
+      "date": "2026-10-16",
+      "division": "CELOL B",
+      "team": "NKZ REVENGERS",
+      "tag": "NKZ",
+      "player": "nami#blue",
+      "role": "",
+      "movement": "Entrou",
+      "detail": ""
+    },
+    {
+      "date": "2026-10-16",
+      "division": "CELOL B",
+      "team": "NKZ REVENGERS",
+      "tag": "NKZ",
+      "player": "NKZ Piza#CBLOL",
+      "role": "Support",
+      "movement": "Saiu",
+      "detail": ""
+    },
+    {
+      "date": "2026-10-19",
+      "division": "CELOL B",
+      "team": "Viktus",
+      "tag": "VKT",
+      "player": "Josedeoddie#br1",
+      "role": "",
+      "movement": "Entrou",
+      "detail": "como reserva"
+    },
+    {
+      "date": "2026-10-20",
+      "division": "CELOL B",
+      "team": "NKZ REVENGERS",
+      "tag": "NKZ",
+      "player": "Vorke#vorke",
+      "role": "Mid",
+      "movement": "Saiu",
+      "detail": ""
+    },
+    {
+      "date": "2026-10-20",
+      "division": "CELOL B",
+      "team": "NKZ REVENGERS",
+      "tag": "NKZ",
+      "player": "B3ST ONE#001",
+      "role": "",
+      "movement": "Entrou",
+      "detail": "como reserva; veio de Smoke Tram Ascension (CELOL A)"
+    },
+    {
+      "date": "2026-10-21",
+      "division": "CELOL A",
+      "team": "Neon eSports",
+      "tag": "NEON",
+      "player": "SON DAVAS#LESIN",
+      "role": "Jungle",
+      "movement": "Saiu",
+      "detail": ""
+    },
+    {
+      "date": "2026-10-21",
+      "division": "CELOL A",
+      "team": "Neon eSports",
+      "tag": "NEON",
+      "player": "lamani#blanc",
+      "role": "Mid",
+      "movement": "Entrou",
+      "detail": ""
+    },
+    {
+      "date": "2026-10-21",
+      "division": "CELOL A",
+      "team": "Neon eSports",
+      "tag": "NEON",
+      "player": "Xogum#k111",
+      "role": "Jungle",
+      "movement": "Entrou",
+      "detail": ""
+    },
+    {
+      "date": "2026-10-27",
+      "division": "CELOL A",
+      "team": "Marere E-Sports",
+      "tag": "MRE",
+      "player": "shimatori#kzn",
+      "role": "Bot",
+      "movement": "Entrou",
+      "detail": ""
+    },
+    {
+      "date": "2026-10-27",
+      "division": "CELOL A",
+      "team": "Marere E-Sports",
+      "tag": "MRE",
+      "player": "rosayuzzy#pinky",
+      "role": "Bot",
+      "movement": "Virou reserva",
+      "detail": ""
+    },
+    {
+      "date": "2026-10-27",
+      "division": "CELOL A",
+      "team": "Marere E-Sports",
+      "tag": "MRE",
+      "player": "ig meunorth#segue",
+      "role": "Support",
+      "movement": "Virou reserva",
+      "detail": ""
+    },
+    {
+      "date": "2026-10-27",
+      "division": "CELOL A",
+      "team": "Marere E-Sports",
+      "tag": "MRE",
+      "player": "kaiks#kaiks",
+      "role": "Support",
+      "movement": "Virou titular",
+      "detail": ""
+    },
+    {
+      "date": "2026-10-27",
+      "division": "CELOL B",
+      "team": "Docta Esport",
+      "tag": "DOC",
+      "player": "Punpun Onodera#BR2",
+      "role": "",
+      "movement": "Saiu",
+      "detail": ""
+    },
+    {
+      "date": "2026-10-28",
+      "division": "CELOL A",
+      "team": "Neon eSports",
+      "tag": "NEON",
+      "player": "NEON Nishida#Paz",
+      "role": "",
+      "movement": "Saiu",
+      "detail": ""
+    },
+    {
+      "date": "2026-10-28",
+      "division": "CELOL A",
+      "team": "NKZ VORAX",
+      "tag": "NKZ",
+      "player": "peaceful warrior#ntfk",
+      "role": "Jungle",
+      "movement": "Entrou",
+      "detail": "como reserva"
+    },
+    {
+      "date": "2026-10-28",
+      "division": "CELOL A",
+      "team": "NKZ VORAX",
+      "tag": "NKZ",
+      "player": "BetterJunglerWin#W33",
+      "role": "Jungle",
+      "movement": "Saiu",
+      "detail": ""
+    },
+    {
+      "date": "2026-10-28",
+      "division": "CELOL A",
+      "team": "NKZ VORAX",
+      "tag": "NKZ",
+      "player": "Itoshi LANEKING#sae",
+      "role": "Support",
+      "movement": "Saiu",
+      "detail": ""
+    },
+    {
+      "date": "2026-10-28",
+      "division": "CELOL A",
+      "team": "NKZ VORAX",
+      "tag": "NKZ",
+      "player": "in the pool#oxla",
+      "role": "Support",
+      "movement": "Entrou",
+      "detail": ""
+    },
+    {
+      "date": "2026-10-28",
+      "division": "CELOL B",
+      "team": "NKZ REVENGERS",
+      "tag": "NKZ",
+      "player": "nami#blue",
+      "role": "",
+      "movement": "Saiu",
+      "detail": ""
+    },
+    {
+      "date": "2026-10-29",
+      "division": "CELOL A",
+      "team": "Smoke Tram eSports",
+      "tag": "STE",
+      "player": "Shikamaru#vidal",
+      "role": "Jungle",
+      "movement": "Saiu",
+      "detail": ""
+    },
+    {
+      "date": "2026-10-29",
+      "division": "CELOL A",
+      "team": "Smoke Tram eSports",
+      "tag": "STE",
+      "player": "Dhominik#GOAT",
+      "role": "Jungle",
+      "movement": "Entrou",
+      "detail": ""
+    },
+    {
+      "date": "2026-10-29",
+      "division": "CELOL A",
+      "team": "Smoke Tram eSports",
+      "tag": "STE",
+      "player": "detas#avê",
+      "role": "Jungle",
+      "movement": "Entrou",
+      "detail": "como reserva"
+    },
+    {
+      "date": "2026-11-02",
+      "division": "CELOL B",
+      "team": "Marere Academy",
+      "tag": "MRE",
+      "player": "One and only#4444",
+      "role": "Top",
+      "movement": "Virou titular",
+      "detail": ""
+    },
+    {
+      "date": "2026-11-02",
+      "division": "CELOL B",
+      "team": "Marere Academy",
+      "tag": "MRE",
+      "player": "ExperctiBR#BR1",
+      "role": "Top",
+      "movement": "Virou reserva",
+      "detail": ""
+    },
+    {
+      "date": "2026-11-02",
+      "division": "CELOL B",
+      "team": "Marere Academy",
+      "tag": "MRE",
+      "player": "nyxen#sasa",
+      "role": "Support",
+      "movement": "Saiu",
+      "detail": ""
+    }
+  ]
+}

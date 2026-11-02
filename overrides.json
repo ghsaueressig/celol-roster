@@ -1,0 +1,518 @@
+{
+  "Velthan#sup": {
+    "nick": "Velthan",
+    "role": "Support"
+  },
+  "Humi#iwnl": {
+    "nick": "Humi",
+    "role": "Bot"
+  },
+  "Dark Harvest#win": {
+    "nick": "DarkHarvest",
+    "role": "Mid"
+  },
+  "Ophelia wilde#Saad": {
+    "nick": "Saad",
+    "role": "Jungle"
+  },
+  "Void#isagi": {
+    "nick": "Void",
+    "role": "Jungle"
+  },
+  "Tiran#lol": {
+    "nick": "Tiran",
+    "role": "Top"
+  },
+  "Zbroto#lenda": {
+    "nick": "Zbroto",
+    "role": "Top"
+  },
+  "C H A F U#JINX": {
+    "nick": "Chafu",
+    "role": "Bot"
+  },
+  "Punch#abcde": {
+    "nick": "Punch",
+    "role": "Jungle"
+  },
+  "King#Bong": {
+    "nick": "King",
+    "role": "Mid"
+  },
+  "COACH Nändö#Maria": {
+    "nick": "Nando",
+    "role": "Coach"
+  },
+  "Watonto#waton": {
+    "nick": "Watonto",
+    "role": "Bot"
+  },
+  "GLZ Vvenomous#GLZ": {
+    "nick": "Vvenomous",
+    "role": "Support"
+  },
+  "peaceful warrior#ntfk": {
+    "nick": "Nero",
+    "role": "Jungle"
+  },
+  "No Have enemies#мир": {
+    "nick": "Nightmare",
+    "role": "Jungle"
+  },
+  "NKZ Reach#SONA": {
+    "nick": "Reach",
+    "role": "Support"
+  },
+  "kadú#MAX": {
+    "nick": "kadú",
+    "role": "Support"
+  },
+  "bad decisions#hack": {
+    "nick": "Blackzera",
+    "role": "Jungle"
+  },
+  "in the pool#oxla": {
+    "nick": "Oxala",
+    "role": "Support"
+  },
+  "GEENA#66666": {
+    "nick": "Geena",
+    "role": "Mid"
+  },
+  "SBK HadesX 冥#BIXO": {
+    "nick": "HadesX",
+    "role": "Jungle"
+  },
+  "Sloth#Fool": {
+    "nick": "Sloth",
+    "role": "Jungle"
+  },
+  "Dazai Ryuu#Klein": {
+    "nick": "Klein",
+    "role": "Mid"
+  },
+  "ItzMagras#mgr": {
+    "nick": "Magras",
+    "role": "Mid"
+  },
+  "delighted byron#peak": {
+    "nick": "byron",
+    "role": "Coach"
+  },
+  "rosayuzzy#pinky": {
+    "nick": "Rosa",
+    "role": "Bot"
+  },
+  "Aloprasprimemode#goat": {
+    "nick": "Alopras",
+    "role": "Top"
+  },
+  "Eradan2#Dan2": {
+    "nick": "Eradan",
+    "role": "Top"
+  },
+  "guga fighter#001": {
+    "nick": "Guga",
+    "role": "Jungle"
+  },
+  "shimatori#kzn": {
+    "nick": "Shima",
+    "role": "Bot"
+  },
+  "Barou Shoei#00001": {
+    "nick": "Andyse",
+    "role": "Mid"
+  },
+  "rSalesjr#1203": {
+    "nick": "Salesjr",
+    "role": "Manager"
+  },
+  "ig meunorth#segue": {
+    "nick": "Bonas",
+    "role": "Coach"
+  },
+  "ZEUSKHANSHYSIWOO#TOP": {
+    "nick": "Tiscky",
+    "role": "Top"
+  },
+  "NARO#AD333": {
+    "nick": "Naro",
+    "role": "Bot"
+  },
+  "VOA RIP EDMAERIN#BR2": {
+    "nick": "Janavi",
+    "role": "Bot"
+  },
+  "Knight#0363": {
+    "nick": "Hollow",
+    "role": "Bot"
+  },
+  "inori#lrsz": {
+    "nick": "Louris",
+    "role": "Mid"
+  },
+  "Citronella#Limao": {
+    "nick": "Limãozinho",
+    "role": "Support"
+  },
+  "i came back#22222": {
+    "nick": "Schastye",
+    "role": "Bot"
+  },
+  "Joy Boy#n n n": {
+    "nick": "Nukenin",
+    "role": "Mid"
+  },
+  "Nwrr Disciple#OwO": {
+    "nick": "Disciple",
+    "role": "Top"
+  },
+  "game chand me#br1": {
+    "nick": "eto",
+    "role": "Jungle"
+  },
+  "I Renny I#r194": {
+    "nick": "Renny",
+    "role": "Jungle"
+  },
+  "Juv Confia#SCCP": {
+    "nick": "Confia",
+    "role": "Top"
+  },
+  "JUV Veidy#weidy": {
+    "nick": "Veidy",
+    "role": "Mid"
+  },
+  "juv dante#sup": {
+    "nick": "dante",
+    "role": "Support"
+  },
+  "JUV Small#IVK": {
+    "nick": "Small",
+    "role": "Jungle"
+  },
+  "JUV NiuKo#poy": {
+    "nick": "NiuKo",
+    "role": "Bot"
+  },
+  "detas#avê": {
+    "nick": "detas",
+    "role": "Jungle"
+  },
+  "B3ST ONE#001": {
+    "nick": "B3ST",
+    "role": "Jungle"
+  },
+  "NKZ Dibraldinho9#JGGAP": {
+    "nick": "Dibraldinho",
+    "role": "Jungle"
+  },
+  "NKZ Treve#aoee": {
+    "nick": "Treve",
+    "role": "Bot"
+  },
+  "frango#atm": {
+    "nick": "frango",
+    "role": "Bot"
+  },
+  "lyu#lux": {
+    "nick": "lyu",
+    "role": "Support"
+  },
+  "own blade#18y": {
+    "nick": "blade",
+    "role": "Mid"
+  },
+  "OwN Tresh#Tresh": {
+    "nick": "Tresh",
+    "role": "Top"
+  },
+  "PRx#mnls": {
+    "nick": "PRX",
+    "role": "Jungle"
+  },
+  "skyyy#grizo": {
+    "nick": "GuinzZ",
+    "role": "Mid"
+  },
+  "MRE Carelli#JNG": {
+    "nick": "Carelli",
+    "role": "Jungle"
+  },
+  "SPARTANPRIMEMODE#41229": {
+    "nick": "SPARTAN",
+    "role": "Mid"
+  },
+  "Colorado 10#SUL": {
+    "nick": "Colorado",
+    "role": "Bot"
+  },
+  "Dlodfank#Dlod": {
+    "nick": "Dlodfank",
+    "role": "Support"
+  },
+  "ExperctiBR#BR1": {
+    "nick": "MauMau",
+    "role": "Top"
+  },
+  "Gishi#1984": {
+    "nick": "Gishi",
+    "role": "Mid"
+  },
+  "One and only#4444": {
+    "nick": "Muy",
+    "role": "Top"
+  },
+  "MAZE Nuo#nuo": {
+    "nick": "Nuo",
+    "role": "Top"
+  },
+  "Guta the great#gutaa": {
+    "nick": "Guta",
+    "role": "Jungle"
+  },
+  "MAZE Joice#123": {
+    "nick": "Joice",
+    "role": "Mid"
+  },
+  "MAZE Gemir#perob": {
+    "nick": "Gemir",
+    "role": "Bot"
+  },
+  "MAZE Peroba#gemas": {
+    "nick": "Peroba",
+    "role": "Support"
+  },
+  "prero#0708": {
+    "nick": "prero",
+    "role": "Jungle"
+  },
+  "Raisy#Dex": {
+    "nick": "Bonekinha",
+    "role": "Coach"
+  },
+  "matheuzin#18y": {
+    "nick": "Matheuzin",
+    "role": "Top"
+  },
+  "BetterJunglerWin#W33": {
+    "nick": "Warsor",
+    "role": "Jungle"
+  },
+  "SON DAVAS#LESIN": {
+    "nick": "DAVAS",
+    "role": "Jungle"
+  },
+  "Shikamaru#vidal": {
+    "nick": "Vidal",
+    "role": "Jungle"
+  },
+  "Black#BR35": {
+    "nick": "Black",
+    "role": "Mid"
+  },
+  "makeuhappy#0000": {
+    "nick": "DeadlyMark",
+    "role": "Mid"
+  },
+  "NKZ Little 愛#LPL": {
+    "nick": "Little",
+    "role": "Bot"
+  },
+  "Itoshi LANEKING#sae": {
+    "nick": "Itoshi",
+    "role": "Support"
+  },
+  "Azeez1#juya": {
+    "nick": "Azeez",
+    "role": "Jungle"
+  },
+  "Abraão Otoba#Roxo": {
+    "nick": "Abraão",
+    "role": null
+  },
+  "corredato#nati": {
+    "nick": "corredato",
+    "role": "Mid"
+  },
+  "DKL#topFA": {
+    "nick": "DKL",
+    "role": "Top"
+  },
+  "NKZ eupholie#zowie": {
+    "nick": "eupholie",
+    "role": null
+  },
+  "SBK Ferrari#SUP": {
+    "nick": "Ferrari",
+    "role": "Support"
+  },
+  "Hoben#lulu": {
+    "nick": "Hoben",
+    "role": "Top"
+  },
+  "SPH Indra#LTAS": {
+    "nick": "Indra",
+    "role": "Top"
+  },
+  "SBW J F#king": {
+    "nick": "J F",
+    "role": "Mid"
+  },
+  "jeikar#XII": {
+    "nick": "jeikar",
+    "role": "Support"
+  },
+  "Leba#nvm": {
+    "nick": "Leba",
+    "role": "Jungle"
+  },
+  "SPH Luvvee#LTAS": {
+    "nick": "Luvvee",
+    "role": "Bot"
+  },
+  "APG NiuKo#apg": {
+    "nick": "NiuKo",
+    "role": "Bot"
+  },
+  "Oldust#BR07": {
+    "nick": "Oldust",
+    "role": "Bot"
+  },
+  "robloxgirlfriend#lmnsm": {
+    "nick": "Neyzz",
+    "role": "Mid"
+  },
+  "roguee#cn1": {
+    "nick": "Rogue",
+    "role": "Bot"
+  },
+  "Silence#CN1": {
+    "nick": "Silence",
+    "role": "Support"
+  },
+  "Special week#1998": {
+    "nick": "Special Week",
+    "role": "Bot"
+  },
+  "LIVE THEPUTZMAN#KIRON": {
+    "nick": "THEPUTZMAN",
+    "role": "Top"
+  },
+  "Tsukiko#maho": {
+    "nick": "Tsukiko",
+    "role": "Mid"
+  },
+  "weiss#miya": {
+    "nick": "weiss",
+    "role": "Top"
+  },
+  "Zenite#ZENIT": {
+    "nick": "Zenite",
+    "role": "Bot"
+  },
+  "Tragen#leer": {
+    "nick": "Tragen",
+    "role": "Support"
+  },
+  "Vinite#myth": {
+    "nick": "Vinite",
+    "role": "Jungle"
+  },
+  "LDG yssen#LOAD": {
+    "nick": "yssen",
+    "role": "Top"
+  },
+  "frança#menok": {
+    "nick": "frança",
+    "role": "Support"
+  },
+  "Артём Чёрный#Br2": {
+    "nick": "Heartless",
+    "role": "Coach"
+  },
+  "Sainz1#BR1": {
+    "nick": "Sainz",
+    "role": "Jungle"
+  },
+  "Lithium#仁仁仁": {
+    "nick": "Renn",
+    "role": "Mid"
+  },
+  "Jim Hawkins#Kai": {
+    "nick": "Kaihua",
+    "role": "Bot"
+  },
+  "Cholardus#br1": {
+    "nick": "Principe",
+    "role": "Support"
+  },
+  "Moita#Coach": {
+    "nick": "Moita",
+    "role": "Coach"
+  },
+  "One Jump Cat#Djoko": {
+    "nick": "Djoko",
+    "role": "Coach"
+  },
+  "ebidi EMBRAZADO#nu ze": {
+    "nick": "ebidi",
+    "role": "Coach"
+  },
+  "Gnomo#rules": {
+    "nick": "Gnomo",
+    "role": "Manager"
+  },
+  "Alves#brubs": {
+    "nick": "Alves",
+    "role": "Coach"
+  },
+  "Maya#mym": {
+    "nick": "Maya",
+    "role": "Manager"
+  },
+  "IMGOINGBACKTO505#me3": {
+    "nick": "505",
+    "role": "Bot"
+  },
+  "L9 LITO SOUZA#MACHO": {
+    "nick": "LITO",
+    "role": "Top"
+  },
+  "FL Kizemi  愛#kzmn": {
+    "nick": "Kizemi",
+    "role": null
+  },
+  "LittleTeclas#0402": {
+    "nick": "Teclas",
+    "role": "Jungle"
+  },
+  "miclobid#BR1": {
+    "nick": "Ade",
+    "role": "Top"
+  },
+  "my baddd#BR1": {
+    "nick": "Master Jos",
+    "role": "Mid"
+  },
+  "50 SombrasDeGwen#GWEN": {
+    "nick": "JDD",
+    "role": "Top"
+  },
+  "ChanningaJc#br1": {
+    "nick": "Channing",
+    "role": null
+  },
+  "Josedeoddie#br1": {
+    "nick": "Griffith",
+    "role": "Jungle"
+  },
+  "AsgoreLovesVoli#Farts": {
+    "nick": "Asgore",
+    "role": "Top"
+  },
+  "hotpie#0802": {
+    "nick": "HotPie",
+    "role": "Bot"
+  }
+}
