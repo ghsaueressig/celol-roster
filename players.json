@@ -1,11 +1,20 @@
 {
-  "detas#avê": {
-    "name": "Nome Real",
-    "birthdate": "2003-05-12",
+  "beta32#ISA": {
+    "name": "Felipe Alejandro Ortiz Carreno",
+    "birthdate": "2004-01-04",
     "socials": {
-      "x": "https://x.com/detas",
-      "instagram": "https://instagram.com/detas",
-      "discord": "detas#1234"
+      "x": "@betathirtytwo",
+      "instagram": "@betathirtytwo",
+      "discord": "beta32"
+    }
+  },
+  "Genos#BIG": {
+    "name": "Leonardo Wimmer de Macedo",
+    "birthdate": "2002-09-03",
+    "socials": {
+      "x": "genoslol1",
+      "instagram": "leowimmer_",
+      "discord": "genoslol"
     }
   }
 }
