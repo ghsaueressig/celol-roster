@@ -13,11 +13,12 @@ const SISTER_ORGS = [
 ];
 
 let state = {
-  teams: [],          // { division, team, tag, titulares: [], reservas: [] }
-  movements: [],      // raw movements
+  teams: [],
+  movements: [],
   currentDiv: 'CELOL A',
   editMode: false,
-  overrides: {},      // key: riotId -> { nick?, role? }
+  overrides: {},
+  players: {},          // extra info from players.json
 };
 
 const STORAGE_KEY = 'celol-overrides';
@@ -599,7 +600,17 @@ async function loadPublicData() {
         state.overrides = { ...remoteOverrides, ...state.overrides };
       }
     } catch (e) {
-      console.warn('overrides.json não carregado, usando só dados base');
+      console.warn('overrides.json não carregado');
+    }
+
+    try {
+      const plRes = await fetch('players.json');
+      if (plRes.ok) {
+        state.players = await plRes.json();
+      }
+    } catch (e) {
+      console.warn('players.json não carregado');
+      state.players = {};
     }
 
     status.textContent = `Dados carregados (${state.teams.length} times)`;
@@ -634,6 +645,7 @@ function handleRoute() {
 function renderPlayerPage(riotId) {
   const container = document.getElementById('playerView');
   const o = getOverride(riotId);
+  const pInfo = state.players[riotId] || {};
   const { nick: autoNick } = cleanNickname(riotId);
   const nick = o.nick || autoNick;
 
@@ -650,10 +662,9 @@ function renderPlayerPage(riotId) {
     }
   }
 
-  // Role: override > roster > empty
   const role = (o.role !== undefined && o.role !== null) ? o.role : roleFromRoster;
 
-  // History: movements + current teams that have no matching "Entrou"
+  // History
   const historyItems = state.movements
     .filter(m => m.player === riotId)
     .map(m => ({
@@ -666,7 +677,6 @@ function renderPlayerPage(riotId) {
       }${m.role ? ' (' + m.role + ')' : ''}`
     }));
 
-  // Add current teams that aren't already covered by a recent "Entrou"
   currentTeams.forEach(ct => {
     const hasEntry = historyItems.some(h => h.text.includes(ct.team) && h.text.includes('entrou'));
     if (!hasEntry) {
@@ -694,6 +704,19 @@ function renderPlayerPage(riotId) {
       `).join('')
     : '<div style="color:var(--muted);margin-bottom:20px;">Free Agent</div>';
 
+  // Extra info
+  const nameHtml = pInfo.name ? `<div style="margin-bottom:4px;"><strong>Nome:</strong> ${pInfo.name}</div>` : '';
+  const birthHtml = pInfo.birthdate ? `<div style="margin-bottom:12px;"><strong>Nascimento:</strong> ${new Date(pInfo.birthdate).toLocaleDateString('pt-BR')}</div>` : '';
+
+  const socials = pInfo.socials || {};
+  const socialHtml = Object.keys(socials).length ? `
+    <div style="display:flex;gap:12px;margin:16px 0;">
+      ${socials.x ? `<a href="${socials.x}" target="_blank" title="X"><img src="https://cdn.simpleicons.org/x/ffffff" width="20" height="20" alt="X"></a>` : ''}
+      ${socials.instagram ? `<a href="${socials.instagram}" target="_blank" title="Instagram"><img src="https://cdn.simpleicons.org/instagram/ffffff" width="20" height="20" alt="Instagram"></a>` : ''}
+      ${socials.discord ? `<span title="Discord: ${socials.discord}"><img src="https://cdn.simpleicons.org/discord/ffffff" width="20" height="20" alt="Discord"> ${socials.discord}</span>` : ''}
+    </div>
+  ` : '';
+
   container.innerHTML = `
     <div style="max-width:640px;margin:0 auto;">
       <a href="#/" style="color:var(--muted);font-size:0.9rem;">← Voltar</a>
@@ -702,6 +725,9 @@ function renderPlayerPage(riotId) {
       <div style="margin-bottom:20px;">
         ${role ? `<span class="role-pill ${roleClass(role)}">${role}</span>` : '<span class="role-pill none">Sem role</span>'}
       </div>
+      ${nameHtml}
+      ${birthHtml}
+      ${socialHtml}
       <h3 style="margin-bottom:8px;">Times atuais</h3>
       ${teamsHtml}
       <h3 style="margin:20px 0 8px;">Histórico de movimentações</h3>
