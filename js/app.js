@@ -469,70 +469,79 @@ document.querySelectorAll('.tab').forEach(btn => {
   });
 });
 
-document.getElementById('fileInput').addEventListener('change', (e) => {
-  const file = e.target.files[0];
-  if (!file) return;
-  const status = document.getElementById('fileStatus');
-  status.textContent = 'Lendo...';
+// Only attach if elements exist (local version has them, public version doesn't)
+const fileInput = document.getElementById('fileInput');
+if (fileInput) {
+  fileInput.addEventListener('change', (e) => {
+    const file = e.target.files[0];
+    if (!file) return;
+    const status = document.getElementById('fileStatus');
+    status.textContent = 'Lendo...';
 
-  const reader = new FileReader();
-  reader.onload = (ev) => {
-    try {
-      const data = new Uint8Array(ev.target.result);
-      const wb = XLSX.read(data, { type: 'array', cellDates: true });
-      parseWorkbook(wb);
-      status.textContent = `Carregado: ${file.name}`;
-      renderAll();
-    } catch (err) {
-      status.textContent = 'Erro ao ler arquivo';
-      console.error(err);
-      alert('Não foi possível ler a planilha. Verifique se é o arquivo correto da Liga GG.');
-    }
-  };
-  reader.readAsArrayBuffer(file);
-});
+    const reader = new FileReader();
+    reader.onload = (ev) => {
+      try {
+        const data = new Uint8Array(ev.target.result);
+        const wb = XLSX.read(data, { type: 'array', cellDates: true });
+        parseWorkbook(wb);
+        status.textContent = `Carregado: ${file.name}`;
+        renderAll();
+      } catch (err) {
+        status.textContent = 'Erro ao ler arquivo';
+        console.error(err);
+        alert('Não foi possível ler a planilha. Verifique se é o arquivo correto da Liga GG.');
+      }
+    };
+    reader.readAsArrayBuffer(file);
+  });
+}
 
-// Export / Import overrides
-document.getElementById('exportOverrides').addEventListener('click', () => {
-  const data = JSON.stringify(state.overrides, null, 2);
-  const blob = new Blob([data], { type: 'application/json' });
-  const url = URL.createObjectURL(blob);
-  const a = document.createElement('a');
-  a.href = url;
-  a.download = `celol-edicoes-${new Date().toISOString().slice(0, 10)}.json`;
-  a.click();
-  URL.revokeObjectURL(url);
-});
+const exportBtn = document.getElementById('exportOverrides');
+if (exportBtn) {
+  exportBtn.addEventListener('click', () => {
+    const data = JSON.stringify(state.overrides, null, 2);
+    const blob = new Blob([data], { type: 'application/json' });
+    const url = URL.createObjectURL(blob);
+    const a = document.createElement('a');
+    a.href = url;
+    a.download = `celol-edicoes-${new Date().toISOString().slice(0, 10)}.json`;
+    a.click();
+    URL.revokeObjectURL(url);
+  });
+}
 
-document.getElementById('importOverrides').addEventListener('change', (e) => {
-  const file = e.target.files[0];
-  if (!file) return;
-  const reader = new FileReader();
-  reader.onload = (ev) => {
-    try {
-      const imported = JSON.parse(ev.target.result);
-      if (typeof imported !== 'object' || imported === null) throw new Error('Formato inválido');
-      // Merge (imported overwrites)
-      Object.assign(state.overrides, imported);
-      saveOverrides();
-      renderAll();
-      document.getElementById('fileStatus').textContent = 'Edições importadas';
-    } catch (err) {
-      alert('Arquivo de edições inválido.');
-      console.error(err);
-    }
-  };
-  reader.readAsText(file);
-});
+const importInput = document.getElementById('importOverrides');
+if (importInput) {
+  importInput.addEventListener('change', (e) => {
+    const file = e.target.files[0];
+    if (!file) return;
+    const reader = new FileReader();
+    reader.onload = (ev) => {
+      try {
+        const imported = JSON.parse(ev.target.result);
+        if (typeof imported !== 'object' || imported === null) throw new Error('Formato inválido');
+        Object.assign(state.overrides, imported);
+        saveOverrides();
+        renderAll();
+        document.getElementById('fileStatus').textContent = 'Edições importadas';
+      } catch (err) {
+        alert('Arquivo de edições inválido.');
+        console.error(err);
+      }
+    };
+    reader.readAsText(file);
+  });
+}
 
-// Edit mode toggle
-document.getElementById('editToggle').addEventListener('click', () => {
-  state.editMode = !state.editMode;
-  const btn = document.getElementById('editToggle');
-  btn.classList.toggle('active', state.editMode);
-  btn.textContent = state.editMode ? 'Sair da edição' : 'Editar';
-  renderTeams();
-});
+const editToggle = document.getElementById('editToggle');
+if (editToggle) {
+  editToggle.addEventListener('click', () => {
+    state.editMode = !state.editMode;
+    editToggle.classList.toggle('active', state.editMode);
+    editToggle.textContent = state.editMode ? 'Sair da edição' : 'Editar';
+    renderTeams();
+  });
+}
 
 // Delegate clicks for edit panels
 document.getElementById('teamsContainer').addEventListener('click', (e) => {
@@ -574,11 +583,8 @@ document.getElementById('teamsContainer').addEventListener('click', (e) => {
 async function loadPublicData() {
   const status = document.getElementById('fileStatus');
   try {
-    const [dataRes, ovRes] = await Promise.all([
-      fetch('data.json'),
-      fetch('overrides.json').catch(() => ({ ok: false }))
-    ]);
-    if (!dataRes.ok) throw new Error('data.json não encontrado');
+    const dataRes = await fetch('data.json');
+    if (!dataRes.ok) throw new Error('data.json não encontrado (' + dataRes.status + ')');
     const data = await dataRes.json();
     state.teams = data.teams || [];
     state.movements = (data.movements || []).map(m => ({
@@ -586,15 +592,22 @@ async function loadPublicData() {
       date: m.date ? new Date(m.date) : null,
     })).filter(m => m.date && !isNaN(m.date));
 
-    if (ovRes.ok) {
-      const remoteOverrides = await ovRes.json();
-      // Remote overrides become the base; localStorage still wins for personal edits
-      state.overrides = { ...remoteOverrides, ...state.overrides };
+    try {
+      const ovRes = await fetch('overrides.json');
+      if (ovRes.ok) {
+        const remoteOverrides = await ovRes.json();
+        state.overrides = { ...remoteOverrides, ...state.overrides };
+      }
+    } catch (e) {
+      console.warn('overrides.json não carregado, usando só dados base');
     }
-    status.textContent = 'Dados carregados';
+
+    status.textContent = `Dados carregados (${state.teams.length} times)`;
   } catch (err) {
     status.textContent = 'Erro ao carregar dados';
     console.error(err);
+    document.getElementById('teamsContainer').innerHTML =
+      '<div class="empty-msg">Erro ao carregar dados. Verifique o console (F12).</div>';
   }
   renderAll();
   handleRoute();
