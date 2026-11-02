@@ -807,3 +807,5 @@ document.addEventListener('click', (e) => {
 // Initial load
 loadOverrides();
 loadPublicData();
+
+window.addEventListener('hashchange', handleRoute);
