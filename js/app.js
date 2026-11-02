@@ -709,16 +709,20 @@ function renderPlayerPage(riotId) {
   const birthHtml = pInfo.birthdate ? `<div style="margin-bottom:12px;"><strong>Nascimento:</strong> ${new Date(pInfo.birthdate).toLocaleDateString('pt-BR')}</div>` : '';
 
   const socials = pInfo.socials || {};
-  const socialHtml = Object.keys(socials).length ? `
-    <div style="display:flex;gap:12px;margin:16px 0;">
-      ${socials.x ? `<a href="${socials.x}" target="_blank" title="X"><img src="https://cdn.simpleicons.org/x/ffffff" width="20" height="20" alt="X"></a>` : ''}
-      ${socials.instagram ? `<a href="${socials.instagram}" target="_blank" title="Instagram"><img src="https://cdn.simpleicons.org/instagram/ffffff" width="20" height="20" alt="Instagram"></a>` : ''}
-      ${socials.discord ? `
+  const xHandle = socials.x ? socials.x.replace(/^@/, '') : '';
+  const igHandle = socials.instagram ? socials.instagram.replace(/^@/, '') : '';
+  const dcHandle = socials.discord || '';
+
+  const socialHtml = (xHandle || igHandle || dcHandle) ? `
+    <div style="display:flex;gap:12px;margin:16px 0;align-items:center;">
+      ${xHandle ? `<a href="https://x.com/${xHandle}" target="_blank" title="@${xHandle}"><img src="https://cdn.simpleicons.org/x/ffffff" width="20" height="20" alt="X"></a>` : ''}
+      ${igHandle ? `<a href="https://instagram.com/${igHandle}" target="_blank" title="@${igHandle}"><img src="https://cdn.simpleicons.org/instagram/ffffff" width="20" height="20" alt="Instagram"></a>` : ''}
+      ${dcHandle ? `
         <span class="discord-wrap" style="position:relative;display:inline-flex;align-items:center;">
           <img src="https://cdn.simpleicons.org/discord/ffffff" width="20" height="20" alt="Discord" style="cursor:pointer;">
           <span class="discord-popup" style="display:none;position:absolute;left:28px;top:50%;transform:translateY(-50%);background:#1e293b;border:1px solid var(--border);border-radius:6px;padding:6px 10px;white-space:nowrap;z-index:10;align-items:center;gap:6px;">
-            <span>${socials.discord}</span>
-            <button class="copy-discord" data-copy="${socials.discord}" style="background:none;border:none;color:var(--muted);cursor:pointer;padding:2px;display:inline-flex;align-items:center;" title="Copiar">
+            <span>${dcHandle}</span>
+            <button class="copy-discord" data-copy="${dcHandle}" style="background:none;border:none;color:var(--muted);cursor:pointer;padding:2px;display:inline-flex;align-items:center;" title="Copiar">
               <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
                 <rect x="9" y="9" width="13" height="13" rx="2" ry="2"></rect>
                 <path d="M5 15H4a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2h9a2 2 0 0 1 2 2v1"></path>
