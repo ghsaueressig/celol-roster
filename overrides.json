@@ -514,13 +514,5 @@
   "hotpie#0802": {
     "nick": "HotPie",
     "role": "Bot"
-  },
-  "beta32#ISA": {
-    "nick": "beta32",
-    "role": "Top"
-  },
-  "Genos#BIG": {
-    "nick": "Genos",
-    "role": "Jungle"
   }
 }

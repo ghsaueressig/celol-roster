@@ -774,6 +774,7 @@ renderTeams = function() {
 };
 
 // Discord popup (hover + click)
+// Discord popup (hover + click) and copy
 document.addEventListener('mouseover', (e) => {
   const wrap = e.target.closest('.discord-wrap');
   if (wrap) wrap.querySelector('.discord-popup').style.display = 'inline-flex';
@@ -790,16 +791,17 @@ document.addEventListener('click', (e) => {
     const popup = wrap.querySelector('.discord-popup');
     popup.style.display = popup.style.display === 'none' ? 'inline-flex' : 'none';
   }
-});
+
   const btn = e.target.closest('.copy-discord');
-  if (!btn) return;
-  const text = btn.dataset.copy;
-  navigator.clipboard.writeText(text).then(() => {
-    btn.style.color = '#4ade80';
-    setTimeout(() => { btn.style.color = 'var(--muted)'; }, 1200);
-  }).catch(() => {
-    alert('Não foi possível copiar.');
-  });
+  if (btn) {
+    const text = btn.dataset.copy;
+    navigator.clipboard.writeText(text).then(() => {
+      btn.style.color = '#4ade80';
+      setTimeout(() => { btn.style.color = 'var(--muted)'; }, 1200);
+    }).catch(() => {
+      alert('Não foi possível copiar.');
+    });
+  }
 });
 
 // Initial load
