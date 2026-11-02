@@ -636,35 +636,63 @@ function renderPlayerPage(riotId) {
   const o = getOverride(riotId);
   const { nick: autoNick } = cleanNickname(riotId);
   const nick = o.nick || autoNick;
-  const role = o.role !== undefined ? o.role : '';
 
-  // Find current team
-  let currentTeam = null;
-  let currentPos = null;
+  // Collect all current teams
+  const currentTeams = [];
+  let roleFromRoster = '';
   for (const t of state.teams) {
     for (const p of [...t.titulares, ...t.reservas]) {
       if (p.player === riotId) {
-        currentTeam = t;
-        currentPos = t.titulares.includes(p) ? 'Titular' : 'Reserva';
-        break;
+        const pos = t.titulares.includes(p) ? 'Titular' : 'Reserva';
+        currentTeams.push({ team: t.team, tag: t.tag, division: t.division, pos, role: p.role });
+        if (!roleFromRoster && p.role) roleFromRoster = p.role;
       }
     }
-    if (currentTeam) break;
   }
 
-  // History from movements
-  const history = state.movements
+  // Role: override > roster > empty
+  const role = (o.role !== undefined && o.role !== null) ? o.role : roleFromRoster;
+
+  // History: movements + current teams that have no matching "Entrou"
+  const historyItems = state.movements
     .filter(m => m.player === riotId)
-    .sort((a, b) => b.date - a.date)
-    .map(m => {
-      const d = m.date.toLocaleDateString('pt-BR');
-      let action = m.movement;
-      if (m.movement === 'Entrou') action = 'entrou';
-      else if (m.movement === 'Saiu') action = 'saiu';
-      else if (m.movement === 'Virou titular') action = 'virou titular';
-      else if (m.movement === 'Virou reserva') action = 'virou reserva';
-      return `<div class="transfer-line"><span class="team-tag-mini">${m.tag || ''}</span><span>${d} · ${m.team} · ${action}</span></div>`;
-    }).join('');
+    .map(m => ({
+      date: m.date,
+      text: `${m.date.toLocaleDateString('pt-BR')} · ${m.team} · ${
+        m.movement === 'Entrou' ? 'entrou' :
+        m.movement === 'Saiu' ? 'saiu' :
+        m.movement === 'Virou titular' ? 'virou titular' :
+        m.movement === 'Virou reserva' ? 'virou reserva' : m.movement
+      }${m.role ? ' (' + m.role + ')' : ''}`
+    }));
+
+  // Add current teams that aren't already covered by a recent "Entrou"
+  currentTeams.forEach(ct => {
+    const hasEntry = historyItems.some(h => h.text.includes(ct.team) && h.text.includes('entrou'));
+    if (!hasEntry) {
+      historyItems.push({
+        date: new Date(0),
+        text: `Atualmente · ${ct.team} [${ct.tag}] · ${ct.pos}${ct.role ? ' (' + ct.role + ')' : ''}`
+      });
+    }
+  });
+
+  historyItems.sort((a, b) => b.date - a.date);
+  const history = historyItems.map(h =>
+    `<div class="transfer-line"><span>${h.text}</span></div>`
+  ).join('');
+
+  const teamsHtml = currentTeams.length
+    ? currentTeams.map(ct => `
+        <div class="team-card" style="margin-bottom:12px;">
+          <div class="team-header">
+            <span class="team-name">${ct.team}</span>
+            <span class="team-tag">[${ct.tag}] · ${ct.pos}</span>
+          </div>
+          <div class="section-label">${ct.division}</div>
+        </div>
+      `).join('')
+    : '<div style="color:var(--muted);margin-bottom:20px;">Free Agent</div>';
 
   container.innerHTML = `
     <div style="max-width:640px;margin:0 auto;">
@@ -674,16 +702,9 @@ function renderPlayerPage(riotId) {
       <div style="margin-bottom:20px;">
         ${role ? `<span class="role-pill ${roleClass(role)}">${role}</span>` : '<span class="role-pill none">Sem role</span>'}
       </div>
-      ${currentTeam ? `
-        <div class="team-card" style="margin-bottom:20px;">
-          <div class="team-header">
-            <span class="team-name">${currentTeam.team}</span>
-            <span class="team-tag">[${currentTeam.tag}] · ${currentPos}</span>
-          </div>
-          <div class="section-label">${currentTeam.division}</div>
-        </div>
-      ` : '<div style="color:var(--muted);margin-bottom:20px;">Free Agent</div>'}
-      <h3 style="margin-bottom:8px;">Histórico de movimentações</h3>
+      <h3 style="margin-bottom:8px;">Times atuais</h3>
+      ${teamsHtml}
+      <h3 style="margin:20px 0 8px;">Histórico de movimentações</h3>
       <div class="transfers">${history || '<div class="empty-msg">Nenhuma movimentação registrada.</div>'}</div>
     </div>
   `;
