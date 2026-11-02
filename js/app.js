@@ -715,11 +715,11 @@ function renderPlayerPage(riotId) {
 
   const socialHtml = (xHandle || igHandle || dcHandle) ? `
     <div style="display:flex;gap:12px;margin:16px 0;align-items:center;">
-      ${xHandle ? `<a href="https://x.com/${xHandle}" target="_blank" title="@${xHandle}"><img src="https://cdn.simpleicons.org/x/ffffff" width="20" height="20" alt="X"></a>` : ''}
-      ${igHandle ? `<a href="https://instagram.com/${igHandle}" target="_blank" title="@${igHandle}"><img src="https://cdn.simpleicons.org/instagram/ffffff" width="20" height="20" alt="Instagram"></a>` : ''}
+      ${xHandle ? `<a href="https://x.com/${xHandle}" target="_blank" title="X"><img src="https://cdn.simpleicons.org/x/ffffff" width="20" height="20" alt="X"></a>` : ''}
+      ${igHandle ? `<a href="https://instagram.com/${igHandle}" target="_blank" title="Instagram"><img src="https://cdn.simpleicons.org/instagram/ffffff" width="20" height="20" alt="Instagram"></a>` : ''}
       ${dcHandle ? `
         <span class="discord-wrap" style="position:relative;display:inline-flex;align-items:center;">
-          <img src="https://cdn.simpleicons.org/discord/ffffff" width="20" height="20" alt="Discord" style="cursor:pointer;">
+          <img src="https://cdn.simpleicons.org/discord/ffffff" width="20" height="20" alt="Discord" style="cursor:pointer;" title="Discord">
           <span class="discord-popup" style="display:none;position:absolute;left:28px;top:50%;transform:translateY(-50%);background:#1e293b;border:1px solid var(--border);border-radius:6px;padding:6px 10px;white-space:nowrap;z-index:10;align-items:center;gap:6px;">
             <span>${dcHandle}</span>
             <button class="copy-discord" data-copy="${dcHandle}" style="background:none;border:none;color:var(--muted);cursor:pointer;padding:2px;display:inline-flex;align-items:center;" title="Copiar">
@@ -774,33 +774,33 @@ renderTeams = function() {
 };
 
 // Discord popup (hover + click)
-// Discord popup (hover + click) and copy
-document.addEventListener('mouseover', (e) => {
-  const wrap = e.target.closest('.discord-wrap');
-  if (wrap) wrap.querySelector('.discord-popup').style.display = 'inline-flex';
-});
-document.addEventListener('mouseout', (e) => {
-  const wrap = e.target.closest('.discord-wrap');
-  if (wrap && !wrap.contains(e.relatedTarget)) {
-    wrap.querySelector('.discord-popup').style.display = 'none';
-  }
-});
+// Discord popup: click to toggle, click outside to close
 document.addEventListener('click', (e) => {
   const wrap = e.target.closest('.discord-wrap');
+  const popup = wrap?.querySelector('.discord-popup');
+
+  // Toggle on Discord icon click
   if (wrap && e.target.tagName === 'IMG') {
-    const popup = wrap.querySelector('.discord-popup');
-    popup.style.display = popup.style.display === 'none' ? 'inline-flex' : 'none';
+    const isOpen = popup.style.display === 'inline-flex';
+    document.querySelectorAll('.discord-popup').forEach(p => p.style.display = 'none');
+    popup.style.display = isOpen ? 'none' : 'inline-flex';
+    return;
   }
 
+  // Copy button
   const btn = e.target.closest('.copy-discord');
   if (btn) {
     const text = btn.dataset.copy;
     navigator.clipboard.writeText(text).then(() => {
       btn.style.color = '#4ade80';
       setTimeout(() => { btn.style.color = 'var(--muted)'; }, 1200);
-    }).catch(() => {
-      alert('Não foi possível copiar.');
-    });
+    }).catch(() => alert('Não foi possível copiar.'));
+    return;
+  }
+
+  // Click outside closes
+  if (!wrap) {
+    document.querySelectorAll('.discord-popup').forEach(p => p.style.display = 'none');
   }
 });
 
