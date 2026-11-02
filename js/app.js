@@ -713,7 +713,13 @@ function renderPlayerPage(riotId) {
     <div style="display:flex;gap:12px;margin:16px 0;">
       ${socials.x ? `<a href="${socials.x}" target="_blank" title="X"><img src="https://cdn.simpleicons.org/x/ffffff" width="20" height="20" alt="X"></a>` : ''}
       ${socials.instagram ? `<a href="${socials.instagram}" target="_blank" title="Instagram"><img src="https://cdn.simpleicons.org/instagram/ffffff" width="20" height="20" alt="Instagram"></a>` : ''}
-      ${socials.discord ? `<span title="Discord: ${socials.discord}"><img src="https://cdn.simpleicons.org/discord/ffffff" width="20" height="20" alt="Discord"> ${socials.discord}</span>` : ''}
+      ${socials.discord ? `
+        <span style="display:inline-flex;align-items:center;gap:6px;" title="Discord">
+          <img src="https://cdn.simpleicons.org/discord/ffffff" width="20" height="20" alt="Discord">
+          <span class="discord-tag">${socials.discord}</span>
+          <button class="copy-discord" data-copy="${socials.discord}" style="background:none;border:none;color:var(--muted);cursor:pointer;font-size:0.85rem;" title="Copiar">📋</button>
+        </span>
+      ` : ''}
     </div>
   ` : '';
 
@@ -756,7 +762,19 @@ renderTeams = function() {
   });
 };
 
-window.addEventListener('hashchange', handleRoute);
+// Copy Discord tag
+document.addEventListener('click', (e) => {
+  const btn = e.target.closest('.copy-discord');
+  if (!btn) return;
+  const text = btn.dataset.copy;
+  navigator.clipboard.writeText(text).then(() => {
+    const original = btn.textContent;
+    btn.textContent = '✓';
+    setTimeout(() => { btn.textContent = original; }, 1200);
+  }).catch(() => {
+    alert('Não foi possível copiar.');
+  });
+});
 
 // Initial load
 loadOverrides();
