@@ -97,7 +97,7 @@ function renderPlayerPage(riotId) {
   const lpUrl = `https://lol.fandom.com/wiki/${encodeURIComponent(lpPage)}`;
   const lpIcon = `
     <a href="${lpUrl}" target="_blank" title="Leaguepedia">
-      <img src="images/icn_sns_leag.svg" width="20" height="20" alt="Leaguepedia">
+      <img src="images/icn_sns_leag.svg" width="24" height="24" alt="Leaguepedia">
     </a>
   `;
 
