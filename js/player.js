@@ -92,13 +92,12 @@ function renderPlayerPage(riotId) {
   const nameHtml = pInfo.name ? `<div style="margin-bottom:4px;"><strong>Nome:</strong> ${pInfo.name}</div>` : '';
   const birthHtml = pInfo.birthdate ? `<div style="margin-bottom:12px;"><strong>Nascimento:</strong> ${new Date(pInfo.birthdate).toLocaleDateString('pt-BR')}</div>` : '';
 
-  // Leaguepedia link
-  const lpNick = nick.replace(/\s+/g, '_');
-  const lpUrl = pInfo.leaguepedia || `https://lol.fandom.com/wiki/${encodeURIComponent(lpNick)}`;
-  const lpHtml = `
-    <a href="${lpUrl}" target="_blank" title="Leaguepedia" style="display:inline-flex;align-items:center;gap:4px;background:#1e293b;border:1px solid var(--border);border-radius:6px;padding:4px 8px;font-size:0.8rem;color:var(--text);text-decoration:none;">
-      <img src="https://lol.fandom.com/images/icn_sns_leag.svg" width="16" height="16" alt="Leaguepedia" onerror="this.style.display='none'">
-      Leaguepedia
+  // Leaguepedia link (uses local SVG, supports custom page name)
+  const lpPage = pInfo.leaguepedia || nick.replace(/\s+/g, '_');
+  const lpUrl = `https://lol.fandom.com/wiki/${encodeURIComponent(lpPage)}`;
+  const lpIcon = `
+    <a href="${lpUrl}" target="_blank" title="Leaguepedia">
+      <img src="images/icn_sns_leag.svg" width="20" height="20" alt="Leaguepedia">
     </a>
   `;
 
@@ -107,7 +106,7 @@ function renderPlayerPage(riotId) {
   const igHandle = socials.instagram ? socials.instagram.replace(/^@/, '') : '';
   const dcHandle = socials.discord || '';
 
-  const socialHtml = (xHandle || igHandle || dcHandle) ? `
+  const socialHtml = (xHandle || igHandle || dcHandle || lpIcon) ? `
     <div style="display:flex;gap:12px;margin:16px 0;align-items:center;">
       ${xHandle ? `<a href="https://x.com/${xHandle}" target="_blank" title="X"><img src="https://cdn.simpleicons.org/x/ffffff" width="20" height="20" alt="X"></a>` : ''}
       ${igHandle ? `<a href="https://instagram.com/${igHandle}" target="_blank" title="Instagram"><img src="https://cdn.simpleicons.org/instagram/ffffff" width="20" height="20" alt="Instagram"></a>` : ''}
@@ -125,6 +124,7 @@ function renderPlayerPage(riotId) {
           </span>
         </span>
       ` : ''}
+      ${lpIcon}
     </div>
   ` : '';
 
@@ -133,9 +133,8 @@ function renderPlayerPage(riotId) {
       <a href="#/" style="color:var(--muted);font-size:0.9rem;">← Voltar</a>
       <h2 style="margin:16px 0 4px;">${nick}</h2>
       <div style="color:var(--muted);margin-bottom:16px;">${riotId}</div>
-      <div style="margin-bottom:20px;display:flex;align-items:center;flex-wrap:wrap;gap:8px;">
+      <div style="margin-bottom:20px;">
         ${role ? `<span class="role-pill ${roleClass(role)}">${role}</span>` : '<span class="role-pill none">Sem role</span>'}
-        ${lpHtml}
       </div>
       ${nameHtml}
       ${birthHtml}
