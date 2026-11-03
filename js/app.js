@@ -389,6 +389,7 @@ function renderTransfers() {
 
       const { nick: autoNick } = cleanNickname(m.player);
       const nick = getOverride(m.player).nick || autoNick;
+      const nickLink = `<a href="#/player/${encodeURIComponent(m.player)}" style="color:inherit;text-decoration:none;">${nick}</a>`;
       const sister = getSisterOrg(m.team);
 
       if (pairIdx >= 0) {
@@ -402,16 +403,16 @@ function renderTransfers() {
         const isSister = entrySister && entrySister.some(t => normalizeTeam(exit.team).includes(t) || t.includes(normalizeTeam(exit.team)));
 
         // Entry first
-        let entryText = `<span class="player-name">${nick}</span> <span class="action">entra.</span>`;
+        let entryText = `<span class="player-name">${nickLink}</span> <span class="action">entra.</span>`;
         if (isSister) {
-          entryText = `<span class="player-name">${nick}</span> <span class="action">entra</span> da equipe irmã <strong>${exit.team}</strong>.`;
+          entryText = `<span class="player-name">${nickLink}</span> <span class="action">entra</span> da equipe irmã <strong>${exit.team}</strong>.`;
         }
         lines.push({ type: 'in', tag: entry.tag || entry.team.slice(0, 4).toUpperCase(), text: entryText });
 
         // Exit below
-        let exitText = `<span class="player-name">${nick}</span> <span class="action">sai.</span>`;
+        let exitText = `<span class="player-name">${nickLink}</span> <span class="action">sai.</span>`;
         if (isSister) {
-          exitText = `<span class="player-name">${nick}</span> <span class="action">sai</span> para a equipe irmã <strong>${entry.team}</strong>.`;
+          exitText = `<span class="player-name">${nickLink}</span> <span class="action">sai</span> para a equipe irmã <strong>${entry.team}</strong>.`;
         }
         lines.push({ type: 'out', tag: exit.tag || exit.team.slice(0, 4).toUpperCase(), text: exitText });
       } else {
@@ -420,19 +421,19 @@ function renderTransfers() {
         let type = 'role';
         if (m.movement === 'Entrou') {
           type = 'in';
-          text = `<span class="player-name">${nick}</span> <span class="action">entra.</span>`;
+          text = `<span class="player-name">${nickLink}</span> <span class="action">entra.</span>`;
           if (m.detail && m.detail.toLowerCase().includes('como reserva')) text += ' <span class="sister-note">(reserva)</span>';
         } else if (m.movement === 'Saiu') {
           type = 'out';
-          text = `<span class="player-name">${nick}</span> <span class="action">sai.</span>`;
+          text = `<span class="player-name">${nickLink}</span> <span class="action">sai.</span>`;
           if (m.detail && m.detail.toLowerCase().includes('foi para')) {
             const dest = m.detail.replace(/foi para /i, '').replace(/ \(.*\)/, '');
-            text = `<span class="player-name">${nick}</span> <span class="action">sai</span> para ${dest}.`;
+            text = `<span class="player-name">${nickLink}</span> <span class="action">sai</span> para ${dest}.`;
           }
         } else if (m.movement === 'Virou titular') {
-          text = `<span class="player-name">${nick}</span> <span class="action">virou titular.</span>`;
+          text = `<span class="player-name">${nickLink}</span> <span class="action">virou titular.</span>`;
         } else if (m.movement === 'Virou reserva') {
-          text = `<span class="player-name">${nick}</span> <span class="action">virou reserva.</span>`;
+          text = `<span class="player-name">${nickLink}</span> <span class="action">virou reserva.</span>`;
         }
         if (text) {
           lines.push({ type, tag: m.tag || m.team.slice(0, 4).toUpperCase(), text });
