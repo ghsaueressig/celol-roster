@@ -272,6 +272,11 @@ function renderTeams() {
   }).join('');
 }
 
+function renderAll() {
+  renderTeams();
+  renderTransfers();
+}
+
 function renderTransfers() {
   const container = document.getElementById('transfersContainer');
   if (!state.movements.length) {
