@@ -718,6 +718,16 @@ function renderPlayerPage(riotId) {
   const nameHtml = pInfo.name ? `<div style="margin-bottom:4px;"><strong>Nome:</strong> ${pInfo.name}</div>` : '';
   const birthHtml = pInfo.birthdate ? `<div style="margin-bottom:12px;"><strong>Nascimento:</strong> ${new Date(pInfo.birthdate).toLocaleDateString('pt-BR')}</div>` : '';
 
+  // Leaguepedia link
+  const lpNick = nick.replace(/\s+/g, '_');
+  const lpUrl = pInfo.leaguepedia || `https://lol.fandom.com/wiki/${encodeURIComponent(lpNick)}`;
+  const lpHtml = `
+    <a href="${lpUrl}" target="_blank" title="Leaguepedia" style="display:inline-flex;align-items:center;gap:4px;background:#1e293b;border:1px solid var(--border);border-radius:6px;padding:4px 8px;font-size:0.8rem;color:var(--text);text-decoration:none;">
+      <img src="https://lol.fandom.com/images/icn_sns_leag.svg" width="16" height="16" alt="Leaguepedia" onerror="this.style.display='none'">
+      Leaguepedia
+    </a>
+  `;
+
   const socials = pInfo.socials || {};
   const xHandle = socials.x ? socials.x.replace(/^@/, '') : '';
   const igHandle = socials.instagram ? socials.instagram.replace(/^@/, '') : '';
