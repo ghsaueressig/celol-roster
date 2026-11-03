@@ -92,14 +92,12 @@ function renderPlayerPage(riotId) {
   const nameHtml = pInfo.name ? `<div style="margin-bottom:4px;"><strong>Nome:</strong> ${pInfo.name}</div>` : '';
   const birthHtml = pInfo.birthdate ? `<div style="margin-bottom:12px;"><strong>Nascimento:</strong> ${new Date(pInfo.birthdate).toLocaleDateString('pt-BR')}</div>` : '';
 
-  // Leaguepedia link (uses local SVG, supports custom page name)
-  const lpPage = pInfo.leaguepedia || nick.replace(/\s+/g, '_');
-  const lpUrl = `https://lol.fandom.com/wiki/${encodeURIComponent(lpPage)}`;
-  const lpIcon = `
-    <a href="${lpUrl}" target="_blank" title="Leaguepedia">
+  // Leaguepedia link (only if explicitly set in players.json)
+  const lpIcon = pInfo.leaguepedia ? `
+    <a href="https://lol.fandom.com/wiki/${encodeURIComponent(pInfo.leaguepedia)}" target="_blank" title="Leaguepedia">
       <img src="images/icn_sns_leag.svg" width="24" height="24" alt="Leaguepedia">
     </a>
-  `;
+  ` : '';
 
   const socials = pInfo.socials || {};
   const xHandle = socials.x ? socials.x.replace(/^@/, '') : '';
