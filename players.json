@@ -12,14 +12,16 @@
     "birthdate": "2004-06-03",
     "socials": {
       "x": "@FVinite"
-    }
+    },
+    "leaguepedia": "Vinite"
   },
   "GEENA#66666": {
     "name": "Douglas",
     "birthdate": "2006-05-16",
     "socials": {
       "x": "@geena_gne"
-    }
+    },
+    "leaguepedia": "Geena"
   },
   "Trader#1234": {
     "name": "Luan Almeida Batista",
@@ -38,6 +40,7 @@
   },
   "Itoshi LANEKING#sae": {
     "name": "André Gualberto Peixoto",
+    "leaguepedia": "Itoshi",
     "birthdate": "2008-12-18",
     "socials": {
       "x": "@Itoshilol1"
@@ -48,14 +51,16 @@
     "birthdate": "1997-11-07",
     "socials": {
       "x": "@Alveslol1"
-    }
+    },
+    "leaguepedia": "Alves"
   },
   "beta32#ISA": {
     "name": "Felipe Alejandro Ortiz Carreno",
     "birthdate": "2004-01-04",
     "socials": {
       "x": "@betathirtytwo"
-    }
+    },
+    "leaguepedia": "Beta32"
   },
   "Genos#BIG": {
     "name": "Leonardo Wimmer de Macedo",
@@ -70,24 +75,28 @@
     "birthdate": "2005-02-28",
     "socials": {
       "x": "@Kairos748"
-    }
+    },
+    "leaguepedia": "Coxinha748"
   },
   "sant#0803": {
     "name": "Matheus Santana",
     "birthdate": "2003-08-09",
     "socials": {
       "x": "@sant__lol"
-    }
+    },
+    "leaguepedia": "Sant"
   },
   "fer1#safi": {
     "name": "Fernando Tadeu Reis de Barros",
     "birthdate": "2002-12-01",
     "socials": {
       "x": "@fer1lol"
-    }
+    },
+    "leaguepedia": "Fer1"
   },
   "ebidi EMBRAZADO#nu ze": {
     "name": "Henrique Werneck",
+    "leaguepedia": "ebidi"
     "socials": {
       "x": "@ebidibre"
     }
@@ -97,52 +106,60 @@
     "birthdate": "2005-02-10",
     "socials": {
       "x": "@tiago_tiran"
-    }
+    },
+    "leaguepedia": "TiRAn"
   },
   "Ophelia wilde#Saad": {
     "name": "Vitor Adriano",
     "birthdate": "2005-11-10",
     "socials": {
       "x": "@vtrSaad"
-    }
+    },
+    "leaguepedia": "Saad"
   },
   "Dark Harvest#win": {
     "name": "Felipe Godoi Cirino",
     "birthdate": "2004-06-26",
     "socials": {
       "x": "@DarkHarvest26"
-    }
+    },
+    "leaguepedia": "DarkHarvest"
   },
   "Humi#iwnl": {
     "name": "Samuel Nascimento dos Santos",
     "birthdate": "2007-11-22",
     "socials": {
       "x": "@ItshumiL"
-    }
+    },
+    "leaguepedia": "Humi"
   },
   "Velthan#sup": {
     "name": "Nathan Vizoto Espíndola Luz",
     "birthdate": "2004-09-15",
     "socials": {
       "x": "@velthanlol1"
-    }
+    },
+    "leaguepedia": "Velthan"
   },
   "Moita#Coach": {
     "name": "Calid Tavares Reis",
     "birthdate": "2000-07-19",
     "socials": {
       "x": "@CoachMoita"
-    }
+    },
+    "leaguepedia": "Moita"
   },
   "Aloprasprimemode#goat": {
     "name": "Eduardo Colares de Faria Silva",
     "birthdate": "2008-11-27",
     "socials": {
       "x": "@eduardocfs"
-    }
+    },
+    "leaguepedia": "Alopras"
   },
   "Eradan2#Dan2": {
     "name": "André Aparecido dos Santos",
+    "leaguepedia": "Eradan"
     "birthdate": "1999-06-28",
     "socials": {
       "x": "@Eradanlol"
@@ -161,7 +178,8 @@
     "birthdate": "2008-08-26",
     "socials": {
       "x": "@andyse_11"
-    }
+    },
+    "leaguepedia": "Andyse"
   },
   "rosayuzzy#pinky": {
     "name": "Davi Luiz Lebarbenchon",
@@ -176,14 +194,16 @@
     "birthdate": "2004-05-11",
     "socials": {
       "x": "@kaikslol"
-    }
+    },
+    "leaguepedia": "Kaiks"
   },
   "delighted byron#peak": {
     "name": "Filipe de Moura Affonso",
     "birthdate": "2005-03-02",
     "socials": {
       "x": "@filibyron"
-    }
+    },
+    "leaguepedia": "Byron"
   },
   "ig meunorth#segue": {
     "name": "Lucas Bonatti",
@@ -197,14 +217,16 @@
     "birthdate": "2006-07-01",
     "socials": {
       "x": "@Nihil_lol1"
-    }
+    },
+    "leaguepedia": "Nihil"
   },
   "matheuzin#18y": {
     "name": "Matheus Yuri da Silva",
     "birthdate": "2008-02-21",
     "socials": {
       "x": "@matheuzin_riyu"
-    }
+    },
+    "leaguepedia": "Matheuzin"
   },
   "Void#isagi": {
     "name": "Gabriel Henrique Cruz Oliveira",
@@ -217,6 +239,7 @@
   "Shikamaru#vidal": {
     "name": "Luci Chame Vidal",
     "birthdate": "2004-04-07",
+    "leaguepedia": "Vidal",
     "socials": {
       "x": "@vidallol_"
     }
@@ -226,24 +249,28 @@
     "birthdate": "2000-09-06",
     "socials": {
       "x": "@louriszz"
-    }
+    },
+    "leaguepedia": "Louris"
   },
   "Dazai Ryuu#Klein": {
     "name": "Eric Machado Barros",
     "birthdate": "2001-05-21",
     "socials": {
       "x": "@Klein_lern"
-    }
+    },
+    "leaguepedia": "Klein"
   },
   "hotpie#0802": {
     "name": "Jucianio Junior",
     "birthdate": "2007-02-08",
     "socials": {
       "x": "@JucianioJ"
-    }
+    },
+    "leaguepedia": "HotPie"
   },
   "VOA RIP EDMAERIN#BR2": {
     "name": "Kevin Andrés Santana Caballero",
+    "leaguepedia": "Janavi",
     "birthdate": "2006-07-10",
     "socials": {
       "x": "@1hanabilol"
@@ -254,10 +281,12 @@
     "birthdate": "2007-06-20",
     "socials": {
       "x": "@ivaDlvs"
-    }
+    },
+    "leaguepedia": "IvaD"
   },
   "ZEUSKHANSHYSIWOO#TOP": {
     "name": "Thiago Alex Nauta Chernhak",
+    "leaguepedia": "Tiscky",
     "birthdate": "2008-10-16",
     "socials": {
       "x": "@Tisckyy"
@@ -267,37 +296,43 @@
     "name": "Ramiro Fasolo",
     "socials": {
       "x": "@FasoloRamiro"
-    }
+    },
+    "leaguepedia": "Fasolo"
   },
   "Dhominik#GOAT": {
     "name": "Carlos Lacerda de Santana",
     "birthdate": "2006-12-01",
     "socials": {
       "x": "@Dhominiklol"
-    }
+    },
+    "leaguepedia": "Dhominik"
   },
   "NARO#AD333": {
     "name": "Leonardo Henrique dos Santos",
     "socials": {
       "x": "@leozin_underage"
-    }
+    },
+    "leaguepedia": "Naro"
   },
   "fietz#KR2": {
     "name": "Gabriel Cole",
     "birthdate": "2002-04-30",
     "socials": {
       "x": "@fietzlol"
-    }
+    },
+    "leaguepedia": "Fietz"
   },
   "weiss#miya": {
     "name": "Elizabeth Maita",
     "birthdate": "2002-05-23",
     "socials": {
       "x": "@weisslol1"
-    }
+    },
+    "leaguepedia": "Weiss"
   },
   "Azeez1#juya": {
     "name": "Leonardo Alcântara",
+    "leaguepedia": "Azeez",
     "birthdate": "2009-01-09",
     "socials": {
       "x": "@Azeezlol_"
@@ -307,35 +342,41 @@
     "name": "Kaíque Seixas",
     "socials": {
       "x": "@Zenitelol"
-    }
+    },
+    "leaguepedia": "Zenite"
   },
   "Tragen#leer": {
-    "name": "Hugo Aguiar"
+    "name": "Hugo Aguiar",
+    "leaguepedia": "Tragen"
   },
   "Faizer#000": {
     "name": "Fred Vaz Vieira",
     "birthdate": "2006-10-14",
     "socials": {
       "x": "@OFaizer1"
-    }
+    },
+    "leaguepedia": "Faizer"
   },
   "Kasai#nagi": {
     "name": "Gustavo Rausis",
     "birthdate": "2004-08-28",
     "socials": {
       "x": "@Kasai_ZD"
-    }
+    },
+    "leaguepedia": "Kasai"
   },
   "kennedy#miyah": {
     "name": "João Guilherme de Almeida Veiga",
     "birthdate": "2007-02-18",
     "socials": {
       "x": "@kenNedylol1_"
-    }
+    },
+    "leaguepedia": "KenNedy"
   },
   "Joy Boy#n n n": {
     "name": "Davi Bezerra Loureiro",
     "birthdate": "2006-04-18",
+    "leaguepedia": "Nukenin",
     "socials": {
       "x": "@nukeninlol"
     }
@@ -344,10 +385,12 @@
     "name": "Matheus Eduardo Vanzei Basilio",
     "socials": {
       "x": "@Mercylol77"
-    }
+    },
+    "leaguepedia": "Mercenario"
   },
   "i came back#22222": {
     "name": "Vinicios Eduardo Rocha",
+    "leaguepedia": "Schastye",
     "birthdate": "2006-10-27",
     "socials": {
       "x": "@schastyelol"
@@ -358,42 +401,48 @@
     "birthdate": "2005-10-31",
     "socials": {
       "x": "@HeitorC31"
-    }
+    },
+    "leaguepedia": "Severo"
   },
   "Jun1or#noob": {
     "name": "Lucas Fialho Gonçalves",
     "birthdate": "2004-11-13",
     "socials": {
       "x": "@DrNOOBJr"
-    }
+    },
+    "leaguepedia": "Jun1or"
   },
   "Chinek#lau": {
     "name": "Lauvian Zorsi Heidemann",
     "birthdate": "1996-11-21",
     "socials": {
       "x": "@Lauvian_Chinek"
-    }
+    },
+    "leaguepedia": "Chinek"
   },
   "Lusqueta#루스케타": {
     "name": "Lucas Ian de Oliveira Lima",
     "birthdate": "2002-11-04",
     "socials": {
       "x": "@lusquetalol"
-    }
+    },
+    "leaguepedia": "Lusqueta"
   },
   "Glanks#BR1": {
     "name": "Pedro Henrique Dias",
     "birthdate": "2006-06-19",
     "socials": {
       "x": "@Glanks2"
-    }
+    },
+    "leaguepedia": "Glanks"
   },
   "Linnas#br1": {
     "name": "Gabriel Andrade",
     "birthdate": "1999-08-24",
     "socials": {
       "x": "@Linnaslol"
-    }
+    },
+    "leaguepedia": "Linnas"
   },
   "Sloth#Fool": {
     "name": "Carlos Mateus de Souza Abrahão da Silva",
@@ -406,6 +455,7 @@
   "SBK HadesX 冥#BIXO": {
     "name": "Mauricio Passos Loiola",
     "birthdate": "1999-10-01",
+    "leaguepedia": "HadesX",
     "socials": {
       "x": "@bixolol1_"
     }
@@ -420,7 +470,8 @@
     "birthdate": "2005-10-14",
     "socials": {
       "x": "@havimlol"
-    }
+    },
+    "leaguepedia": "Havim"
   },
   "Raisy#Dex": {
     "name": "Alexis di Angelo Oliveira Mendes",
@@ -431,14 +482,16 @@
     "birthdate": "2005-03-01",
     "socials": {
       "x": "@Xogum_lol"
-    }
+    },
+    "leaguepedia": "Xogum"
   },
   "Prinz#lvg": {
     "name": "Arthur Batista dos Santos",
     "birthdate": "2006-04-25",
     "socials": {
       "x": "@Prinz25_"
-    }
+    },
+    "leaguepedia": "Prinz"
   },
   "Absolute#carry": {
     "name": "Alisson de Sousa Borges",
@@ -453,10 +506,12 @@
     "birthdate": "2003-02-20",
     "socials": {
       "x": "@matsasu"
-    }
+    },
+    "leaguepedia": "Matsasu"
   },
   "makeuhappy#0000": {
     "name": "Miguel Angel Cucho Rivera",
+    "leaguepedia": "DeadlyMark"
     "birthdate": "2006-08-19",
     "socials": {
       "x": "@deadlymarkkk"
@@ -467,13 +522,15 @@
     "birthdate": "2007-04-04",
     "socials": {
       "x": "@HugoOlivei15712"
-    }
+    },
+    "leaguepedia": "Charmander"
   },
   "SBW Itim#085": {
     "name": "Carlos Ítalo Aguiar de Sousa",
     "birthdate": "2002-05-01",
     "socials": {
       "x": "@itim085__"
-    }
+    },
+    "leaguepedia": "Itim"
   }
 }
