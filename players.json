@@ -1,6 +1,7 @@
 {
   "KRATOS#RAGNA": {
     "name": "Dmitry Barboza Maciel Camelo Borba",
+    "leaguepedia": "KRATOS_(Dmitry_Barboza)",
     "birthdate": "1998-07-23",
     "socials": {
       "x": "@KraTos1Lol"
@@ -22,6 +23,7 @@
   },
   "Trader#1234": {
     "name": "Luan Almeida Batista",
+    "leaguepedia": "Trader_(Luan_Almeida)",
     "birthdate": "2005-11-03",
     "socials": {
       "x": "@Traderlol2"
@@ -29,6 +31,7 @@
   },
   "NKZ Reach#SONA": {
     "name": "Miguel Esteves",
+    "leaguepedia": "Reach_(Miguel_Esteves)",
     "socials": {
       "x": "@Reachsona"
     }
@@ -56,11 +59,11 @@
   },
   "Genos#BIG": {
     "name": "Leonardo Wimmer de Macedo",
+    "leaguepedia": "Genos_(Leonardo_Macedo)",
     "birthdate": "2002-09-03",
     "socials": {
       "x": "@genoslol1"
     },
-    "leaguepedia": "Genos_(Leonardo_Macedo)"
   },
   "Coxinha748#Hades": {
     "name": "Felipe de Lima Barros",
@@ -147,6 +150,7 @@
   },
   "guga fighter#001": {
     "name": "Gustavo Bezerra de Oliveira",
+    "leaguepedia": "Guga_(Gustavo_Bezerra)",
     "birthdate": "2004-02-07",
     "socials": {
       "x": "@Gugafighterr"
@@ -161,6 +165,7 @@
   },
   "rosayuzzy#pinky": {
     "name": "Davi Luiz Lebarbenchon",
+    "leaguepedia": "Rosa_(Davi_Luiz)",
     "birthdate": "2005-01-24",
     "socials": {
       "x": "@rosa_lol_1"
@@ -198,11 +203,12 @@
     "name": "Matheus Yuri da Silva",
     "birthdate": "2008-02-21",
     "socials": {
-      "x": "@riyulolzz"
+      "x": "@matheuzin_riyu"
     }
   },
   "Void#isagi": {
     "name": "Gabriel Henrique Cruz Oliveira",
+    "leaguepedia": "Void_(Gabriel_Oliveira)",
     "birthdate": "2004-05-31",
     "socials": {
       "x": "@voidjg_"
@@ -391,6 +397,7 @@
   },
   "Sloth#Fool": {
     "name": "Carlos Mateus de Souza Abrahão da Silva",
+    "leaguepedia": "Sloth_(Carlos_Mateus)",
     "birthdate": "2002-12-26",
     "socials": {
       "x": "@carlosalmacaro"
@@ -405,6 +412,7 @@
   },
   "SBK Ferrari#SUP": {
     "name": "Igor Ferrari",
+    "leaguepedia": "Ferrari_(Igor_Ferrari)",
     "birthdate": "1996-03-13"
   },
   "havim#1014": {
@@ -434,6 +442,7 @@
   },
   "Absolute#carry": {
     "name": "Alisson de Sousa Borges",
+    "leaguepedia": "Absolute_(Alisson_Borges)",
     "birthdate": "2004-06-10",
     "socials": {
       "x": "@absolutecarry_"
