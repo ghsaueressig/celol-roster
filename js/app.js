@@ -678,12 +678,21 @@ function renderPlayerPage(riotId) {
       }${m.role ? ' (' + m.role + ')' : ''}`
     }));
 
+  // Default entry dates when no movement is recorded
+  const DEFAULT_DATES = {
+    'CELOL A': new Date('2026-09-12'),
+    'CELOL B': new Date('2026-09-12'),
+    'CELOL A-playoffs': new Date('2026-10-18'),
+    'CELOL B-playoffs': new Date('2026-10-17'),
+  };
+
   currentTeams.forEach(ct => {
     const hasEntry = historyItems.some(h => h.text.includes(ct.team) && h.text.includes('entrou'));
     if (!hasEntry) {
+      const defaultDate = DEFAULT_DATES[ct.division] || new Date('2026-09-12');
       historyItems.push({
-        date: new Date(0),
-        text: `Atualmente · ${ct.team} [${ct.tag}] · ${ct.pos}${ct.role ? ' (' + ct.role + ')' : ''}`
+        date: defaultDate,
+        text: `${defaultDate.toLocaleDateString('pt-BR')} · ${ct.team} [${ct.tag}] · entrou${ct.role ? ' (' + ct.role + ')' : ''} · ${ct.pos}`
       });
     }
   });
@@ -740,8 +749,9 @@ function renderPlayerPage(riotId) {
       <a href="#/" style="color:var(--muted);font-size:0.9rem;">← Voltar</a>
       <h2 style="margin:16px 0 4px;">${nick}</h2>
       <div style="color:var(--muted);margin-bottom:16px;">${riotId}</div>
-      <div style="margin-bottom:20px;">
+      <div style="margin-bottom:20px;display:flex;align-items:center;flex-wrap:wrap;gap:8px;">
         ${role ? `<span class="role-pill ${roleClass(role)}">${role}</span>` : '<span class="role-pill none">Sem role</span>'}
+        ${lpHtml}
       </div>
       ${nameHtml}
       ${birthHtml}
